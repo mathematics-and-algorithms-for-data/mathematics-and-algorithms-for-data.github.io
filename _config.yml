@@ -1,13 +1,16 @@
 title: Jekyll Bootstrap 4 + Browserify Boilerplate
+brand: Jekyll&Bootstrap
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Starter boilerplate project for Jekyll with Bootstrap 4 and Browserify.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-bootstrap4-boilerplate" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+permalink: ./post/:title
 
 exclude:
   - node_modules
