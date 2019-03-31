@@ -1,74 +1,28 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <meta name="description" content="{{ site.description }}">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bootstrap.min.css">
+    {% include head_includes.html %}
 
     <title>{{ site.title}} : {{ page.title }}</title>
   </head>
 
   <header>
-    <!-- Start NavBar.. -->
-    <nav class="navbar navbar-expand-md navbar-light bg-light">
-      <a class="navbar-brand" href="{{ site.baseurl }}/"><b>{{ site.brand }}</b></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-          {% for item in site.nav_pages %}
-            <a class="nav-item nav-link {% if item.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-          {% endfor %}
-          <a class="nav-item nav-link disabled" href="{{ site.baseurl }}{{ item.url }}">Debug : {{page.url}}</a>
-        </div>
-      </div>
-    </nav>
-    <!-- End NavBar.. -->
-
-    <!-- Start Header.. -->
-      <div class="container m-t-2">
-      <div class="page-header" style="padding-bottom: 9px; margin: 20px 0 20px; border-bottom: 1px solid #eee;">
-
-      <div class="d-none d-sm-block">
-      <div class="row align-items-center">
-          <div class="col-xs-6 col-sm-4 col-md-4 col-lg-3">
-              <img class="img-fluid align-self-start" src="{{ site.baseurl }}{{ site.mugshot }}" alt="Photo of Neill">
-          </div>
-          <div class="col-xs-6 col-sm-8 col-md-8 col-lg-9">
-              <h1 style="text-align: right;">Dr <b>Neill Campbell</b><br><small style="color: #555555;"><b>Royal Society<br class="hidden-md-up d-md-none"> Industry Fellow</b><br class="hidden-xl-up d-xl-none"> and <b>Senior Lecturer</b><br class="hidden-lg-up d-lg-none"> in <b>Visual Computing</b><br class="hidden-xl-up d-xl-none"> and <b>Machine Learning</b></small></h1>
-          </div>
-      </div>
-      </div>
-      <div class="row d-sm-none">
-          <div class="col-xs-12 mx-auto">
-                <img class="img-fluid d-block mx-auto mb-3" width="50%" src="{{ site.baseurl }}{{ site.mugshot }}" alt="Photo of Neill">
-          </div>
-      </div>
-      <div class="row d-sm-none">
-          <div class="col-xs-12 mx-auto">
-              <h2 style="text-align: center;">Dr <b>Neill Campbell</b><br><small style="color: #555555;"><b>Royal Society<br class="hidden-md-up"> Industry Fellow</b><br class="hidden-xl-up"> and <b>Senior Lecturer</b><br class="hidden-lg-up"> in <b>Visual Computing</b><br class="hidden-xl-up"> and <b>Machine Learning</b></small></h2>
-          </div>
-      </div>
-
-      </div>
-      </div>
-    <!-- End Header.. -->
+    {% include navbar.html %}
+    {% include header_full.html %}
   </header>
 
   <body>
     
-    {{ content }}
+    <main role="main" class="container">
+    <!--<div class="container m-t-2">-->
+      {{ content }}
+    <!--</div>-->
+    </main>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="{{ site.baseurl }}/assets/js/jquery-3.3.1.slim.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/popper.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+    <footer class="footer bg-light">
+      {% include footer.html %}
+    </footer>
+
+    {% include scripts.html %}
   </body>
 </html>

@@ -1,0 +1,16 @@
+<!-- Start NavBar.. -->
+<nav class="navbar navbar-expand-md navbar-light bg-light">
+  <a class="navbar-brand" href="{{ site.baseurl }}/"><b class="ndfc-brand">{{ site.brand }}</b></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      {% for item in site.data.navigation.pages %}
+        <a class="nav-item nav-link {% if item.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endfor %}
+      <a class="nav-item nav-link disabled" href="{{ site.baseurl }}{{ item.url }}">Debug : {{page.url}}</a>
+    </div>
+  </div>
+</nav>
+<!-- End NavBar.. -->

@@ -32,16 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-nav_pages:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Research
-    url: /research/
-
-
-
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

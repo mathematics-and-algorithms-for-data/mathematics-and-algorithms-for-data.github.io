@@ -1,0 +1,17 @@
+papers:
+  - title: "Learning Alignments from Latent Space Structures"
+    authors: "Ieva Kazlauskaite and Carl Henrik Ek and Neill D. F. Campbell"
+    venue: "NeurIPS Workshop on Learning in High-Dimensions with Structure" 
+    year: 2016
+    id: "lhds16_alignments"
+    
+  - title: "Roto++: Accelerating Professional Rotoscoping using Shape Manifolds"
+    authors: "Wenbin Li, Fabio Viola, Jonathan Starck, Gabriel J. Brostow and Neill D.F. Campbell"
+    venue: "ACM Transactions on Graphics (SIGGRAPH), vol. 35, no. 4"
+    year: 2016
+    id: "siggraph16_roto"
+  
+
+# [<a href="papers/siggraph16_roto.pdf">pdf</a>]
+# [<a href="papers/siggraph16_roto.bib">bib</a>]
+# [<a href="projects_roto.html">project page</a>]
