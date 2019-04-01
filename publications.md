@@ -28,19 +28,30 @@ permalink: /publications/
 {% assign grouped_papers = site.data.publications.papers | group_by:"year" %}
 {% assign sorted_grouped_papers = grouped_papers | sort: "name" | reverse %}
 {% for group in sorted_grouped_papers %}
-	<h4>{{ group.name }}</h4>
+	<p><b>{{ group.name }}</b></p>
 	{% for item in group.items %}
 	<div class="row align-items-center shadow-sm p-1 mb-3 bg-white rounded border border-light">
 		<div class="col-md-3 col-xl-2 d-none d-md-block">
 			{% if item.id > "" %}
-				<img src="{{ site.baseurl }}/assets/images/papers/icons/{{ item.id }}.png" class="img-fluid" alt="{{ item.id }}" style="width:100%">
+				{% capture custom_image_file %}{{ site.baseurl }}/assets/images/papers/icons/{{ item.id }}.png{% endcapture %}
+				{% capture custom_image_file_exists %}{% file_exists {{ custom_image_file }} %}{% endcapture %}
+				{% if custom_image_file_exists == "true" %}
+					{% assign image_file = custom_image_file %}
+				{% else %}
+					{% capture image_file %}{{ site.baseurl }}/assets/images/papers/icons/{{ item.id }}_pages.png{% endcapture %}
+				{% endif %}
+				<img src="{{ image_file }}" class="img-fluid" alt="{{ item.id }}" style="width:100%">
 			{% endif %}
 		</div>
 		<div class="col-md-9 col-xl-10 col-sm-12">
 			<b>{{ item.title }}</b>, <br class="d-none d-lg-block" />
 			{{ item.authors }}, <br class="d-none d-lg-block" />
 			<i>{{ item.venue }},</i> {{ item.year }}<br />
-			<a href="{{ site.baseurl }}/assets/papers/{{ item.id }}.pdf">[pdf]</a> 
+			{% capture pdf_file %}{{ site.baseurl }}/assets/papers/{{ item.id }}.pdf{% endcapture %}
+			{% capture pdf_file_exists %}{% file_exists {{ pdf_file }} %}{% endcapture %}
+			{% if pdf_file_exists == "true" %}
+				<a href="{{ pdf_file }}">[pdf]</a> 
+			{% endif %}
 		</div>
 	</div>
 	{% endfor %}
