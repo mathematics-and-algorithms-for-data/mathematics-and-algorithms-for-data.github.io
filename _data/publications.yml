@@ -1,21 +1,24 @@
 papers:
   - title: "The GAN that Warped: Semantic Attribute Editing with Unpaired Data"
-    authors: "Garoe Dorta Perez, Sara Vicente, Lourdes Agapito, Neill D. F. Campbell and Ivor Simpson"
+    authors: "Garoe Dorta Perez, Sara Vicente, Neill D. F. Campbell and Ivor Simpson"
     venue: "arXiv e-print"
     year: arXiv
     id: ""
+    arxiv-link: https://arxiv.org/abs/1811.12784
 
   - title: "DP-GP-LVM: A Bayesian Non-Parametric Model for Learning Multivariate Dependency Structures"
     authors: "Andrew Lawrence, Carl Henrik Ek and Neill D. F. Campbell"
     venue: "arXiv e-print"
     year: arXiv
     id: ""
+    arxiv-link: https://arxiv.org/abs/1807.04833
 
   - title: "Latent Gaussian Process Regression"
     authors: "Erik Bodin, Neill D. F. Campbell and Carl Henrik Ek"
     venue: "arXiv e-print"
     year: arXiv
     id: ""
+    arxiv-link: https://arxiv.org/abs/1707.05534
 
   - title: "MegaParallax: Casual 360° Panoramas with Motion Parallax"
     authors: "Tobias Bertel, Neill D. F. Campbell and Christian Richardt"
@@ -27,19 +30,19 @@ papers:
     authors: "Ieva Kazlauskaite, Carl Henrik Ek and Neill D. F. Campbell"
     venue: "Int. Conf. on Artificial Intelligence and Statistics (AISTATS)"
     year: 2019
-    id: ""
+    id: "aistats19_alignments"
 
   - title: "Sequence Alignment with Dirichlet Process Mixtures"
     authors: "Ieva Kazlauskaite, Ivan Ustyuzhaninov, Carl Henrik Ek and Neill D. F. Campbell"
     venue: "NeurIPS Workshop on Bayesian Non-Parametrics"
     year: 2018
-    id: ""
+    id: "bnp18_alignments_dp"
 
   - title: "Gaussian Process Deep Belief Networks: A Smooth Generative Model of Shape with Uncertainty Propagation"
     authors: "Alessandro Di Martino, Erik Bodin, Carl Henrik Ek and Neill D. F. Campbell"
     venue: "Asian Conf. on Computer Vision (ACCV)"
     year: 2018
-    id: ""
+    id: "accv18_gpdbn"
 
   - title: "DiverseNet: When One Right Answer Is Not Enough"
     authors: "Michael Firman, Neill D. F. Campbell, Lourdes Agapito and Gabriel J. Brostow"

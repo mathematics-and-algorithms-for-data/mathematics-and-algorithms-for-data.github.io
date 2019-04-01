@@ -47,10 +47,15 @@ permalink: /publications/
 			<b>{{ item.title }}</b>, <br class="d-none d-lg-block" />
 			{{ item.authors }}, <br class="d-none d-lg-block" />
 			<i>{{ item.venue }},</i> {{ item.year }}<br />
+
 			{% capture pdf_file %}{{ site.baseurl }}/assets/papers/{{ item.id }}.pdf{% endcapture %}
 			{% capture pdf_file_exists %}{% file_exists {{ pdf_file }} %}{% endcapture %}
 			{% if pdf_file_exists == "true" %}
 				<a href="{{ pdf_file }}">[pdf]</a> 
+			{% endif %}
+
+			{% if item.arxiv-link %}
+				<a href="{{ item.arxiv-link }}">[arXiv link]</a> 
 			{% endif %}
 		</div>
 	</div>
