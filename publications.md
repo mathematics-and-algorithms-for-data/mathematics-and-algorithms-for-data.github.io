@@ -33,7 +33,7 @@ permalink: /publications/
 	<div class="row align-items-center shadow-sm p-1 mb-3 bg-white rounded border border-light">
 		<div class="col-md-3 col-xl-2 d-none d-md-block">
 			{% if item.id > "" %}
-				<img src="{{ site.baseurl }}/assets/images/icons/{{ item.id }}.png" class="img-fluid" alt="{{ item.id }}" style="width:100%">
+				<img src="{{ site.baseurl }}/assets/images/papers/icons/{{ item.id }}.png" class="img-fluid" alt="{{ item.id }}" style="width:100%">
 			{% endif %}
 		</div>
 		<div class="col-md-9 col-xl-10 col-sm-12">
