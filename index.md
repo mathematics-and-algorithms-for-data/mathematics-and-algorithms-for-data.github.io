@@ -14,7 +14,7 @@ I am a [Royal Society](https://royalsociety.org) Industry Fellow and work in the
 [University of Bath](http://www.bath.ac.uk/) as a Senior Lecturer (Associate Professor)
 in Computer Vision, Graphics and Machine Learning.
 
-I also hold an Honorary Lecturer position in the Virtual Environments and Computer Graphics Group in the
+I also hold an Honorary Associate Professor position in the Vision, Virtual Environments and Computer Graphics Group in the
 [Department of Computer Science](http://www.cs.ucl.ac.uk/) at
 [University College London](http://www.ucl.ac.uk/)
 where I was formerly a Research Associate working with
