@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_sparse
 title: Publications
 permalink: /publications/
 ---

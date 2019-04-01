@@ -1,8 +1,8 @@
 pages:
   - title: Home
     url: /
-  - title: About
-    url: /about/
+  - title: Group
+    url: /group/
   - title: Research
     url: /research/
   - title: Publications
