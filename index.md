@@ -28,8 +28,8 @@ In particular, I am interested in performing this in an automatic or interactive
 allows these technologies to be put to use in a variety of applications without requiring
 users to have computer vision or graphics expertise. 
 
-I am also interested in Machine Learning problems where data is scarce or expensive to obtain (e.g. annotations from expert clinicians) and when uncertainty in the resulting output is important (e.g. medical applications). This has led to work on unsupervised (or semi-supervised) learning with Bayesian Non-Parametric models, in particular Gaussian Processes.
+I am also interested in machine learning problems where data is scarce or expensive to obtain (e.g. annotations from expert clinicians) and when uncertainty in the resulting output is important (e.g. medical applications). This has led to work on unsupervised (or semi-supervised) learning with Bayesian non-parametric models, in particular Gaussian processes.
 
 
-Further details may be found
-<a href="research.html">here</a> as well as in my <a href="publications.html">publications</a>.
+Further details may be found on my
+<a href="/research/">research page</a> as well as in my <a href="/publications/">publications</a>.

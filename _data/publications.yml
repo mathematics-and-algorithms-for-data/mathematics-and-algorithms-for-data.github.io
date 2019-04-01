@@ -1,4 +1,64 @@
 papers:
+  - title: "MegaParallax: Casual 360° Panoramas with Motion Parallax"
+    authors: "Tobias Bertel, Neill D. F. Campbell and Christian Richardt"
+    venue: "IEEE Transactions on Visualization and Computer Graphics, vol. 25, no. 5"
+    year: 2019
+    id: ""
+
+  - title: "Gaussian Process Latent Variable Alignment Learning"
+    authors: "Ieva Kazlauskaite, Carl Henrik Ek and Neill D. F. Campbell"
+    venue: "Int. Conf. on Artificial Intelligence and Statistics (AISTATS)"
+    year: 2019
+    id: ""
+
+  - title: "Sequence Alignment with Dirichlet Process Mixtures"
+    authors: "Ieva Kazlauskaite, Ivan Ustyuzhaninov, Carl Henrik Ek and Neill D. F. Campbell"
+    venue: "NeurIPS Workshop on Bayesian Non-Parametrics"
+    year: 2018
+    id: ""
+
+  - title: "Gaussian Process Deep Belief Networks: A Smooth Generative Model of Shape with Uncertainty Propagation"
+    authors: "Alessandro Di Martino, Erik Bodin, Carl Henrik Ek and Neill D. F. Campbell"
+    venue: "Asian Conf. on Computer Vision (ACCV)"
+    year: 2018
+    id: ""
+
+  - title: "DiverseNet: When One Right Answer Is Not Enough"
+    authors: "Michael Firman and Neill D. F. Campbell and Lourdes Agapito and Gabriel J. Brostow"
+    venue: "IEEE Conf.~on Computer Vision and Pattern Recognition (CVPR)"
+    year: 2018
+    id: ""
+
+  - title: "Structured Uncertainty Prediction Networks"
+    authors: "Garoe Dorta Perez and Sara Vicente and Lourdes Agapito and Neill D. F. Campbell and Ivor Simpson"
+    venue: "IEEE Conf.~on Computer Vision and Pattern Recognition (CVPR)"
+    year: 2018
+    id: ""
+
+  - title: "Latent Structure Learning using Gaussian and Dirichlet Processes"
+    authors: "Andrew Lawrence and Carl Henrik Ek and Neill D. F. Campbell"
+    venue: "NeurIPS Workshop on Advances in Modelling and Learning Interactions from Complex Data"
+    year: 2017
+    id: ""
+
+  - title: "Nonparametric Inference for Auto-Encoding Variational Bayes"
+    authors: "Erik Bodin and Iman Malik and Carl Henrik Ek and Neill D. F. Campbell"
+    venue: "NeurIPS Workshop on Advances in Approximate Bayesian Inference"
+    year: 2017
+    id: ""
+
+  - title: "Laplacian Pyramid of Conditional Variational Autoencoders"
+    authors: "Garoe Dorta Perez and Sara Vicente and Lourdes Agapito and Neill D. F. Campbell and Simon Prince and Ivor Simpson"
+    venue: "European Conf. on Visual Media Production (CVMP)"
+    year: 2017
+    id: ""
+
+  - title: "Responsive Action-based Video Synthesis"
+    authors: "Corneliu Ilisescu, Halil Aytac Kanaci, Matteo Romagnoli, Neill D. F. Campbell and Gabriel J. Brostow"
+    venue: "ACM CHI Conf. on Human Factors in Computing Systems"
+    year: 2017
+    id: ""
+
   - title: "Learning Alignments from Latent Space Structures"
     authors: "Ieva Kazlauskaite and Carl Henrik Ek and Neill D. F. Campbell"
     venue: "NeurIPS Workshop on Learning in High-Dimensions with Structure" 
@@ -10,7 +70,96 @@ papers:
     venue: "ACM Transactions on Graphics (SIGGRAPH), vol. 35, no. 4"
     year: 2016
     id: "siggraph16_roto"
-  
+
+  - title: "Reading Between the Dots: Combining 3D Markers and FACS Classification for High-Quality Blendshape Facial Animation"
+    authors: "Shridhar Ravikumar and Colin Davidson and Dmitry Kit and Neill D. F. Campbell and Luca Benedetti and Darren Cosker"
+    venue: "Graphics Interface (GI)"
+    year: 2016
+    id: ""
+
+  - title: "Fitting Quadrics with a Bayesian Prior"
+    authors: "Daniel Beale and Yong-Liang Yang and Darren Cosker and Neill D. F. Campbell and Peter Hall"
+    venue: "Computational Visual Media (CVM), vol. 2, no. 2"
+    year: 2015
+    id: ""
+
+  - title: "Dense, Direct and Deformable: Non-Rigid 3D Reconstruction from RGB Video"
+    authors: "Rui Yu and Chris Russell and Neill D. F. Campbell and Lourdes Agapito"
+    venue: "IEEE Int. Conf. on Computer Vision (ICCV)"
+    year: 2015
+    id: ""
+
+  - title: "Modeling Object Appearance using Context-Conditioned Component Analysis"
+    authors: "Daniyar Turmukhambetov and Neill D. F. Campbell and Simon Prince and Jan Kautz"
+    venue: "IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)"
+    year: 2015
+    id: ""
+
+  - title: "Interactive Sketch-Driven Image Synthesis"
+    authors: "Daniyar Turmukhambetov and Neill D. F. Campbell and Dan Goldman and Jan Kautz"
+    venue: "Computer Graphics Forum (CGF), vol. 34, no. 8"
+    year: 2015
+    id: ""
+
+  - title: "Learning a Manifold of Fonts"
+    authors: "Neill D. F. Campbell and Jan Kautz"
+    venue: "ACM Transactions on Graphics (SIGGRAPH), vol. 33, no. 4"
+    year: 2014
+    id: ""
+
+  - title: "User Directed Multi-View Stereo"
+    authors: "Yotam Doron and Neill D. F. Campbell and Jon Starck and Jan Kautz"
+    venue: "ACCV Workshop on User-Centred Computer Vision"
+    year: 2014
+    id: ""
+
+  - title: "Hierarchical Subquery Evaluation for Active Learning on a Graph"
+    authors: "Oisin Mac Aodha, Neill D. F. Campbell, Jan Kautz and Gabriel J. Brostow"
+    venue: "IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)"
+    year: 2014
+    id: ""
+
+  - title: "Fully-Connected CRFs with Non-Parametric Pairwise Potentials"
+    authors: "Neill D. F. Campbell, Kartic Subr and Jan Kautz"
+    venue: "IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)"
+    year: 2013
+    id: ""
+
+  - title: "Patch Based Synthesis for Single Depth Image Super-Resolution"
+    authors: "Oisin Mac Aodha, Neill D. F. Campbell, Arun Nair and Gabriel J. Brostow"
+    venue: "European Conf. on Computer Vision (ECCV)"
+    year: 2012
+    id: ""
+
+  - title: "Automatic Object Segmentation from Calibrated Images"
+    authors: "Neill D. F. Campbell and George Vogiatzis and Carlos Hernández and Roberto Cipolla"
+    venue: "European Conf. on Visual Media Production (CVMP)"
+    year: 2011
+    id: ""
+
+  - title: "Automatic 3D Object Segmentation in Multiple Views using Volumetric Graph-Cuts"
+    authors: "Neill D. F. Campbell and George Vogiatzis and Carlos Hernández and Roberto Cipolla"
+    venue: "Image and Vision Computing, vol. 28, no. 1"
+    year: 2010
+    id: ""
+
+  - title: "Using Multiple Hypotheses to Improve Depth-Maps for Multi-View Stereo"
+    authors: "Neill D. F. Campbell and George Vogiatzis and Carlos Hernández and Roberto Cipolla"
+    venue: "European Conf. on Computer Vision (ECCV)"
+    year: 2008
+    id: ""
+
+  - title: "Automatic 3D Object Segmentation in Multiple Views using Volumetric Graph-Cuts"
+    authors: "Neill D. F. Campbell and George Vogiatzis and Carlos Hernández and Roberto Cipolla"
+    venue: "British Machine Vision Conf. (BMVC)"
+    year: 2007
+    id: ""
+
+  # - title: ""
+  #   authors: ""
+  #   venue: ""
+  #   year: 201
+  #   id: ""
 
 # [<a href="papers/siggraph16_roto.pdf">pdf</a>]
 # [<a href="papers/siggraph16_roto.bib">bib</a>]
