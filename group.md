@@ -14,7 +14,7 @@ I have a long-term collaboration with [Dr Carl Henrik Ek](http://carlhenrik.com)
 
 In addition, I also have a long-term collaboration with [Prof. Gabriel Brostow](http://www0.cs.ucl.ac.uk/staff/g.brostow/) and [Prof. Lourdes Agapito](http://www0.cs.ucl.ac.uk/staff/l.agapito/) at University College London where I am an Honorary Associate Professor.
 
-<div><!-- class="container">-->
+<div class="container no-gutters pl-0 pr-0">
 {% assign grouped_people = site.data.group.people | group_by:"category" %}
 {% assign sorted_grouped_people = grouped_people | sort: "name" %}
 {% for group in sorted_grouped_people %}
@@ -28,16 +28,17 @@ In addition, I also have a long-term collaboration with [Prof. Gabriel Brostow](
 		{% assign skip=true %}
 	{% endcase %}
 	{% unless skip %}
-		<div class="row">
+		<div class="row no-gutters"><!-- no-gutters mx-auto">-->
 		{% for item in group.items %}
-		<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 mb-2">
-		<div class="card mx-auto" style="max-width: 250px;">
+		<div class="mb-2 ml-1 mr-1 mx-auto mx-sm-left col-xs-auto"><!-- col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-3">-->
+		<div class="card mx-auto" style="max-width: 200px;">
 		  	{% if item.id > "" %}
 				{% capture image_file %}{{ site.baseurl }}/assets/images/mugshots/{{ item.id }}.jpg{% endcapture %}
 				<img src="{{ image_file }}" class="card-img-top" alt="{{ item.id }}" style="width:100%">
 			{% endif %}
 		  <div class="card-body">	
-		    <h5 class="card-title">{{ item.name }}</h5>
+		    <h5 class="card-title mb-1">{{ item.name }}</h5>
+		    <p class="text-muted mb-2 mt-0">{{ item.location }}</p>
 		    <p class="card-text">{{ item.topic }}</p>
 		    <!--<h6 class="card-subtitle mb-2 text-muted">Links</h6>-->
 		    {% if item.url > "" %}

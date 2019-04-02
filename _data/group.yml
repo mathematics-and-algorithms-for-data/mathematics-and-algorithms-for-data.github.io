@@ -3,6 +3,7 @@ people:
     id: alessandro
     category: pgr
     topic: Learning smooth shape manifolds using Gaussian processes and stochastic networks
+    location: University of Bath
     url: https://researchportal.bath.ac.uk/en/persons/alessandro-di-martino
 
   - name: Garoe Dorta Perez
@@ -10,15 +11,26 @@ people:
     category: pgr
     topic: Working on deep generative models for images, in particular for faces
     url: http://people.bath.ac.uk/gdp24/
+    location: University of Bath
     github: https://github.com/Garoe
 
-  - name: Neill Campbell
-    id: neill
+  - name: Erik Bodin
+    id: erik
     category: pgr
-    url: https://researchportal.bath.ac.uk/en/persons/neill-campbell
+    topic: Working on Gaussian process models including their application to Baysian optimisation
+    url: https://www.linkedin.com/in/stigerikbodin/
+    location: University of Bristol
+
+  - name: Adwaye Rambojun
+    id: adwaye
+    category: pgr
+    topic: Working on automated analysis of x-ray images using shape models
+    url: 
+    location: University of Bath (SAMBa CDT)
 
   - name: Yiming Wang
     id: yiming
     category: pdra
     topic: Automated analysis of microscopy images for detecting malarial parasites
+    location: University of Bath
     url: 
