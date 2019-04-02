@@ -5,7 +5,20 @@ people:
     topic: Learning smooth shape manifolds using Gaussian processes and stochastic networks
     url: https://researchportal.bath.ac.uk/en/persons/alessandro-di-martino
 
-  - name: Alessandro Di Martino
-    id: alessandro
+  - name: Garoe Dorta Perez
+    id: garoe
     category: pgr
-    url: https://researchportal.bath.ac.uk/en/persons/alessandro-di-martino
+    topic: Working on deep generative models for images, in particular for faces
+    url: http://people.bath.ac.uk/gdp24/
+    github: https://github.com/Garoe
+
+  - name: Neill Campbell
+    id: neill
+    category: pgr
+    url: https://researchportal.bath.ac.uk/en/persons/neill-campbell
+
+  - name: Yiming Wang
+    id: yiming
+    category: pdra
+    topic: Automated analysis of microscopy images for detecting malarial parasites
+    url: 
