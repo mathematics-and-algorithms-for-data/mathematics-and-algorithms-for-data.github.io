@@ -1,6 +1,9 @@
 <!-- Start NavBar.. -->
 <nav class="navbar navbar-expand-md navbar-light bg-light">
   <a class="navbar-brand" href="{{ site.baseurl }}/"><b class="ndfc-brand">{{ site.brand }}</b></a>
+  <div class="d-xs-block d-md-none">
+    <a class="nav-item nav-link p-0" href="https://www.bath.ac.uk/"><img height="34" class="d-inline-block align-top" alt="" src="{{ site.baseurl }}/assets/images/logos/bath-logo.png"></a>
+  </div>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -9,8 +12,14 @@
       {% for item in site.data.navigation.pages %}
         <a class="nav-item nav-link {% if item.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       {% endfor %}
-      <a class="nav-item nav-link disabled" href="{{ site.baseurl }}{{ item.url }}">Debug : {{page.url}}</a>
+      <a class="d-none d-lg-block nav-item nav-link disabled" href="{{ site.baseurl }}{{ item.url }}">Debug : {{page.url}}</a>
     </div>
+  </div>
+  <div class="d-none d-md-block">
+    <a class="nav-item nav-link p-0" href="https://royalsociety.org/"><img height="34" class="d-inline-block align-top" alt="" src="{{ site.baseurl }}/assets/images/logos/rs-logo.png"></a>
+  </div>
+  <div class="d-none d-md-block">
+    <a class="nav-item nav-link p-0 pl-2" href="https://www.bath.ac.uk/"><img height="34" class="d-inline-block align-top" alt="" src="{{ site.baseurl }}/assets/images/logos/bath-logo.png"></a>
   </div>
 </nav>
 <!-- End NavBar.. -->
