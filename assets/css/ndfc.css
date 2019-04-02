@@ -4,22 +4,30 @@
 }
 
 a {
-	color: #6DB3E4;
+	color: #6293A6;/*#6DB3E4;*/
 }
 
 a:hover {
-	color: #3D5B67;
+	color: #3D5B67;/*#3D5B67;*/
 }
 
 /*
 Nice bright orange: EF8232 ; 
 Nice cyan: 77B3CA ;
 
+a
+6DB3E4
+3D5B67
+
 cyan getting darker as you go down..
 6DB3E4
 6293A6
 4C7180
 3D5B67
+
+tf dkblue
+2F508A
+445064
 */
 
 @media (max-width: 575.98px) {

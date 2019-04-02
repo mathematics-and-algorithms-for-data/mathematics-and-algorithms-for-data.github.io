@@ -2,4 +2,10 @@ people:
   - name: Alessandro Di Martino
     id: alessandro
     category: pgr
+    topic: Learning smooth shape manifolds using Gaussian processes and stochastic networks
+    url: https://researchportal.bath.ac.uk/en/persons/alessandro-di-martino
+
+  - name: Alessandro Di Martino
+    id: alessandro
+    category: pgr
     url: https://researchportal.bath.ac.uk/en/persons/alessandro-di-martino
