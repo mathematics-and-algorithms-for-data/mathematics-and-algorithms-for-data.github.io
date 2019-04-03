@@ -55,7 +55,7 @@ body {
 @media (max-width: 575.98px) {
 	body {
 	  /* Margin bottom by footer height */
-	  margin-bottom: 240px;
+	  margin-bottom: 280px;
 	}	
 }
 @media (min-width: 576px) and (max-width: 767.98px) {

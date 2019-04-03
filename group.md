@@ -29,7 +29,8 @@ In addition, I also have a long-term collaboration with [Prof. Gabriel Brostow](
     {% endcase %}
     {% unless skip %}
         <div class="row no-gutters"><!-- no-gutters mx-auto">-->
-        {% for item in group.items %}
+        {% assign sorted_by_name = group.items | sort: "name" %}
+        {% for item in sorted_by_name %}
         <div class="mb-2 ml-1 mr-1 mx-auto mx-sm-left col-xs-auto"><!-- col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-3">-->
         <div class="card mx-auto" style="max-width: 200px;">
             <a data-toggle="collapse" href="#collapse_id_{{ item.id }}">

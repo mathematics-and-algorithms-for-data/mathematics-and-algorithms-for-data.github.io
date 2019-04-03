@@ -32,6 +32,14 @@ people:
     location: University of Bath (SAMBa CDT)
     notes: (with Tony Shardlow and William Tillet)
 
+  - name: David Fernandes
+    id: david
+    category: pgr
+    topic: Working on uncertainty propagation and quantification in machine learning
+    url:
+    location: University of Bath
+    notes: (with Carl Henrik Ek and the National Physical Laboratory)
+
   - name: Yiming Wang
     id: yiming
     category: pdra
