@@ -30,8 +30,14 @@ tf dkblue
 445064
 */
 
+/* Decrease heading sizes */
 @media (max-width: 575.98px) {
 	h1, h2, h3 { text-align: center; }
+	h1 { font-size: 2rem; }
+	h2 { font-size: 1.75rem; }
+	h3 { font-size: 1.5rem; }	
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
 	h1 { font-size: 2rem; }
 	h2 { font-size: 1.75rem; }
 	h3 { font-size: 1.5rem; }	
