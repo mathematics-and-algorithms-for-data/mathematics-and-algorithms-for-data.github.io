@@ -33,16 +33,21 @@ In addition, I also have a long-term collaboration with [Prof. Gabriel Brostow](
         <div class="mb-2 ml-1 mr-1 mx-auto mx-sm-left col-xs-auto"><!-- col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-3">-->
         <div class="card mx-auto" style="max-width: 200px;">
             <a data-toggle="collapse" href="#collapse_id_{{ item.id }}">
-            {% assign image_file_exists="false" %}
-            {% if item.id > "" %}
-                {% capture image_file %}{{ site.baseurl }}/assets/images/mugshots/{{ item.id }}.jpg{% endcapture %}
-                {% capture image_file_exists %}{% file_exists {{ image_file }} %}{% endcapture %}
-            {% endif %}
-            {% if image_file_exists == "true" %}
-                <img src="{{ image_file }}" class="card-img-top" alt="{{ item.id }}" style="width:100%">
-            {% else %}
-                <img src="{{ site.baseurl }}/assets/images/mugshots/missing.jpg" class="card-img-top" alt="{{ item.name }}" style="width:100%">
-            {% endif %}
+            <div class="hovereffect">
+                {% assign image_file_exists="false" %}
+                {% if item.id > "" %}
+                    {% capture image_file %}{{ site.baseurl }}/assets/images/mugshots/{{ item.id }}.jpg{% endcapture %}
+                    {% capture image_file_exists %}{% file_exists {{ image_file }} %}{% endcapture %}
+                {% endif %}
+                {% if image_file_exists == "true" %}
+                    <img src="{{ image_file }}" class="card-img-top" alt="{{ item.id }}" style="width:100%">
+                {% else %}
+                    <img src="{{ site.baseurl }}/assets/images/mugshots/missing.jpg" class="card-img-top" alt="{{ item.name }}" style="width:100%">
+                {% endif %}
+                <div class="overlay">
+                    <h2 class="overlay-text">{{ item.name }}</h2>
+                </div>
+            </div>
             </a>
           <div class="collapse" id="collapse_id_{{ item.id }}">
           <div class="card-body">   
