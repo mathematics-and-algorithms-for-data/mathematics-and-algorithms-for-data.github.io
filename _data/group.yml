@@ -5,6 +5,7 @@ people:
     topic: Learning smooth shape manifolds using Gaussian processes and stochastic networks
     location: University of Bath
     url: https://researchportal.bath.ac.uk/en/persons/alessandro-di-martino
+    notes: (with Carl Henrik Ek)
 
   - name: Garoe Dorta Perez
     id: garoe
@@ -13,6 +14,7 @@ people:
     url: http://people.bath.ac.uk/gdp24/
     location: University of Bath
     github: https://github.com/Garoe
+    notes: (with Ivor Simpson and Sara Vicente)
 
   - name: Erik Bodin
     id: erik
@@ -20,6 +22,7 @@ people:
     topic: Working on Gaussian process models including their application to Baysian optimisation
     url: https://www.linkedin.com/in/stigerikbodin/
     location: University of Bristol
+    notes: (with Carl Henrik Ek)
 
   - name: Adwaye Rambojun
     id: adwaye
@@ -27,6 +30,7 @@ people:
     topic: Working on automated analysis of x-ray images using shape models
     url: 
     location: University of Bath (SAMBa CDT)
+    notes: (with Tony Shardlow and William Tillet)
 
   - name: Yiming Wang
     id: yiming

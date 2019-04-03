@@ -39,7 +39,10 @@ In addition, I also have a long-term collaboration with [Prof. Gabriel Brostow](
 		  <div class="card-body">	
 		    <h5 class="card-title mb-1">{{ item.name }}</h5>
 		    <p class="text-muted mb-2 mt-0">{{ item.location }}</p>
-		    <p class="card-text">{{ item.topic }}</p>
+		    <p class="card-text mb-2 mt-0">{{ item.topic }}</p>
+		    {% if item.notes %}
+		    	<p class=" mb-1 mt-0"><small class="card-text text-muted">{{ item.notes }}</small></p>
+		    {% endif %}
 		    <!--<h6 class="card-subtitle mb-2 text-muted">Links</h6>-->
 		    {% if item.url > "" %}
 		    	<i class="fas fa-home fa-1x" style="color: gray;"></i> <a href="{{ item.url }}" class="card-link">website</a>
