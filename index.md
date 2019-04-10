@@ -6,7 +6,17 @@ layout: default
 title: Home
 ---
 
-# Visual Computing and Machine Learning
+## Statistics, Machine Learning and Numerical Analysis
+
+<div class="row align-items-center">
+	<div class="col-xs-12 mx-auto pt-2 mb-3">
+		<img class="img-fluid align-self-start" src="{{ site.baseurl }}{{ site.mugshot }}" alt="Word Cloud">
+	</div>
+</div>
+
+The centre for Mathematics and Algorithms for Data (MAD) at the [University of Bath](http://www.bath.ac.uk/) is an interdisciplinary group of researchers working at the intersection of Statistics, Machine Learning and Numerical Analysis with a huge range of application areas. Data Scientists use mathematics and computation to extract useful information from data. MAD aims to facilitate dialogue between groups, especially theorists in computer science and mathematics, and develop rigour in the field.
+
+<!--
 
 Welcome to my website.
 I am a [Royal Society](https://royalsociety.org) Industry Fellow and work in the
@@ -33,3 +43,5 @@ I am also interested in machine learning problems where data is scarce or expens
 
 Further details may be found on my
 <a href="/research/">research page</a> as well as in my <a href="/publications/">publications</a>.
+
+-->
