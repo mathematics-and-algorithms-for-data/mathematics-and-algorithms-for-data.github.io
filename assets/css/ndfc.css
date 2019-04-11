@@ -1,14 +1,14 @@
 
 .ndfc-brand {
-	color: #17832D;
+	color: #637939;/*17832D;*/
 }
 
 a {
-	color: #17832D;
+	color: #155E0F;/*17832D;*/
 }
 
 a:hover {
-	color: #155E0F;
+	color: #637939;
 }
 
 /* Decrease heading sizes */

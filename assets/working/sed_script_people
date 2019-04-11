@@ -1,0 +1,5 @@
+cat raw_people | sed -n -e 's|.*img src=\"\([a-zA-Z\/\.]*\).*$|  - img\: \"\1\"|p' -e 's|.*a href=\"\(.*\)\"\>\(.*\)</a>.*|    url: \"\1\"\
+    name:  \"\2\"|p' -e 's|<p>\(.*\)</p>|    topics: \"\1\"|p'
+
+
+cat raw_people | sed -n -e 's|.*img src=\"\([a-zA-Z\/\.]*\).*$|cp -v \"people/people.bath.ac.uk/tjs42/MAD/\1\" ../images/people/|p'

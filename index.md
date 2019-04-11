@@ -32,7 +32,7 @@ We have a wide range of external collaborators including:
 {% assign sorted_by_name = site.data.collaborators.list | sort: "name" %}
 {% for item in sorted_by_name %}
 <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
-	<p><a class="btn btn-dark" role="button" href="{{ item.url }}">{{ item.name }}</a></p>
+	<p><a class="btn btn-secondary" role="button" href="{{ item.url }}">{{ item.name }}</a></p>
 </div>
 {% endfor %}
 </div>

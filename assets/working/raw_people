@@ -1,0 +1,111 @@
+<section class="right-content"><div id="staff"><div class="row main-row"><div class="6u"><section class="left-content"><div><ul class="small-image-list" id="people"><li><img src="images/karim.jpg" class="left" />
+<h4><a href="https://researchportal.bath.ac.uk/en/persons/karim-anaya-izquierdo">Karim Anaya-Izquierdo</a>
+</h4>
+<p>Statistical engineering, geometrical MCMC, distribution theory using geometry, statistical epidemiology</p>
+</li>
+<li><img src="images/bartlett.png" class="left" />
+<h4><a href="https://thestatsgeek.com">Jonathan Bartlett</a>
+</h4>
+<p>Missing data, measurement error, causal inference</p>
+</li>
+<li><img src="images/neill.jpg" class="left" />
+<h4><a href="http://cs.bath.ac.uk/~nc537/">Neill Campbell</a>
+</h4>
+<p>Visual computing, unsupervised learning, Gaussian processes, Bayesian non-parametrics, uncertainty quantification </p>
+</li>
+<li><img src="images/sergey_d.jpg" class="left" />
+<h4><a href="http://people.bath.ac.uk/sd901/">Sergey Dolgov</a>
+</h4>
+<p>Linear and multilinear algebra, tensor-product decompositions</p>
+</li>
+<li><img src="images/matthias.jpg" class="left" />
+<h4><a href="http://people.bath.ac.uk/me549/">Matthias Ehrhardt</a>
+</h4>
+<p>Imaging, machine learning, optimisation</p>
+</li>
+<li><img src="images/beate.jpg" class="left" />
+<h4><a href="https://researchportal.bath.ac.uk/en/persons/beate-ehrhardt">Beate Ehrhardt</a>
+</h4>
+<p>Hypothesis testing, Bayesian statistics,          machine learning, networks, optimal experimental design, causality</p>
+</li>
+<li><img src="images/vangelis.jpg" class="left" />
+<h4><a href="http://people.bath.ac.uk/ee224/">Evangelos Evangelou</a>
+</h4>
+<p>Linear models, geostatistics, time series</p>
+</li>
+<li><img src="images/melina.JPG" class="left" />
+<h4><a href="http://people.bath.ac.uk/mamamf">Melina Freitag</a>
+</h4>
+<p>Numerical linear algebra, inverse problems, data assimilation, model order reduction, iterative methods for eigenvalue problems, Krylov methods and preconditioners</p>
+</li>
+<li><img src="images/silvia.JPG" class="left" />
+<h4><a href="http://people.bath.ac.uk/sg968/">Silvia Gazzola</a>
+</h4>
+<p>Regularization of inverse problems, imaging problems, numerical linear algebra</p>
+</li>
+<li><img src="images/goldabaee.jpg" class="left" />
+<h4><a href="https://mgolbabaee.wordpress.com/">Mohammad Golbabaee</a>
+</h4>
+<p>Machine learning, data science, signal and image processing, low-complexity models, compressed sensing, computational medical imaging and randomised optimisation for large-scale machine learning</p>
+</li>
+<li><img src="images/tom.jpg" class="left" />
+<h4><a href="https://researchportal.bath.ac.uk/en/persons/tom-fincham-haines">Tom Fincham Haines</a>
+</h4>
+<p>Bayesian non-parametrics, graphical models, active learning, directional statistics, density estimation</p>
+</li>
+</ul>
+</div>
+</section>
+</div>
+<div class="6u"><section class="right-content"><div><ul class="small-image-list" id="people"><li><img src="images/kari.png" class="left" />
+<h4><a href="https://researchportal.bath.ac.uk/en/persons/kari-heine">Kari Heine</a>
+</h4>
+<p>Sequential Monte Carlo, parallelism, high-dimensional problems, MCMC, population genetics</p>
+</li>
+<li><img src="images/hook.JPG" class="left" />
+<h4><a href="http://people.bath.ac.uk/jlh75/">James Hook</a>
+</h4>
+<p>Numerical linear algebra, applications of artificial intelligence and autonomous investigators in chemical engineering</p>
+</li>
+<li><img src="images/eike.JPG" class="left" />
+<h4><a href="http://people.bath.ac.uk/em459/">Eike Mueller</a>
+</h4>
+<p>Scientific Computing, massively parallel solvers for PDEs, (Multilevel) Monte Carlo methods, multigrid algorithms</p>
+</li>
+<li><img src="images/nunes.png" class="left" />
+<h4><a href="https://people.bath.ac.uk/man54/homepage.html">Matt Nunes</a>
+</h4>
+<p>Bayesian computation, dimension reduction, image processing, networks, time series, wavelets</p>
+</li>
+<li><img src="images/tiago.png" class="left" />
+<h4><a href="https://skewed.de">Tiago de Paula Peixoto</a>
+</h4>
+<p>Network science, Bayesian inference, statistical physics</p>
+</li>
+<li><img src="images/clarice.png" class="left" />
+<h4><a href="https://researchportal.bath.ac.uk/en/persons/clarice-poon">Clarice Poon</a>
+</h4>
+<p>Compressed sensing, structured regularisation, super resolution, optimisation</p>
+</li>
+<li><img src="images/sandipan.jpg" class="left" />
+<h4><a href="https://researchportal.bath.ac.uk/en/persons/sandipan-roy">Sandipan Roy</a>
+</h4>
+<p>High-dimensional inference, graphical models, machine learning, non-parametric regression, subsampling and parallel optimization methods in big data</p>
+</li>
+<li><img src="images/tonyw.JPG" class="left" />
+<h4><a href="http://people.bath.ac.uk/tjs42">Tony Shardlow</a>
+</h4>
+<p>Stochastic differential equations,  Numerical analysis, Bayesian inverse problems</p>
+</li>
+<li><img src="images/simsek.png" class="left" />
+<h4><a href="https://researchportal.bath.ac.uk/en/persons/%C3%B6zg%C3%BCr-%C5%9Fim%C5%9Fek/">&Ouml;&#x7a;&#x67;&uuml;&#x72;&#x20; &Scedil;&#x69;&#x6d;&scedil;&#x65;&#x6b;</a>
+</h4>
+<p>Reinforcement learning, regularisation, learning from small samples</p>
+</li>
+<li><img src="images/theresa.png" class="left" />
+<h4><a href="https://people.bath.ac.uk/trs35/">Theresa Smith</a>
+</h4>
+<p>Spatial statistics, Bayesian computing, health applications</p>
+</li>
+</ul>
+</div>
