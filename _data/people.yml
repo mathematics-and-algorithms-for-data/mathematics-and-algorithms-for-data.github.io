@@ -11,7 +11,7 @@ faculty:
     url: "http://cs.bath.ac.uk/~nc537/"
     name:  "Neill Campbell"
     topics: "Visual computing, unsupervised learning, Bayesian non-parametrics, uncertainty quantification "
-  - img: "images/sergey"
+  - img: "images/sergey_d.jpg"
     url: "http://people.bath.ac.uk/sd901/"
     name:  "Sergey Dolgov"
     topics: "Linear and multilinear algebra, tensor-product decompositions"
