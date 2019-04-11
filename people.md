@@ -17,7 +17,6 @@ permalink: /people/
         {% if person.img > "" %}
             {% capture image_file %}{{ site.baseurl }}/assets/people/{{ person.img }}{% endcapture %}
             {% assign image_file_exists="true" %}
-            <!--{% capture image_file_exists %}{% file_exists {{ image_file }} %}{% endcapture %}-->
         {% endif %}
         {% if image_file_exists == "true" %}
             <img src="{{ image_file }}" class="pr-3" alt="{{ person.name }}" style="width:100px; float: left;">
