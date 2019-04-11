@@ -1,0 +1,16 @@
+seminars:
+  - title: "Assessing the performance in predicting terrorism in space and time using extreme gradient boosting and geostatistical models"
+    speaker: "Andre Python (University of Oxford)"
+    url: "https://people.bath.ac.uk/kmph20/seminars.html"
+    date: 14:15 26/03/2019
+    location: "CB 3.7"
+  - title: "On Spectral Graph Clustering"
+    speaker: "Carey E. Priebe (Johns Hopkins)"
+    url: "http://people.bath.ac.uk/ma3tcr/cncb_calendar.html"
+    date: 14:15 21/03/2019
+    location: "CB 3.9"
+  - title: "Bayesian inversion by deep learning with applications to tomography"
+    speaker: "Ozan Oktem (Stockholm)"
+    url: "http://people.bath.ac.uk/sg968/NAseminars/naseminar.html"
+    date: 12:15 01/03/2019
+    location: "Wolfson"

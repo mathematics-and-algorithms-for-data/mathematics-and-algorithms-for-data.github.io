@@ -1,0 +1,2 @@
+cat raw_students | sed -ne 's|<li>\(.*\)<\/li>|\1|p' | sed -e 's|<a href.*>\(.*\)<\/a>|\1|' | sed -ne 's|\(.*\) (Working with \(.*\))|  - name: \"\1\"\
+    working: \"\2\"|p'
