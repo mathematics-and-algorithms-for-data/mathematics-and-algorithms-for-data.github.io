@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: Publications
-permalink: /publications/
+permalink: /old_publications/
 ---
 
 # Publications

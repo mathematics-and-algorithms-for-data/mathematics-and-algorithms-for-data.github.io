@@ -24,6 +24,20 @@ We are comprised of a set of academic faculty and research staff and students ac
 
 We organise [seminars](/seminars/) and research [events](/events/) based on our common interests and also host academic and industrial visitors.
 
+## Join the Team!
+
+<p>Would you like to join our research group? We welcome applications and enquiries:
+&nbsp;&nbsp;<a class="btn btn-success d-none d-xl-inline-block" role="button" href="https://www.bath.ac.uk/topics/postgraduate-research/">Interested in a PhD?</a>
+&nbsp;&nbsp;<a class="btn btn-success d-none d-xl-inline-block" role="button" href="mailto:t.shardlow@bath.ac.uk?subject=MAD">Contact us here!</a></p>
+<div class="row no-gutters pt-2 d-xs-block d-xl-none">
+<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+	<p><a class="btn btn-success" role="button" href="https://www.bath.ac.uk/topics/postgraduate-research/">Interested in a PhD?</a></p>
+</div>
+<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+	<p><a class="btn btn-success" role="button" href="mailto:t.shardlow@bath.ac.uk?subject=MAD">Contact us here!</a></p>
+</div>
+</div>
+
 ## Collaborators
 
 We have a wide range of external collaborators including:
