@@ -19,7 +19,7 @@ permalink: /old_publications/
 		<div class="col-md-3 col-xl-2 d-none d-md-block">
 			{% if item.id > "" %}
 				{% capture custom_image_file %}{{ site.baseurl }}/assets/images/papers/icons/{{ item.id }}.png{% endcapture %}
-				{% capture custom_image_file_exists %}{% file_exists {{ custom_image_file }} %}{% endcapture %}
+				{% assign custom_image_file_exists="true" %}
 				{% if custom_image_file_exists == "true" %}
 					{% assign image_file = custom_image_file %}
 				{% else %}
