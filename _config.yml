@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Interdisciplinary Research Centre `Mathematics and Algorithms for Data' 
   studying the theoretical underpinning of Data Science by researchers from 
   the Departments of Mathematics and Computer Science at the University of Bath.
-baseurl: "mad-website" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mad-website" # the subpath of your site, e.g. /blog
+url: "https://ndfcampbell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 wordcloud: "/assets/images/layout/wordcloud_res3.png"
 twitter_username: twitter_TODO
 github_username:  github_TODO
