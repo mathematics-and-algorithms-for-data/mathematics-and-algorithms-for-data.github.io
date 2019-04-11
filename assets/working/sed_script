@@ -1,0 +1,2 @@
+cat raw_collab | sed -ne 's|.*href=\"\(.*\)\">\(.*\)<.*|  - name: \"\2\"\
+    url: \"\1\"|p'

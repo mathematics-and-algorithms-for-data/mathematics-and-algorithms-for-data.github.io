@@ -6,15 +6,36 @@ layout: default
 title: Home
 ---
 
-## Statistics, Machine Learning and Numerical Analysis
-
 <div class="row align-items-center">
-	<div class="col-xs-12 mx-auto pt-2 mb-3">
-		<img class="img-fluid align-self-start" src="{{ site.baseurl }}{{ site.mugshot }}" alt="Word Cloud">
+	<div class="col-xs-12 mx-auto pt-1 mb-3">
+		<img class="img-fluid align-self-start" src="{{ site.baseurl }}{{ site.wordcloud }}" alt="Word Cloud">
 	</div>
 </div>
 
+<!--## Statistics, Machine Learning and Numerical Analysis-->
+
 The centre for Mathematics and Algorithms for Data (MAD) at the [University of Bath](http://www.bath.ac.uk/) is an interdisciplinary group of researchers working at the intersection of Statistics, Machine Learning and Numerical Analysis with a huge range of application areas. Data Scientists use mathematics and computation to extract useful information from data. MAD aims to facilitate dialogue between groups, especially theorists in computer science and mathematics, and develop rigour in the field.
+
+## People
+
+We are comprised of a set of academic faculty and research staff and students across Mathematics, Statistics and Computer Science. Details of our research interests and individual websites can be accessed [here](/people/).
+
+## Activities
+
+We organise [seminars](/seminars/) and research [events](/events/) based on our common interests and also host academic and industrial visitors.
+
+## Collaborators
+
+We have a wide range of external collaborators including:
+
+<div class="row no-gutters pt-2"><!-- no-gutters mx-auto">-->
+{% assign sorted_by_name = site.data.collaborators.list | sort: "name" %}
+{% for item in sorted_by_name %}
+<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+	<p><a class="btn btn-dark" role="button" href="{{ item.url }}">{{ item.name }}</a></p>
+</div>
+{% endfor %}
+</div>
 
 <!--
 

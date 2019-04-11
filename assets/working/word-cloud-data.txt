@@ -1,0 +1,36 @@
+Mathematics
+Mathematics
+Mathematics
+Algorithms
+Algorithms
+Algorithms
+Data
+Data
+Data
+Bayesian
+Non-Parametric Statistics
+Networks
+Graphical Models
+Linear Algebra
+Numerical Approximation
+Differential Equations
+Optimisation
+Markov Chain
+Monte Carlo Methods
+Modelling
+Numerical Analysis
+Optimal Transport
+Compressed Sensing
+Inverse Problems
+Statistical Machine Learning
+Imaging
+Data Assimilation
+Uncertainty Quantification
+Decision Theory
+Bayesian Networks
+Scalable Algorithms
+Neural Networks
+Model-Order Reduction
+Topology
+Algebra
+Geometry

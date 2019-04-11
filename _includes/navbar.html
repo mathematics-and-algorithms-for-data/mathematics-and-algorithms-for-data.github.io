@@ -12,7 +12,7 @@
       {% for item in site.data.navigation.pages %}
         <a class="nav-item nav-link {% if item.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       {% endfor %}
-      <a class="d-none d-lg-block nav-item nav-link disabled" href="{{ site.baseurl }}{{ item.url }}">Debug : {{page.url}}</a>
+      <!--<a class="d-none d-lg-block nav-item nav-link disabled" href="{{ site.baseurl }}{{ item.url }}">Debug : {{page.url}}</a>-->
     </div>
   </div>
   <!--<div class="d-none d-md-block">

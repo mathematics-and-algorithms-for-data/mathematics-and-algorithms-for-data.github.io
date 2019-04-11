@@ -22,9 +22,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   the Departments of Mathematics and Computer Science at the University of Bath.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-mugshot: "/assets/images/layout/wordcloud_trans.png"
-twitter_username: TODO
-github_username:  TODO
+wordcloud: "/assets/images/layout/wordcloud_res3.png"
+twitter_username: twitter_TODO
+github_username:  github_TODO
 
 # Build settings
 markdown: kramdown
@@ -46,3 +46,4 @@ exclude:
   - vendor/ruby/
   - assets/multipagethumb.sh
   - assets/thumbnail_script.sh
+  - assets/working/
