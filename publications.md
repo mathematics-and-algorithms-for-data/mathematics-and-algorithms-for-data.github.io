@@ -31,7 +31,8 @@ permalink: /old_publications/
 	<p><b>{{ group.name }}</b></p>
 	{% for item in group.items %}
 		{% capture pdf_file %}{{ site.baseurl }}/assets/papers/{{ item.id }}.pdf{% endcapture %}
-		{% capture pdf_file_exists %}{% file_exists {{ pdf_file }} %}{% endcapture %}
+		<!--{% capture pdf_file_exists %}{% file_exists {{ pdf_file }} %}{% endcapture %}-->
+		{% assign pdf_file_exists="true" %}
 
 	<div class="row align-items-center shadow-sm p-1 mb-3 bg-white rounded border border-light">
 		<div class="col-md-3 col-xl-2 d-none d-md-block">
