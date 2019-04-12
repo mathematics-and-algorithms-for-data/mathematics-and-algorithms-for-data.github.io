@@ -4,7 +4,7 @@
     year: 2015
 
   - title: "Improving upon the efficiency of complete case analysis when covariates are MNAR"
-    authors: "Jonathan W Bartlett, James R Carpenter, Kate Tilling, Vansteel and Stijn t"
+    authors: "Jonathan W Bartlett, James R Carpenter, Kate Tilling and Stijn Vansteelandt"
     venue: "Biostatistics vol. 15, no. 4"
     year: 2014
 
@@ -60,17 +60,17 @@
     year: 2018
 
   - title: "Likelihood Inference for Large Scale Stochastic Blockmodels With Covariates Based on a Divide-and-Conquer Parallelizable Algorithm With Communication"
-    authors: "S Roy, ipan, Yves Atchadé and George Michailidis"
+    authors: "Sandipan Roy, Yves Atchadé and George Michailidis"
     venue: "J. Comput. Graph. Stat."
     year: 2018
 
   - title: "Change point estimation in high dimensional Markov random-field models"
-    authors: "S Roy, ipan, Yves Atchadé and George Michailidis"
+    authors: "Sandipan Roy, Yves Atchadé and George Michailidis"
     venue: "J. R. Stat. Soc. Series B Stat. Methodol. vol. 79, no. 4"
     year: 2017
 
   - title: "Statistical Inference, Learning and Models in Big Data"
-    authors: "Beate Franke, Jean-François Plante, Ribana Roscher, En-Shiun Annie Lee, Cathal Smyth, Armin Hatefi, Fuqi Chen, Einat Gil, Alex Schwing, er, Aless Selvitella, ro, Michael M Hoffman, Roger Grosse, Dieter Hendricks and Nancy Reid"
+    authors: "Beate Franke, Jean-François Plante, Ribana Roscher, En-Shiun Annie Lee, Cathal Smyth, Armin Hatefi, Fuqi Chen, Einat Gil, Alexander Schwing, Alessandro Selvitella, Michael M Hoffman, Roger Grosse, Dieter Hendricks and Nancy Reid"
     venue: "Int. Stat. Rev. vol. 84, no. 3"
     year: 2016
 
@@ -151,7 +151,7 @@
     year: 2016
 
   - title: "Langevin equations for landmark image registration with uncertainty"
-    authors: "Stephen Marsl,  and Tony Shardlow"
+    authors: "Stephen Marsland and Tony Shardlow"
     venue: "SIAM Imaging Science vol. 10"
     year: 2017
 

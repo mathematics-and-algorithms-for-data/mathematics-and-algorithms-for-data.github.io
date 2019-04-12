@@ -23,7 +23,7 @@ for e in bib_database.entries:
 
 
 	def parse_authors(s):
-		names = remove_braces(s).split('and')
+		names = remove_braces(s).split(' and ')
 		output = ''
 
 		def fix_name(n):
