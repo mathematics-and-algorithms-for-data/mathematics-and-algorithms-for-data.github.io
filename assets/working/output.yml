@@ -1,4 +1,3 @@
-papers:
   - title: "Multiple imputation of covariates by fully conditional specification: Accommodating the substantive model"
     authors: "Jonathan W Bartlett, Shaun R Seaman, Ian R White, James R Carpenter and Alzheimer's Disease Neuroimaging Initiative"
     venue: "Stat. Methods Med. Res. vol. 24, no. 4"
@@ -191,50 +190,3 @@ papers:
     authors: "Tiago P Peixoto"
     venue: "Phys. Rev. X vol. 4, no. 1"
     year: 2014
-
-  - title: "DP-GP-LVM: A Bayesian Non-Parametric Model for Learning Multivariate Dependency Structures"
-    authors: "Andrew Lawrence, Carl Henrik Ek and Neill D. F. Campbell"
-    venue: "arXiv e-print 1807.04833"
-    year: 2019
-    arxiv-link: https://arxiv.org/abs/1807.04833
-
-  - title: "Latent Gaussian Process Regression"
-    authors: "Erik Bodin, Neill D. F. Campbell and Carl Henrik Ek"
-    venue: "arXiv e-print 1707.05534"
-    year: 2017
-    arxiv-link: https://arxiv.org/abs/1707.05534
-
-  - title: "Gaussian Process Latent Variable Alignment Learning"
-    authors: "Ieva Kazlauskaite, Carl Henrik Ek and Neill D. F. Campbell"
-    venue: "Int. Conf. on Artificial Intelligence and Statistics (AISTATS)"
-    year: 2019
-
-  - title: "Sequence Alignment with Dirichlet Process Mixtures"
-    authors: "Ieva Kazlauskaite, Ivan Ustyuzhaninov, Carl Henrik Ek and Neill D. F. Campbell"
-    venue: "NeurIPS Workshop on Bayesian Non-Parametrics"
-    year: 2018
-
-  - title: "Structured Uncertainty Prediction Networks"
-    authors: "Garoe Dorta Perez, Sara Vicente, Lourdes Agapito, Neill D. F. Campbell and Ivor Simpson"
-    venue: "IEEE Conf.~on Computer Vision and Pattern Recognition (CVPR)"
-    year: 2018
-
-  - title: "Latent Structure Learning using Gaussian and Dirichlet Processes"
-    authors: "Andrew Lawrence, Carl Henrik Ek and Neill D. F. Campbell"
-    venue: "NeurIPS Workshop on Advances in Modelling and Learning Interactions from Complex Data"
-    year: 2017
-
-  - title: "Nonparametric Inference for Auto-Encoding Variational Bayes"
-    authors: "Erik Bodin, Iman Malik, Carl Henrik Ek and Neill D. F. Campbell"
-    venue: "NeurIPS Workshop on Advances in Approximate Bayesian Inference"
-    year: 2017
-
-  # - title: ""
-  #   authors: ""
-  #   venue: ""
-  #   year: 201
-  #   id: ""
-
-# [<a href="papers/siggraph16_roto.pdf">pdf</a>]
-# [<a href="papers/siggraph16_roto.bib">bib</a>]
-# [<a href="projects_roto.html">project page</a>]
