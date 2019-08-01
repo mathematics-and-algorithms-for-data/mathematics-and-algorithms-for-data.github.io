@@ -18,7 +18,7 @@ The centre for Mathematics and Algorithms for Data (MAD) at the [University of B
 
 ## People
 
-We are comprised of a set of academic faculty and research staff and students across Mathematics, Statistics and Computer Science. Details of our research interests and individual websites can be accessed [here]({{ site.baseurl }}/people/).
+We are comprised of a set of academic faculty and research staff and students across Mathematics, Statistics and Computer Science. Details of our research interests and individual websites can be accessed [here]({{ site.baseurl }}/people/). The co-directors of the MAD Centre are Tony Shardlow and Neill Campbell, and enquiries should be directed  <a href="mailto:mad-director@lists.bath.ac.uk?subject=MAD">here.</a>
 
 ## Activities
 
@@ -34,7 +34,7 @@ We organise [seminars]({{ site.baseurl }}/seminars/) and research events based o
 	<p><a class="btn btn-success" role="button" href="https://www.bath.ac.uk/topics/postgraduate-research/">Interested in a PhD?</a></p>
 </div>
 <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
-	<p><a class="btn btn-success" role="button" href="mailto:t.shardlow@bath.ac.uk?subject=MAD">Contact us here!</a></p>
+	<p><a class="btn btn-success" role="button" href="mailto:mad-director@lists.bath.ac.uk?subject=MAD">Contact us here!</a></p>
 </div>
 </div>
 
