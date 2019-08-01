@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Centre for Mathematics and Algorithms for Data at the University of Bath
 brand: "M&thinsp;A&thinsp;D @ Bath"
-email: TODO@bath.ac.uk # mad-centre@bath.ac.uk.fillthisin
+email: mad-director@lists.bath.ac.uk # mad-centre@bath.ac.uk.fillthisin
 description: >- # this means to ignore newlines until "baseurl:"
   Interdisciplinary Research Centre `Mathematics and Algorithms for Data' 
   studying the theoretical underpinning of Data Science by researchers from 
