@@ -6,6 +6,8 @@ permalink: /publications/
 
 # Publications
 
+Here is a selection of our recent publications.
+
 <div>
 {% assign grouped_papers = site.data.publications.papers | group_by:"year" %}
 {% assign sorted_grouped_papers = grouped_papers | sort: "name" | reverse %}
