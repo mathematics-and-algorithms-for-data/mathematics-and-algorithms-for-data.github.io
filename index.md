@@ -18,11 +18,11 @@ The centre for Mathematics and Algorithms for Data (MAD) at the [University of B
 
 ## People
 
-We are comprised of a set of academic faculty and research staff and students across Mathematics, Statistics and Computer Science. Details of our research interests and individual websites can be accessed [here](/people/).
+We are comprised of a set of academic faculty and research staff and students across Mathematics, Statistics and Computer Science. Details of our research interests and individual websites can be accessed [here]({{ site.baseurl }}/people/).
 
 ## Activities
 
-We organise [seminars](/seminars/) and research [events](/events/) based on our common interests and also host academic and industrial visitors.
+We organise [seminars]({{ site.baseurl }}/seminars/) and research events based on our common interests and also host academic and industrial visitors.
 
 ## Join the Team!
 
