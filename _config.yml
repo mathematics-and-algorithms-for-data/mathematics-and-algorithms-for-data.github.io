@@ -24,7 +24,7 @@ baseurl: "/mad-website" # the subpath of your site, e.g. /blog
 url: "https://ndfcampbell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 wordcloud: "/assets/images/layout/wordcloud_res3.png"
 twitter_username: 
-github_username:  
+github_username:  é
 
 # Build settings
 markdown: kramdown
