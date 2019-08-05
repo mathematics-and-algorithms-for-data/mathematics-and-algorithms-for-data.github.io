@@ -14,11 +14,11 @@ title: Home
 
 <!--## Statistics, Machine Learning and Numerical Analysis-->
 
-The centre for Mathematics and Algorithms for Data (MAD) at the [University of Bath](http://www.bath.ac.uk/) is an interdisciplinary group of researchers working at the intersection of Statistics, Machine Learning and Numerical Analysis with a huge range of application areas. Data Scientists use mathematics and computation to extract useful information from data. MAD aims to facilitate dialogue between groups, especially theorists in computer science and mathematics, and develop rigour in the field.
+The Centre for Mathematics and Algorithms for Data (MAD) at the [University of Bath](http://www.bath.ac.uk/) is an interdisciplinary group of researchers working at the intersection of Statistics, Machine Learning and Numerical Analysis with a huge range of application areas. Data Scientists use mathematics and computation to extract useful information from data. MAD aims to facilitate dialogue between groups, especially theorists in computer science and mathematics, and develop rigour in the field.
 
 ## People
 
-We are comprised of a set of academic faculty and research staff and students across Mathematics, Statistics and Computer Science. Details of our research interests and individual websites can be accessed [here]({{ site.baseurl }}/people/). The co-directors of the MAD Centre are Tony Shardlow and Neill Campbell, and enquiries should be directed  <a href="mailto:mad-director@lists.bath.ac.uk?subject=MAD">here.</a>
+We are comprised of a set of academic faculty and research staff and students across Mathematics, Statistics and Computer Science. Details of our research interests and individual websites can be accessed [here]({{ site.baseurl }}/people/).
 
 ## Activities
 
@@ -34,7 +34,7 @@ We organise [seminars]({{ site.baseurl }}/seminars/) and research events based o
 	<p><a class="btn btn-success" role="button" href="https://www.bath.ac.uk/topics/postgraduate-research/">Interested in a PhD?</a></p>
 </div>
 <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
-	<p><a class="btn btn-success" role="button" href="mailto:mad-director@lists.bath.ac.uk?subject=MAD">Contact us here!</a></p>
+	<p><a class="btn btn-success" role="button" href="mailto:t.shardlow@bath.ac.uk?subject=MAD">Contact us here!</a></p>
 </div>
 </div>
 
