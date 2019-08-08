@@ -1,10 +1,12 @@
 ---
-layout: default_sparse
+layout: default
 title: Publications
 permalink: /publications/
 ---
 
 # Publications
+
+Here is a selection of our recent publications.
 
 <div>
 {% assign grouped_papers = site.data.publications.papers | group_by:"year" %}
