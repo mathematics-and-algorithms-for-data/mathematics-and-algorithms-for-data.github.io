@@ -193,13 +193,16 @@ papers:
     year: 2014
 
 
-    
+  - title: "Monotonic Gaussian Process Flow"
+    authors: "Ivan Ustyuzhaninov, Ieva Kazlauskaite, Carl Henrik Ek and Neill D. F. Campbell"
+    venue: "arXiv e-print"
+    year: 2019
+    arxiv-link: https://arxiv.org/abs/1905.12930
 
   - title: "DP-GP-LVM: A Bayesian Non-Parametric Model for Learning Multivariate Dependency Structures"
     authors: "Andrew Lawrence, Carl Henrik Ek and Neill D. F. Campbell"
-    venue: "arXiv e-print 1807.04833"
+    venue: "Int. Conf. on Machine Learning (ICML)"
     year: 2019
-    arxiv-link: https://arxiv.org/abs/1807.04833
 
   - title: "Latent Gaussian Process Regression"
     authors: "Erik Bodin, Neill D. F. Campbell and Carl Henrik Ek"
@@ -236,8 +239,4 @@ papers:
   #   authors: ""
   #   venue: ""
   #   year: 201
-  #   id: ""
-
-# [<a href="papers/siggraph16_roto.pdf">pdf</a>]
-# [<a href="papers/siggraph16_roto.bib">bib</a>]
-# [<a href="projects_roto.html">project page</a>]
+  

@@ -1,5 +1,5 @@
 ---
-layout: default_sparse
+layout: default
 title: People
 permalink: /people/
 ---
