@@ -6,7 +6,7 @@ permalink: /seminars/
 
 ## Seminars
 
-We organise a number of seminars based on our common interests. You might also be interested in the seminar series in [Statistics](https:\\people.bath.ac.uk\kmph20\seminars.html), [Numerical Analysis](http:\\people.bath.ac.uk\sg968\NAseminars\naseminar.html), and [Networks](href="https:\\people.bath.ac.uk\ma3tcr\cncb_calendar.html).
+We organise a number of seminars based on our common interests. You might also be interested in the seminar series in [Statistics](https:\\people.bath.ac.uk\kmph20\seminars.html), [Numerical Analysis](http:\\people.bath.ac.uk\sg968\NAseminars\naseminar.html), and [Networks](https:\\people.bath.ac.uk\ma3tcr\cncb_calendar.html).
 
 <div class="container">
 {% assign sorted_seminars = site.data.seminars.seminars | sort: "date" | reverse %}
