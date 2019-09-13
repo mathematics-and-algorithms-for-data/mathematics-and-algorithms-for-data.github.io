@@ -3,6 +3,9 @@ pages:
     url: /
   - title: People
     url: /people/
+  - title: Events
+    url: /events/
+    dropdown: true
   - title: Seminars
     url: /seminars/
   - title: Publications

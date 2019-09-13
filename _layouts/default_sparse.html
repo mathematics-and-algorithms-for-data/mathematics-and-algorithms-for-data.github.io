@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head_includes.html %}
+
+    <title>{{ site.title}} : {{ page.title }}</title>
+  </head>
+
+  <header>
+  </header>
+
+  <body>
+    {% include navbar.html %}
+    {% comment %}{% include header_sparse.html %}{% endcomment %}
+    
+    <main role="main" class="container pt-4">
+    <!--<div class="container m-t-2">-->
+      {{ content }}
+    <!--</div>-->
+    </main>
+
+    <footer class="footer bg-light" style="border-top: 1px solid #d8dce0!important">
+      {% include footer.html %}
+    </footer>
+
+    {% include scripts.html %}
+  </body>
+</html>

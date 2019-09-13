@@ -1,0 +1,21 @@
+<div class="card">
+  <h5 class="card-header mb-2">{% if include.just_critical == 'true' %}Latest News{% else %}News{% endif %}</h5>
+  {% if include.just_critical == 'true' %}
+  {% assign filtered_news_items = site.data.news.items | where: "critical", true %} <!--| where: "date", "2019-01-01" %} -->
+  {% else %}
+  {% assign filtered_news_items = site.data.news.items %} 
+  {% endif %}
+
+  {% assign sorted_news_items = (filtered_news_items | sort: 'date') | reverse %}
+  {% for item in sorted_news_items %}
+  <div class="card-body clearfix pb-0 pt-0 mb-2 {%comment%}{% if item.critical %}ndfc-brand{% endif %}{%endcomment%}"><!--text-danger-->
+    <!--<h5 class="card-title">Special title treatment</h5>-->
+    <p class="card-text" style="text-indent: -1em; padding-left: 1em;">
+      <!--<span class="float-left mr-2">{{ item.date }}</span>
+      <span class="">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span>-->
+      <b>{{ item.date | date: '%b %Y' }}</b> &nbsp;&nbsp; {{ item.text | markdownify | remove: "<p>" | remove: "</p>" | replace: "__", site.baseurl }}
+    </p>
+    <!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
+  </div>
+  {% endfor %}
+</div>

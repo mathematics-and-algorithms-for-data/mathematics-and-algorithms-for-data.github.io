@@ -1,24 +1,41 @@
 <!-- Start NavBar.. -->
-<nav class="navbar sticky-top navbar-expand-md navbar-light bg-light"
-  style="border-bottom: 1px solid #d8dce0!important">
+<nav class="navbar sticky-top navbar-expand-md navbar-light bg-light" style="border-bottom: 1px solid #d8dce0!important">
   <a class="navbar-brand" href="{{ site.baseurl }}/"><b class="ndfc-brand">{{ site.brand }}</b></a>
   <div class="d-xs-block d-md-none">
     <a class="nav-item nav-link p-0" href="https://www.bath.ac.uk/"><img height="34" class="d-inline-block align-top" alt="" src="{{ site.baseurl }}/assets/images/logos/bath-logo.png"></a>
   </div>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
       {% for item in site.data.navigation.pages %}
-        <a class="nav-item nav-link {% if item.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+        {% if item.dropdown %}
+          {% assign dropdown_pages = site.pages | where_exp:"page", "page.url contains item.url" %}
+          {% assign page_active = item.url == page.url %}
+          {% for subpage in dropdown_pages %}
+            {% if subpage.url == page.url %}
+              {% assign page_active = true %}
+            {% endif %}
+          {% endfor %}
+          <li class="nav-item dropdown {% if page_active == true %}active{% endif %}">
+            <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}{{ item.url }}" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              {% assign sorted_dropdown_pages = dropdown_pages | sort:"index" %}
+              {% for subpage in sorted_dropdown_pages %}
+                <a class="dropdown-item {% if subpage.url == page.url %}font-weight-bold{% endif %}" href="{{ site.baseurl }}{{ subpage.url }}">{{ subpage.title }}</a>
+              {% endfor %}
+            </div>
+          </li>
+        {% else %}
+          <li class="nav-item {% if item.url == page.url %}active{% endif %}">
+            <a class="nav-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+          </li>
+        {% endif %}
       {% endfor %}
       <!--<a class="d-none d-lg-block nav-item nav-link disabled" href="{{ site.baseurl }}{{ item.url }}">Debug : {{page.url}}</a>-->
-    </div>
+    </ul>
   </div>
-  <!--<div class="d-none d-md-block">
-    <a class="nav-item nav-link p-0" href="https://royalsociety.org/"><img height="34" class="d-inline-block align-top" alt="" src="{{ site.baseurl }}/assets/images/logos/rs-logo.png"></a>
-  </div>-->
   <div class="d-none d-md-block">
     <a class="nav-item nav-link p-0 pl-2" href="https://www.bath.ac.uk/"><img height="34" class="d-inline-block align-top" alt="" src="{{ site.baseurl }}/assets/images/logos/bath-logo.png"></a>
   </div>
