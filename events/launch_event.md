@@ -27,7 +27,7 @@ The [Center for Mathematics and Algorithms for Data (MAD)]({{ site.baseurl }}/) 
 |2:20pm || PhD student talk |
 |2:40pm|| PhD student talk |
 |3:00pm|| Coffee|
-|3:30pm|| [Christop Andrieu (Bristol)](http://www.bristol.ac.uk/maths/people/christophe-andrieu/overview.html) |
+|3:30pm|| [Christophe Andrieu (Bristol)](http://www.bristol.ac.uk/maths/people/christophe-andrieu/overview.html) |
 |4:20pm|| Close |
 
 <br>
