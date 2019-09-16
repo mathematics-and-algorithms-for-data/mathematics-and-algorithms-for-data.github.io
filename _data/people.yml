@@ -83,6 +83,10 @@ faculty:
     url: "https://people.bath.ac.uk/trs35/"
     name:  "Theresa Smith"
     topics: "Spatial statistics, Bayesian computing, health applications"
+  - img: "images/xchen.png"
+    url: "https://researchportal.bath.ac.uk/en/persons/xi-chen"
+    name:  "Xi Chen"
+    topics: "Bayesian inference & reasoning, machine learning, statistical signal processing, Monte Carlo methods, probabilistic sampling techniques"
 
 researchers:
   - name: "Eleanor Barry"
