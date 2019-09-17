@@ -21,9 +21,9 @@ The [Center for Mathematics and Algorithms for Data (MAD)]({{ site.baseurl }}/) 
 |9:50am || Who's MAD?
 |10:00am|| [Tim Cootes (Manchester)](https://personalpages.manchester.ac.uk/staff/timothy.f.cootes/) *"Modelling and matching deformable structures in images"* |
 |10:50am|| Coffee |
-|11:15am|| [Kostas Zygalakis (Edinburgh)](https://www.maths.ed.ac.uk/school-of-mathematics/people?person=506)
+|11:15am|| [Kostas Zygalakis (Edinburgh)](https://www.maths.ed.ac.uk/school-of-mathematics/people?person=506) *" Bayesian inverse problems, prior modelling  and algorithms for  posterior sampling" |
 |12:05pm|| Lunch in the Claverton Rooms|
-|2:00pm || [Allen Hart (Bath)](https://researchportal.bath.ac.uk/en/persons/allen-hart)| *"Using Echo State Networks for Time Series Prediction"*
+|2:00pm || [Allen Hart (Bath)](https://researchportal.bath.ac.uk/en/persons/allen-hart)| *"Using Echo State Networks for Time Series Prediction"* |
 |2:20pm || [Nadeen Khaleel (Bath)](https://researchportal.bath.ac.uk/en/persons/nadeen-khaleel)|
 |2:40pm|| PhD student talk |
 |3:00pm|| Coffee|
