@@ -27,7 +27,7 @@ The [Center for Mathematics and Algorithms for Data (MAD)]({{ site.baseurl }}/) 
 |2:20pm || [Nadeen Khaleel (Bath)](https://researchportal.bath.ac.uk/en/persons/nadeen-khaleel) *"Bayesian Inference of Spatial Point Patterns"*|
 |2:40pm|| PhD student talk |
 |3:00pm|| Coffee|
-|3:30pm|| [Christophe Andrieu (Bristol)](http://www.bristol.ac.uk/maths/people/christophe-andrieu/overview.html) |
+|3:30pm|| [Christophe Andrieu (Bristol)](http://www.bristol.ac.uk/maths/people/christophe-andrieu/overview.html) *"Nonreversible Markov chain and process Monte Carlo methods"*|
 |4:20pm|| Close |
 
 <br>
@@ -69,3 +69,11 @@ Bayesian inverse problems provide a coherent mathematical and algorithmic framew
 ### Biography
 
 Konstantinos Zygalakis is a Reader in the Mathematics of Data Science at  the University of Edinburgh. He received a 5-year Diploma in Applied Mathematics and Physics from the National Technical University of Athens in 2004, and his MSc and PhD from the University of Warwick in 2005 and 2009 respectively. Before Edinbugh he   was a David Chrigton fellow at the University of Cambridge and  held  further postdoctoral positions at the University of  Oxford and the Swiss Federal Institute of Technology, Lausanne  as well as a lectureship in Applied Mathematics at the University of Southampton. His research spans a number of areas in the intersection of applied mathematics, numerical analysis, statistics and data science.  In 2011, he was awarded a Leslie Fox Prize in Numerical Analysis (IMA UK) and he is a  Fellow of the Alan Turing Institute since 2016. He has co-authored over forty research articles, as well as a graduate textbook in the Mathematics of Data Assimilation.
+
+
+
+<h3 class="pt-2 pb-1">Prof Christophe Andrieu</h3>
+
+#### Talk: Nonreversible Markov chain and process Monte Carlo methods
+
+The aim of these lectures is twofold: (a) provide an overview of the construction of known reversible and non-reversible Markov chain Monte Carlo algorithms and their continuous time counterparts and (b) provide an overview of some theoretical results characterising their per- formance, for example in large dimensional setups. 
