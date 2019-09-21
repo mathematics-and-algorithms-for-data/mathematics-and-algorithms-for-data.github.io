@@ -77,3 +77,11 @@ Konstantinos Zygalakis is a Reader in the Mathematics of Data Science at  the Un
 #### Talk: Nonreversible Markov chain and process Monte Carlo methods
 
 The aim of these lectures is twofold: (a) provide an overview of the construction of known reversible and non-reversible Markov chain Monte Carlo algorithms and their continuous time counterparts and (b) provide an overview of some theoretical results characterising their per- formance, for example in large dimensional setups. 
+
+
+
+<h3 class="pt-2 pb-1">Nadeen Khaleel</h3>
+
+### Title: Bayesian Inference of Spatial Point Patterns
+
+Spatial point patterns are prevalent in many areas of research such as ecology, where we may be interested in locations of trees in a forest, to epidemiology, where incidences of disease in a city would be of interest. We can model these point patterns as log-Gaussian Cox processes (LGCPs) which are doubly-stochastic point processes that can fully capture the heterogeneity in the data. However, the posterior distribution for LGCPs are analytically intractable, and so we must approach the inference through alternative methods such as Markov chain Monte Carlo (MCMC) or integrated nested Laplace approximations (INLA). These algorithms have disadvantages that may see them struggle to perform inference when introducing more complexity to our models which necessitates an algorithm that can approach inference for such models efficiently. This talk will briefly discuss the MCMC and INLA algorithms as well as introduce the INLA with MCMC algorithm developed by Gómez-Rubio & Rue (2018) as well as how its implementation could aid in efficient inference of crime incidences in US cities.
