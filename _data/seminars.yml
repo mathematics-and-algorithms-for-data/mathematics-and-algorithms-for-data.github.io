@@ -1,19 +1,24 @@
 seminars:
+  - title: "The geometry of first order methods and adaptive acceleration"
+    speaker: "Clarice Poon (University of Bath)"
+    url: "http://people.bath.ac.uk/sg968/NAseminars/naseminar.html"
+    date: 2019-10-04 12:15
+    location: "4W 1.7 Wolfson"
   - title: "Inverse problems with imperfect forward operators"
     speaker: "Yury Korolev (University of Cambridge)"
     url: "https://wiki.bath.ac.uk/display/cnmseminar/2019-20+Schedule"
     date: 2019-11-26 13:15
-    location: "4W 1.07 Wolfson"
+    location: "4W 1.7 Wolfson"
   - title: "How Many Labels Do You Need For Semi-Supervised Learning?"
     speaker: "Matt Thorpe (University of Manchester)"
     url: "https://wiki.bath.ac.uk/display/cnmseminar/2019-20+Schedule"
     date: 2019-10-22 13:15
-    location: "4W 1.07 Wolfson"
+    location: "4W 1.7 Wolfson"
   - title: "Optimization Methods for Inverse Problems from Imaging"
     speaker: "Ke Chen (University of Liverpool)"
     url: "https://wiki.bath.ac.uk/display/cnmseminar/2019-20+Schedule"
     date: 2019-10-15 13:15
-    location: "4W 1.07 Wolfson"
+    location: "4W 1.7 Wolfson"
   - title: "Assessing the performance in predicting terrorism in space and time using extreme gradient boosting and geostatistical models"
     speaker: "Andre Python (University of Oxford)"
     url: "https://people.bath.ac.uk/kmph20/seminars.html"
@@ -28,4 +33,4 @@ seminars:
     speaker: "Ozan Oktem (Stockholm)"
     url: "http://people.bath.ac.uk/sg968/NAseminars/naseminar.html"
     date: 2019-03-01 12:15
-    location: "Wolfson"
+    location: "4W 1.7 Wolfson"
