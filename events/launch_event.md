@@ -9,6 +9,8 @@ index: 0
 
 The [Center for Mathematics and Algorithms for Data (MAD)]({{ site.baseurl }}/) at the [University of Bath](http://www.bath.ac.uk) is launching! Come and join us on 13th November for a day of talks including three invited keynote speakers. 
 
+The event is supported by the Departments of [Mathematical Sciences](https://www.bath.ac.uk/departments/department-of-mathematical-sciences/) and [Computer Science](https://www.bath.ac.uk/departments/department-of-computer-science/) and by the [Institute for Mathematical Innovation](https://www.bath.ac.uk/research-institutes/institute-for-mathematical-innovation/)
+
 **Registration is free, please let [Tony Shardlow](mailto:t.shardlow@bath.ac.uk) know if are coming along.**
 
 <h4 class="pt-2">Wolfson Lecture Theatre 4W1.7, University of Bath,</h4>
