@@ -1,4 +1,9 @@
 seminars:
+  - title: "A forward-backward algorithm for reweighted procedures: Application to astro-imaging"
+    speaker: "Audrey Repetti (Heriot-Watt, Edinburgh)"
+    url: "http://people.bath.ac.uk/sg968/NAseminars/naseminar.html"
+    date: 2019-11-08 12:15
+    location: "8W 2.27"
   - title: "The geometry of first order methods and adaptive acceleration"
     speaker: "Clarice Poon (University of Bath)"
     url: "http://people.bath.ac.uk/sg968/NAseminars/naseminar.html"
