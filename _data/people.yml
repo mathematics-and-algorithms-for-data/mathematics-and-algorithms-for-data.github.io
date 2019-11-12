@@ -55,7 +55,7 @@ faculty:
     url: "https://people.bath.ac.uk/man54/homepage.html"
     name:  "Matt Nunes"
     topics: "Bayesian computation, dimension reduction, image processing, networks, time series, wavelets"
-   - img: "images/clarice.png"
+  - img: "images/clarice.png"
     url: "https://researchportal.bath.ac.uk/en/persons/clarice-poon"
     name:  "Clarice Poon"
     topics: "Compressed sensing, structured regularisation, super resolution, optimisation"
@@ -79,7 +79,6 @@ faculty:
     url: "https://researchportal.bath.ac.uk/en/persons/xi-chen"
     name:  "Xi Chen"
     topics: "Bayesian inference & reasoning, machine learning, statistical signal processing, Monte Carlo methods, probabilistic sampling techniques"
-
 researchers:
   - name: "Eleanor Barry"
     working: "Jonathan Bartlett"
