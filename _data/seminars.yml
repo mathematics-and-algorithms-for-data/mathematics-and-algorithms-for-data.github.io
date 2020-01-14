@@ -1,4 +1,8 @@
 seminars:
+  - title: "Models and Algorithms for Image Editing with Warping"
+    speaker: "Ivor Simpson (University of Sussex)"
+    date: 2020-01-17 14:15
+    location: "3W 4.7"
   - title: "A forward-backward algorithm for reweighted procedures: Application to astro-imaging"
     speaker: "Audrey Repetti (Heriot-Watt, Edinburgh)"
     url: "http://people.bath.ac.uk/sg968/NAseminars/naseminar.html"
