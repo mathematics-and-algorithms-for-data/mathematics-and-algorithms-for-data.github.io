@@ -83,6 +83,10 @@ faculty:
     url: "https://olgaisupova.github.io/"
     name:  "Olga Isupova"
     topics: "Bayesian methods, topic models, unsupervised learning, ML for conversation"
+  - img: "images/vinay.png"
+    url: "https://vinaypn.github.io/"
+    name:  "Vinay Namboodiri"
+    topics: "multi-modal learning, visual recognition, sparse supervision, probabilistic adversarial techniques, explainable AI"
 researchers:
   - name: "Eleanor Barry"
     working: "Jonathan Bartlett"
