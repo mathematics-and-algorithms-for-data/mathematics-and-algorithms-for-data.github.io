@@ -79,6 +79,10 @@ faculty:
     url: "https://researchportal.bath.ac.uk/en/persons/xi-chen"
     name:  "Xi Chen"
     topics: "Bayesian inference & reasoning, machine learning, statistical signal processing, Monte Carlo methods, probabilistic sampling techniques"
+  - img: "images/olga.jpg"
+    url: "https://olgaisupova.github.io/"
+    name:  "Olga Isupova"
+    topics: "Bayesian methods, topic models, unsupervised learning, ML for conversation"
 researchers:
   - name: "Eleanor Barry"
     working: "Jonathan Bartlett"

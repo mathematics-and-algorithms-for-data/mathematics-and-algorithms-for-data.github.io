@@ -1,4 +1,8 @@
 seminars:
+  - title: "A fine(r)-grained perspective onto object interactions"
+    speaker: "Dima Damen (University of Bristol)"
+    date: 2020-03-24 11:15
+    location: "1W 2.102"
   - title: "Hyperspectral tomography and reconstruction with the CCPi Core Imaging Library"
     speaker: "Jakob Jorgensen (University of Manchester)"
     date: 2020-02-14 12:15
