@@ -5,3 +5,6 @@ items:
   - date: "2020-02-11"
     text: "We are organising the LMS-Bath Symposium on the Mathematics of Machine Learning in August 2020, see [here](https://mathml2020.github.io/)."
     critical: true
+  - date: "2020-03-16"
+    text: "In August 2020 we will be running a three week programme on the Mathematics of Machine Learning, see [here](__/events/mathml2020/) for more details."
+    critical: true
