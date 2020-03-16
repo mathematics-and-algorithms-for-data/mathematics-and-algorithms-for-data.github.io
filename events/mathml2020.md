@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
-title: Launch Event
-permalink: /events/launch_event/
+title: Mathematics of Machine Learning
+permalink: /events/mathml2020/
 index: 0
 ---
 
