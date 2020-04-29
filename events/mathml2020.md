@@ -15,6 +15,8 @@ This is the first ever ICMS workshop outside Scotland. The aim of the workshop i
 
 Organisers are [Patricia Vitoria Carrera](https://www.upf.edu/web/etic/entry/-/-/64353/adscripcion/patricia-vitoria), [Bamdad Hosseini](https://bamdadhosseini.org/) and [Matthew Thorpe](https://www.research.manchester.ac.uk/portal/matthew.thorpe-2.html). 
 
+**For more information, see [link](https://bathicmsworkshop.github.io/).**  
+
 ## [LMS](https://www.lms.ac.uk/)-Bath Symposium on the [Mathematics of Machine Learning](https://mathml2020.github.io) (3-7 August 2020)
 The aim of the Symposium is to bring together world leading mathematicians, theoretical physicists and statisticians who are working on the mathematics of machine learning, to promote dialogue between different groups and to identify new directions of research. 
  
