@@ -1,4 +1,8 @@
 seminars:
+  - title: "Allen-Cahn and MBO on graphs"
+    speaker: "Jeremy Budd (Delft, Netherlands)"
+    date: 2020-05-15 12:15
+    location: "MS Teams: Numerical Analysis Seminar"
   - title: "A fine(r)-grained perspective onto object interactions"
     speaker: "Dima Damen (University of Bristol)"
     date: 2020-03-24 11:15
