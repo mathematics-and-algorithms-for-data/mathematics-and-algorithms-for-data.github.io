@@ -8,3 +8,6 @@ items:
   - date: "2020-03-16"
     text: "In August 2020 we will be running a three week programme on the Mathematics of Machine Learning, see [here](__/events/mathml2020/) for more details."
     critical: true
+  - date: "2020-07-28"
+    text: "In September 2020 we will host a workshop to bring together the 'imaging' and 'computational PDEs' communities, see [here](https://sites.google.com/view/imaging-pde-2020) for more details."
+    critical: true
