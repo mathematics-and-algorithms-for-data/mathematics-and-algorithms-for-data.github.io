@@ -5,6 +5,8 @@ permalink: /events/mathml2020/
 index: 0
 ---
 
+<p style="color:red">Due to the coronavirus, the ICMS workshop and the research incubator have been postponed to 2021. The LMS-Bath Symposium will go ahead online.</p>
+
 <h1 style="text-align: center;" class="pb-2">Mathematics of Machine Learning</h1>
 
 The last decade has seen a huge uptake of the applications of machine learning methods, yet, the mechanisms behind the success of such methods is far from well understood. We will be running three events on the Mathematics of Machine Learning in the summer of 2020: an ICMS workshop at the [University of Bath](http://www.bath.ac.uk) in in the week 27-31 July, followed by an LMS Symposium (3-7 August 2020), which in turn is followed by a Research Incubator in the week starting 10 August. The origin of this activity is that the LMS symposia, run at Durham since 1974, are moving to in 2020 to Bath.
