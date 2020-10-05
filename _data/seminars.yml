@@ -1,6 +1,17 @@
 seminars:
+  - title: "Spectral methods for graph clustering, old and new"
+    speaker: "Luca Zanetti (Bath)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2020-10-09 12:15
+    location: "MS Teams: Numerical Analysis Seminar"
+  - title: "Deep Generative Models in Lattice Field Theories"
+    speaker: "Pan Kessel (TU Berlin, Germany)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2020-10-02 12:15
+    location: "MS Teams: Numerical Analysis Seminar"
   - title: "Allen-Cahn and MBO on graphs"
     speaker: "Jeremy Budd (Delft, Netherlands)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2020-05-15 12:15
     location: "MS Teams: Numerical Analysis Seminar"
   - title: "A fine(r)-grained perspective onto object interactions"
