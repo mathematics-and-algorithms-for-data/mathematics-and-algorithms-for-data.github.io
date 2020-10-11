@@ -98,7 +98,15 @@ papers:
     authors: "Beate Ehrhardt and Patrick J Wolfe"
     venue: "SIAM Rev."
     year: 2019
-
+  - title:  "Development of an automated segmentation algorithm to identify bones of the hand"
+    authors: A.M. Rambojun, W. Tillett, N.D.F. Campbell, and T. Shardlow
+    year: 2019
+    venue: "Annals of the Rheumatic Diseases, vol. 78."
+  - title: "A deep surrogate approach to efficient Bayesian inversion in PDE and integral equation models"
+    authors: T. Deveney, E. Mueller, and T. Shardlow"
+    year: 2019
+    venue: "arXiv e-print 1910.01547"
+    arxiv-link: https://arxiv.org/abs/1910.01547 
   - title: "Alternating Minimal Energy Methods for Linear Systems in Higher Dimensions"
     authors: "S. Dolgov and D. Savostyanov"
     venue: "SIAM J. Sci. Comput. vol. 36, no. 5"
