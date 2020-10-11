@@ -69,7 +69,26 @@ papers:
     authors: "Sandipan Roy, Yves Atchadé and George Michailidis"
     venue: "J. R. Stat. Soc. Series B Stat. Methodol. vol. 79, no. 4"
     year: 2017
-
+  - title: “Compressive MR Fingerprinting reconstruction with Neural Proximal Gradient iterations"
+    authors: “D. Chen, M. Davies, and M. Golbabaee"
+    venue: “International conference on Medical Image Computing and Computer-Assisted Interventions (MICCAI) vol.12262, https://doi.org/10.1007/978-3-030-59713-9_2"
+    year: 2020
+    arxiv-link: https://arxiv.org/pdf/2006.15271.pdf
+  - title: “Compressive MRI quantification using convex spatiotemporal priors and deep auto-encoders"
+    authors: “M. Golbabaee, G. Bounincontri, C. Pirkl, et al."
+    venue: “arxiv preprint"
+    year: 2020
+    arxiv-link: https://arxiv.org/pdf/2001.08746.pdf
+  - title: " Making decisions on subjective data: Aligning statistics with science to improve outcomes on the modified Irwin test"
+    authors: "Karen Tse, Oscar Hammar and Beate Ehrhardt"
+    venue: " Journal of Pharmacological and Toxicological Methods vol. 99, no. 106595"
+    year: 2020
+    arxiv-link: https://www.sciencedirect.com/science/article/pii/S1056871919301315?via%3Dihub
+  - title: " An innovative non-invasive technique for subcutaneous tumour measurements"
+    authors: " Juan Delgado San Martin, Beate Ehrhardt, Marcin Paczkowski, Sean Hackett, Andrew Smith, Wajahat Waraich, James Klatzow, Adeala Zabair, Anna Chabokdast, Leonardo Rubio-Navarro, Amar Rahi, and Zena Wilson"
+    venue: " PLoS ONE vol. 14, no. 10"
+    year: 2019
+    arxiv-link: https://www.biorxiv.org/content/10.1101/622605v1
   - title: "Statistical Inference, Learning and Models in Big Data"
     authors: "Beate Franke, Jean-François Plante, Ribana Roscher, En-Shiun Annie Lee, Cathal Smyth, Armin Hatefi, Fuqi Chen, Einat Gil, Alexander Schwing, Alessandro Selvitella, Michael M Hoffman, Roger Grosse, Dieter Hendricks and Nancy Reid"
     venue: "Int. Stat. Rev. vol. 84, no. 3"
@@ -78,7 +97,7 @@ papers:
   - title: "Network modularity in the presence of covariates"
     authors: "Beate Ehrhardt and Patrick J Wolfe"
     venue: "SIAM Rev."
-    year: 2018
+    year: 2019
 
   - title: "Alternating Minimal Energy Methods for Linear Systems in Higher Dimensions"
     authors: "S. Dolgov and D. Savostyanov"
