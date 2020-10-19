@@ -93,6 +93,12 @@ papers:
     authors: "Beate Franke, Jean-François Plante, Ribana Roscher, En-Shiun Annie Lee, Cathal Smyth, Armin Hatefi, Fuqi Chen, Einat Gil, Alexander Schwing, Alessandro Selvitella, Michael M Hoffman, Roger Grosse, Dieter Hendricks and Nancy Reid"
     venue: "Int. Stat. Rev. vol. 84, no. 3"
     year: 2016
+  - title: " Accelerating Variance-Reduced Stochastic Gradient Methods"
+    authors: " Derek Driggs, Matthias J. Ehrhardt, Carola-Bibiane Schönlieb"
+    venue: "Mathematical Programming, https://doi.org/10.1007/s10107-020-01566-2"
+    year: 2020
+    arxiv-link: https://arxiv.org/abs/1910.09494
+
 
   - title: "Network modularity in the presence of covariates"
     authors: "Beate Ehrhardt and Patrick J Wolfe"
