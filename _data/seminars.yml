@@ -1,4 +1,9 @@
 seminars:
+  - title: "LKrylov Methods for Low-Rank Regularisation"
+    speaker: "Silvia Gazzola (Bath)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2020-11-06 12:15
+    location: "MS Teams: Numerical Analysis Seminar"
   - title: "Learned SVD - Solving Inverse Problems via Hybrid Autoencoding"
     speaker: "Christoph Brune (Twente, Netherlands)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
