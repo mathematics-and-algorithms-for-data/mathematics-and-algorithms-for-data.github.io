@@ -1,4 +1,9 @@
 seminars:
+  - title: "Learned SVD - Solving Inverse Problems via Hybrid Autoencoding"
+    speaker: "Christoph Brune (Twente, Netherlands)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2020-10-30 12:15
+    location: "MS Teams: Numerical Analysis Seminar"
   - title: "Applications of Stochastic Differential Equations in Machine Learning"
     speaker: "Constantino Antonio García Martínez (University of Santiago de Compostela, Spain)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
