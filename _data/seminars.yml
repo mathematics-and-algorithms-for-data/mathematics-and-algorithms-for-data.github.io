@@ -1,5 +1,10 @@
 seminars:
-  - title: "LKrylov Methods for Low-Rank Regularisation"
+  - title: "New Shapes, New Materials and New Processes"
+    speaker: "Konrad Polthier (FU Berlin, Germany)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2020-11-27 12:15
+    location: "MS Teams: Numerical Analysis Seminar"
+  - title: "Krylov Methods for Low-Rank Regularisation"
     speaker: "Silvia Gazzola (Bath)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2020-11-06 12:15
