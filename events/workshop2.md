@@ -20,14 +20,14 @@ The Zoom link will be emailed around later.
 Attendance is free, but please **do sign up on [a Google Form](https://docs.google.com/forms/d/e/1FAIpQLScPCGpVcfcpfB4lAEIstcwqbtIT4QOYqBm0Ggn7of4GMsOXag/viewform?usp=sf_link)** if you are tuning in.
 This would allow us to estimate the numbers for gather.town breaks, and to communicate the links in emails only to keep out possible Zoom bombers.
 
-<h4 class="pt-3">Programme: **(all times are British Summer Time (BST))**</h4>
+<h4 class="pt-3">Programme: (all times are British Summer Time (BST))</h4>
 
 |  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |
 |--:||---|
 |8:50am || Opening, connecting in. |
 |9:00am || [Stephen Marsland (Wellington)](https://homepages.ecs.vuw.ac.nz/~marslast/index.html) *"TBC"* |
-|10:20am|| "Coffee" break on gather.town |
-|11:20am|| [Ullrich Köthe (Heidelberg)](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe/) *"TBC"* |
+|10:00am|| "Coffee" break on gather.town |
+|10:20am|| [Ullrich Köthe (Heidelberg)](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe/) *"TBC"* |
 |11:20am|| Long ("lunch") break (gather.town) |
 |12:30pm|| [Aldo Faisal (Imperial)](https://www.imperial.ac.uk/people/a.faisal) *"TBC"* |
 |13:30pm|| [Jordan Taylor (Bath)](https://researchportal.bath.ac.uk/en/persons/jordan-taylor) *"TBC"* |
