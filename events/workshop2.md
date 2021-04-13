@@ -29,7 +29,7 @@ This would allow us to estimate the numbers for gather.town breaks, and to commu
 |10:00am|| "Coffee" break on gather.town |
 |10:20am|| [Tim Dodwell (Exeter)](https://emps.exeter.ac.uk/engineering/staff/td336) *"TBC"* |
 |11:20am|| Long ("lunch") break (gather.town) |
-|12:30pm|| [Aldo Faisal (Imperial)](https://www.imperial.ac.uk/people/a.faisal) *"Reinforcement Learning for Healthcare"* |
+|12:30pm|| [Aldo Faisal (Imperial)](https://www.imperial.ac.uk/people/a.faisal) *"The mathematics of building an AI Clinician"* |
 |13:30pm|| [Jordan Taylor (Bath)](https://researchportal.bath.ac.uk/en/persons/jordan-taylor) *"TBC"* |
 |14:00pm|| Break |
 |14:20pm|| [Ullrich Köthe (Heidelberg)](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe/) *"TBC"* |
