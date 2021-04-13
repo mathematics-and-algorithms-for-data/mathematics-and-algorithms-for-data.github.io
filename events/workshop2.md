@@ -33,7 +33,7 @@ This would allow us to estimate the numbers for gather.town breaks, and to commu
 |13:30pm|| [Jordan Taylor (Bath)](https://researchportal.bath.ac.uk/en/persons/jordan-taylor) *"TBC"* |
 |14:00pm|| Break |
 |14:20pm|| [Ullrich Köthe (Heidelberg)](https://hci.iwr.uni-heidelberg.de/vislearn/people/ullrich-koethe/) *"TBC"* |
-|15:20pm|| [Aretha Teckentrup (Edinburgh)](https://www.maths.ed.ac.uk/~ateckent/) *"TBC"* |
+|15:20pm|| [Aretha Teckentrup (Edinburgh)](https://www.maths.ed.ac.uk/~ateckent/) *"Convergence, Robustness and Flexibility of Gaussian Process Regression"* |
 |16:20pm|| Close |
 
 <br>
@@ -45,6 +45,28 @@ During the breaks there will be an opportunity to chat informally on [gather.tow
 To be announced later.
 
 <!--
+
+<h3 class="pt-2 pb-1">Dr Aretha Teckentrup</h3>
+
+#### Convergence, Robustness and Flexibility of Gaussian Process Regression
+
+We are interested in the task of estimating an unknown function from a set of point evaluations. In this context, Gaussian process regression is often used as a Bayesian inference procedure. However, hyper-parameters appearing in the mean and covariance structure of the Gaussian process prior, such as smoothness of the function and typical length scales, are often unknown and learnt from the data, along with the posterior mean and covariance.
+
+In the first half of the talk, we will study the robustness of Gaussian process regression with respect to mis-specification of the hyper-parameters. We work in the framework of empirical Bayes', where a point estimate of the hyper-parameters is computed, using the data, and then used within the standard Gaussian process prior to posterior update. Using results from scattered data approximation, we provide a convergence analysis of the method applied to a fixed, unknown function of interest. 
+
+In the second half of the talk, we discuss deep Gaussian processes as a class of flexible non-stationary prior distributions.
+
+[1] A.L. Teckentrup. Convergence of Gaussian process regression with estimated hyper-parameters and applications in Bayesian inverse problems. *SIAM/ASA Journal on Uncertainty Quantification*, 8(4), p. 1310-1337, 2020.
+
+[2] M.M. Dunlop, M.A. Girolami, A.M. Stuart, A.L. Teckentrup. How deep are deep Gaussian processes? *Journal of Machine Learning Research*, 19(54), 1-46, 2018.
+
+
+
+
+
+
+
+
 
 <h3 class="pt-2 pb-1">Name</h3>
 
