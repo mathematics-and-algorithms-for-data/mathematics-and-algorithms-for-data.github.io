@@ -25,7 +25,7 @@ This would allow us to estimate the numbers for gather.town breaks, and to commu
 |  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |
 |--:||---|
 |8:50am || Opening, connecting in. |
-|9:00am || [Stephen Marsland (Wellington)](https://homepages.ecs.vuw.ac.nz/~marslast/index.html) *"TBC"* |
+|9:00am || [Stephen Marsland (Wellington)](https://homepages.ecs.vuw.ac.nz/~marslast/index.html) *"Bioacoustics: Mathematics and sound recognition"* |
 |10:00am|| "Coffee" break on gather.town |
 |10:20am|| [Tim Dodwell (Exeter)](https://emps.exeter.ac.uk/engineering/staff/td336) *"TBC"* |
 |11:20am|| Long ("lunch") break (gather.town) |
@@ -42,9 +42,24 @@ During the breaks there will be an opportunity to chat informally on [gather.tow
 
 ## Abstracts of the talks
 
-To be announced later.
 
-<!--
+
+
+<h3 class="pt-2 pb-1">Prof Stephen Marsland</h3>
+
+#### Bioacoustics: Mathematics and sound recognition
+
+Animal vocalisations can be used to estimate abundance of different
+species in an environment. While technology to record the soundscape
+have made great strides, accurate processing of the recordings - which
+comprise long periods of nothing with occasional calls at varying
+distances from the detector, sometimes overlapping with each other, and
+all corrupted by natural and anthropogenic noise - remains a
+challenge. I will introduce the field, summarise the approaches used,
+focussing on the questions of mathematical interest, and highlight
+future challenges.
+ 
+
 
 <h3 class="pt-2 pb-1">Dr Aretha Teckentrup</h3>
 
@@ -67,6 +82,8 @@ In the second half of the talk, we discuss deep Gaussian processes as a class of
 
 
 
+
+<!--
 
 <h3 class="pt-2 pb-1">Name</h3>
 
