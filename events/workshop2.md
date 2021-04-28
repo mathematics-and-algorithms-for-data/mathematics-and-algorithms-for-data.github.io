@@ -40,6 +40,12 @@ This would allow us to estimate the numbers for gather.town breaks, and to commu
 
 During the breaks there will be an opportunity to chat informally on [gather.town](https://gather.town/) (a link to our dedicated meeting will be posted later).
 
+<!--
+
+[Gather.Town](https://gather.town/app/bjmBXa1yw5S0q0jT/MADWrohkosp)
+
+-->
+
 ## Abstracts of the talks
 
 
