@@ -11,3 +11,6 @@ items:
   - date: "2020-07-28"
     text: "In September 2020 we will host a workshop to bring together the 'imaging' and 'computational PDEs' communities, see [here](https://sites.google.com/view/imaging-pde-2020) for more details."
     critical: true
+  - date: "2021-04-29"
+    text: "On 7th May 2021 we are (virtually) hosting a workshop on different methods and applications of data-driven function estimation in machine learning, see [here](https://mathematics-and-algorithms-for-data.github.io/events/workshop2/) for more details."
+    critical: true
