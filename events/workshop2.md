@@ -27,7 +27,7 @@ This would allow us to estimate the numbers for gather.town breaks, and to commu
 |8:50am || Opening, connecting in. |
 |9:00am || [Stephen Marsland (Wellington)](https://homepages.ecs.vuw.ac.nz/~marslast/index.html) *"Bioacoustics: Mathematics and sound recognition"* |
 |10:00am|| "Coffee" break on gather.town |
-|10:20am|| [Tim Dodwell (Exeter)](https://emps.exeter.ac.uk/engineering/staff/td336) *"TBC"* |
+|10:20am|| [Tim Dodwell (Exeter)](https://emps.exeter.ac.uk/engineering/staff/td336) *"Adaptive Multilevel Delayed Acceptance"* |
 |11:20am|| Long ("lunch") break (gather.town) |
 |12:30pm|| [Aldo Faisal (Imperial)](https://www.imperial.ac.uk/people/a.faisal) *"The mathematics of building an AI Clinician"* |
 |13:30pm|| [Jordan Taylor (Bath)](https://researchportal.bath.ac.uk/en/persons/jordan-taylor) *"Flight Path Planning with Reinforcement Learning"* |
@@ -65,6 +65,15 @@ challenge. I will introduce the field, summarise the approaches used,
 focussing on the questions of mathematical interest, and highlight
 future challenges.
  
+
+
+<h3 class="pt-2 pb-1">Prof Tim Dodwell</h3>
+
+#### Adaptive Multilevel Delayed Acceptance
+
+Uncertainty Quantification through Markov Chain Monte Carlo (MCMC) can be prohibitively expensive for target probability densities with expensive likelihood functions, for instance when the evaluation it involves solving a Partial Differential Equation (PDE), as is the case in a wide range of engineering applications. Multilevel Delayed Acceptance (MLDA) with an Adaptive Error Model (AEM) is a novel approach, which alleviates this problem by exploiting a hierarchy of models, with increasing complexity and cost, and correcting the inexpensive models on-the-fly. The method has been integrated within the open-source probabilistic programming package PyMC3 and is available in the latest development version
+
+
 
 
 <h3 class="pt-2 pb-1">Dr Aretha Teckentrup</h3>
