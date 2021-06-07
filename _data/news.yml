@@ -14,3 +14,7 @@ items:
   - date: "2021-04-29"
     text: "On 7th May 2021 we are (virtually) hosting a workshop on different methods and applications of data-driven function estimation in machine learning, see [here](https://mathematics-and-algorithms-for-data.github.io/events/workshop2/) for more details."
     critical: true
+  - date: "2021-06-07"
+    text: '**SDEs and ML - What should we use where?** This series of targeted workshops, inspired by the science-forward Dagstuhl-style meetings, will be held on Monday 7th June and Monday 5th July at 14:00 - 17:00 BST.  If you are interested in joining these events, please send an email to m.ehrhardt@bath.ac.uk.
+'
+    critical: true
