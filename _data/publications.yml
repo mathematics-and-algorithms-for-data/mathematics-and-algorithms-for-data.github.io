@@ -226,12 +226,6 @@ papers:
     year: 2014
 
 
-  - title: "Monotonic Gaussian Process Flow"
-    authors: "Ivan Ustyuzhaninov, Ieva Kazlauskaite, Carl Henrik Ek and Neill D. F. Campbell"
-    venue: "arXiv e-print"
-    year: 2019
-    arxiv-link: https://arxiv.org/abs/1905.12930
-
   - title: "DP-GP-LVM: A Bayesian Non-Parametric Model for Learning Multivariate Dependency Structures"
     authors: "Andrew Lawrence, Carl Henrik Ek and Neill D. F. Campbell"
     venue: "Int. Conf. on Machine Learning (ICML)"
@@ -263,10 +257,30 @@ papers:
     venue: "NeurIPS Workshop on Advances in Modelling and Learning Interactions from Complex Data"
     year: 2017
 
-  - title: "Nonparametric Inference for Auto-Encoding Variational Bayes"
-    authors: "Erik Bodin, Iman Malik, Carl Henrik Ek and Neill D. F. Campbell"
-    venue: "NeurIPS Workshop on Advances in Approximate Bayesian Inference"
-    year: 2017
+  - title: "Active Latent Space Shape Model: A Bayesian Treatment of Shape Model Adaptation with an Application to Psoriatic Arthritis Radiographs"
+    authors: "Adwaye Rambojun, William Tillett, Tony Shardlow and Neill D. F. Campbell"
+    venue: "IEEE Winter Conf. on the Applications of Computer Vision (WACV)"
+    year: 2021
+
+  - title: "Compositional Uncertainty in Deep Gaussian Processes"
+    authors: "Ivan Ustyuzhaninov, Ieva Kazlauskaite, Markus Kaiser, Erik Bodin, Neill D. F. Campbell and Carl Henrik Ek"
+    venue: "Conf. on Uncertainty in Artificial Intelligence (UAI)"
+    year: 2020
+
+  - title: "Modulating Surrogates for Bayesian Optimization"
+    authors: "Erik Bodin, Markus Kaiser, Ieva Kazlauskaite, Zhenwen Dai, Neill D. F. Campbell and Carl Henrik Ek"
+    venue: "Int. Conf. on Machine Learning (ICML)"
+    year: 2020
+
+  - title: "Monotonic Gaussian Process Flow"
+    authors: "Ivan Ustyuzhaninov, Ieva Kazlauskaite, Carl Henrik Ek and Neill D. F. Campbell"
+    venue: "Int. Conf. on Artificial Intelligence and Statistics (AISTATS)"
+    year: 2020
+
+  - title: "Black-Box Density Function Estimation using Recursive Partitioning"
+    authors: "Erik Bodin, Zhenwen Dai, Neill D. F. Campbell and Carl Henrik Ek"
+    venue: "Int. Conf. on Machine Learning (ICML)"
+    year: 2021
 
   # - title: ""
   #   authors: ""
