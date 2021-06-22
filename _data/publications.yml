@@ -330,6 +330,49 @@ papers:
     arxiv-link: https://onlinelibrary.wiley.com/doi/10.1002/sta4.351
 
   
+ - title: "Semi-automated simultaneous predictor selection for Regression-SARIMA models"
+    authors: "A Lowther, P Fearnhead, M Nunes and K Jensen"
+    venue: "Statistics and Computing, vol. 30, no. 2"
+    year: 2020
+    arxiv-link: http://link.springer.com/article/10.1007/s11222-020-09970-6
+
+ - title: "Interpretable brain age prediction using linear latent variable models of functional connectivity"
+    authors: "R Monti, A Gibberd, S Roy, M Nunes, R Lorenz, R Leech, T Ogawa, M Kawanabe and A Hyvarinen"
+    venue: "PLOS One, vol. 15, no. 6"
+    year: 2020
+    arxiv-link: https://doi.org/10.1371/journal.pone.0232296
+
+ - title: "Generalised Network AutoRegressive Processes and the GNAR package" 
+    authors: "M Knight, K Leeming, G Nason, M Nunes"
+    venue: "Journal Of Statistical Software, vol. 96, no. 5"
+    year: 2020
+    arxiv-link: https://www.jstatsoft.org/article/view/v096i05
+ 
+ - title: "Dynamic detection of anomalous regions within distributed acoustic sensing data streams using locally stationary time series" 
+    authors: "R Wilson, I Eckley, M Nunes and T Park"
+    venue: "Journal Of Statistical Software, vol. 96, no. 5"
+    year: 2020
+    arxiv-link: https://link.springer.com/article/10.1007/s10618-018-00608-w
+
+ - title: "Long memory estimation for complex-valued time series" 
+    authors: "M Knight and M Nunes"
+    venue: "Statistics and Computing, vol. 29, no. 1"
+    year: 2019
+    arxiv-link: http://link.springer.com/article/10.1007/s11222-018-9820-8
+
+  - title: "Complex-valued wavelet lifting and applications" 
+    authors: "M Knight and M Nunes"
+    venue: "Technometrics, vol. 60, no. 1"
+    year: 2018
+    arxiv-link: http://www.tandfonline.com/doi/full/10.1080/00401706.2017.1281846
+
+- title: "A wavelet lifting approach to long-memory estimation" 
+    authors: "M Knight, G Nason and M Nunes"
+    venue: "Statistics and Computing, vol. 27, no. 6"
+    year: 2017
+    arxiv-link: http://link.springer.com/article/10.1007%2Fs11222-016-9698-2
+
+
 
   - title: "Deep composition of Tensor Trains using squared inverse Rosenblatt transports" 
     authors: "Tiangang Cui and Sergey Dolgov"
