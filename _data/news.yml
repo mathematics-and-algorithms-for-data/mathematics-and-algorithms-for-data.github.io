@@ -18,3 +18,7 @@ items:
     text: '**SDEs and ML - What should we use where?** This series of targeted workshops, inspired by the science-forward Dagstuhl-style meetings, will be held on Monday 7th June and Monday 5th July at 14:00 - 17:00 BST.  If you are interested in joining these events, please send an email to m.ehrhardt@bath.ac.uk.
 '
     critical: true
+  - date: "2021-06-02"
+    text: '**[IR Tools](https://github.com/silviagazzola/IRtools) Training Event for PhD students** 
+'
+    critical: true

@@ -104,25 +104,22 @@ papers:
     authors: "Beate Ehrhardt and Patrick J Wolfe"
     venue: "SIAM Rev."
     year: 2019
+    
   - title:  "Development of an automated segmentation algorithm to identify bones of the hand"
     authors: A.M. Rambojun, W. Tillett, N.D.F. Campbell, and T. Shardlow
     year: 2019
     venue: "Annals of the Rheumatic Diseases, vol. 78."
+
   - title: "A deep surrogate approach to efficient Bayesian inversion in PDE and integral equation models"
-    authors: T. Deveney, E. Mueller, and T. Shardlow"
+    authors: "T. Deveney, E. Mueller, and T. Shardlow"
     year: 2019
     venue: "arXiv e-print 1910.01547"
     arxiv-link: https://arxiv.org/abs/1910.01547 
+
   - title: "Alternating Minimal Energy Methods for Linear Systems in Higher Dimensions"
     authors: "S. Dolgov and D. Savostyanov"
     venue: "SIAM J. Sci. Comput. vol. 36, no. 5"
     year: 2014
-
-  - title: "Approximation and sampling of multivariate probability distributions in the tensor train decomposition"
-    authors: "Sergey Dolgov, Karim Anaya-Izquierdo, Colin Fox and Robert Scheichl"
-    venue: "arXiv e-print 1810.01212"
-    year: 2018
-    arxiv-link: https://arxiv.org/abs/1810.01212
 
   - title: "Balanced model order reduction for linear random dynamical systems driven by Lévy noise"
     authors: "Martin Redmann and Melina A Freitag"
@@ -281,6 +278,90 @@ papers:
     authors: "Erik Bodin, Zhenwen Dai, Neill D. F. Campbell and Carl Henrik Ek"
     venue: "Int. Conf. on Machine Learning (ICML)"
     year: 2021
+
+  - title: "Inexact Derivative-Free Optimization for Bilevel Learning"
+    authors: "M. J. Ehrhardt and L. Roberts"
+    venue: "Journal of Mathematical Imaging and Vision vol. 63, no. 5"
+    year: 2021
+    arxiv-link: https://arxiv.org/abs/2006.12674
+
+  - title: "Robust Image Reconstruction with Misaligned Structural Information"
+    authors: "L. Bungert and M. J. Ehrhardt"
+    venue: "IEEE Access vol. 8"
+    year: 2020
+    arxiv-link: https://arxiv.org/abs/2004.00589
+
+  - title: "Learning the Sampling Pattern for MRI"
+    authors: " F. Sherry, M. Benning, J. C. De los Reyes, M. J. Graves, G. Maierhofer, G. Williams, C.-B. Schönlieb and M. J. Ehrhardt"
+    venue: "IEEE Transactions on Medical Imaging vol. 39, no. 12"
+    year: 2020
+    arxiv-link: https://arxiv.org/abs/1906.08754
+
+  - title: " Chaos on Compact manifolds: Differentiable synchronisations beyond the Takens Theorem "
+    authors: " Lyudmila Grigoryeva, Allen Hart, Juan-Pablo Ortega"
+    venue: "Physical Review E, 103, 062204"
+    year: 2021
+    arxiv-link: https://arxiv.org/abs/2010.03218
+
+  - title: " Echo state networks trained by Tikhonov least squares are L2 approximators of ergodic dynamical systems "
+    authors: "A.G. Hart, J.L. Hook and J.H.P. Dawes"
+    venue: "Physica D vol. 421, 132882"
+    year: 2021
+    arxiv-link: https://arxiv.org/abs/2005.06967
+ 
+ 
+  - title: " Embedding and approximation theorems for echo state networks"
+    authors: " A.G. Hart, J.L. Hook and J.H.P. Dawes"
+    venue: "Neural Networks vol. 128, 234-247"
+    year: 2020
+    arxiv-link: https://arxiv.org/abs/1908.05202
+ 
+
+  - title: "A wavelet-based approach for imputation in nonstationary multivariate time series"
+    authors: "R Wilson, I Eckley, M Nunes and T Park"
+    venue: "Statistics and Computing, vol. 31, no. 2"
+    year: 2021
+    arxiv-link: https://link.springer.com/article/10.1007/s11222-021-09998-2
+
+  - title: "Detecting changes in mean in the presence of time-varying autocovariance"
+    authors: "E McGonigle, R Killick and M Nunes"
+    venue: "Stat, vol. 10, no. 1"
+    year: 2021
+    arxiv-link: https://onlinelibrary.wiley.com/doi/10.1002/sta4.351
+
+  
+
+  - title: "Deep composition of Tensor Trains using squared inverse Rosenblatt transports" 
+    authors: "Tiangang Cui and Sergey Dolgov"
+    venue: "arXiv preprint 2007.06968"
+    year: 2020
+    arxiv-link: https://arxiv.org/abs/2007.06968
+
+
+  - title: "Tensor decomposition methods for high-dimensional Hamilton-Jacobi-Bellman equations" 
+    authors: "Sergey Dolgov, Dante Kalise, and Karl Kunisch"
+    venue: "SIAM J. Sci. Comput., 43(3), A1625-A1650"
+    year: 2021
+    arxiv-link: https://arxiv.org/abs/1908.01533
+
+
+
+  - title: "Approximation and sampling of multivariate probability distributions in the tensor train decomposition" 
+    authors: "Sergey Dolgov, Karim Anaya-Izquierdo, Colin Fox and Robert Scheichl"
+    venue: "Statistics and Computing 30: 603-625"
+    year: 2020
+    arxiv-link: https://arxiv.org/abs/1810.01212
+
+  - title: "Krylov methods for inverse problems: Surveying classical, and introducing new, algorithmic approaches"
+    authors: "S. Gazzola, M. Sabaté Landman"
+    venue: "GAMM‐Mitteilungen 43 (4), e202000017"
+    year: 2020
+
+  - title: "Iteratively Reweighted FGMRES and FLSQR for Sparse Reconstruction"
+    authors: "S. Gazzola, J. Nagy, M. Sabaté Landman"
+    venue: "SIAM Journal on Scientific Computing, S47-S69"
+    year: 2021
+
 
   # - title: ""
   #   authors: ""
