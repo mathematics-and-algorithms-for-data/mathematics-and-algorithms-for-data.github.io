@@ -354,6 +354,57 @@ papers:
     year: 2020
     arxiv-link: https://link.springer.com/article/10.1007/s10618-018-00608-w
 
+  - title: "Classification in the wild: The art and science of transparent decision making"
+    authors: "Konstantinos Katsikopoulos, Özgür Şimşek, Marcus Buckmann, Gerd Gigerenzer”
+    Publisher: “MIT Press"
+    year: 2020
+
+  - title: "An MBO scheme for clustering and semi-supervised clustering of signed networks"
+    authors: "Mihai Cucuringu, Andrea Pizzoferrato, and Yves van Gennip"
+    venue: "Commun. Math. Sci. Vol. 19, No. 1, pp. 73–109"
+    year: 2021
+    arxiv-link: https://arxiv.org/abs/1901.03091
+  - title: "Multiple changepoint estimation in high-dimensional gaussian graphical models"
+    authors: "Gibberd Alex & Roy Sandipan"
+    venue: In submission
+    year: 2021
+    arxiv-link: https://arxiv.org/abs/1712.05786
+  - title: "Consistent Multiple Changepoint Estimation with Fused Gaussian Graphical Models"
+    authors: "Gibberd Alex and Roy Sandipan"
+    venue: Annals of the Institute of Statistical Mathematics
+    year: 2020
+    link: https://link.springer.com/article/10.1007%2Fs10463-020-00749-0
+  - title: Hedging parameter selection for basis pursuit
+    authors: S Chretien, A Gibberd and S Roy
+    venue: In submission
+    year: 2021
+    arxiv-link: https://arxiv.org/pdf/1805.01870.pdf
+  - title: Inference of tissue relative proportions of the breast epithelial cell types luminal progenitor, basal, and luminal mature
+    authors: TE Bartlett, S Chandna and S Roy
+    venue: In submission
+    year: 2021
+    arxiv-link: https://www.biorxiv.org/content/biorxiv/early/2021/05/18/2021.05.17.444493.1.full.pdf
+
+
+
+
+  - title: "A rare-event study of frequency regulation and contingency services from grid-scale batteries"
+    authors: " Maldon P. Goodridge, John Moriarty, Andrea Pizzoferrato"
+    venue: "Phil. Trans. R. Soc. A 379: 20190433"
+    year: 2021
+    arxiv-link:
+
+  - title: "Transparent modeling of influenza incidence: Big data or a single data point from psychological theory?"
+    authors: "Konstantinos Katsikopoulos, Özgür Şimşek, Marcus Buckmann, Gerd Gigerenzer"
+    venue: "International Journal of Forecasting"
+    year: 2021
+
+  - title: "Regularization in directable environments with application to Tetris"
+    authors: “Jan Malte Lichtenberg, Özgür Şimşek”
+    venue: “ICML"
+    year: 2019
+    link: http://proceedings.mlr.press/v97/lichtenberg19a/lichtenberg19a.pdf
+
   - title: "Long memory estimation for complex-valued time series" 
     authors: "M Knight and M Nunes"
     venue: "Statistics and Computing, vol. 29, no. 1"
