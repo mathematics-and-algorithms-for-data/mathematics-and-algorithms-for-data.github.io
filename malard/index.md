@@ -5,21 +5,23 @@ title: MALARD
 ---
 
 
-![X](/assets/images/duck-4077117_640.jpg){: .center-image }
+![](/assets/images/duck-4077117_640.jpg){: .center-image }
+
+<!-- source of image: https://pixabay.com/photos/duck-animal-water-water-bird-4077117/ -->
 
 
 # Who we are
 
 - [Neill Campbell](https://ndfcampbell.org/) Compute Scientist
 - [Tony Shardlow](https://people.bath.ac.uk/tjs42/) Mathematician 
-- [Will Tillet](https://researchportal.bath.ac.uk/en/persons/william-tillett) Consultant Rheumatologist 
+- [Will Tillett](https://researchportal.bath.ac.uk/en/persons/william-tillett) Consultant Rheumatologist 
 - [Adwaye Rambojun](https://people.bath.ac.uk/amr62/) Mathematical Innovation Research Associate
 - [Allen Paul]()  PhD student 
 
 
 # Our mission
 
-To exploit machine learning methodologies for the effective treatment of rheumatic diseases.
+To exploit machine-learning methodologies for the effective treatment of rheumatic diseases.
 
 # Publications
 
@@ -31,8 +33,9 @@ To exploit machine learning methodologies for the effective treatment of rheumat
 # Collaborators
 
 - Pfizer
-- SAMBa
-- Institute of Mathematical Innovation at the University of Bath.
-- Royal United Hospital
+- [Bath Institute for Rheumatic Diseases - BIRD](https://www.birdbath.org.uk/)
+- [SAMBa](https://www.bath.ac.uk/centres-for-doctoral-training/epsrc-centre-for-doctoral-training-in-statistical-applied-mathematics-samba/)
+- [Institute of Mathematical Innovation](https://imibath.ac.uk/) at the University of Bath.
+- [Royal United Hospital](https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/psoriatic_arthritis/index.asp)
 
 
