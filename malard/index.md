@@ -5,9 +5,10 @@ title: MALARD
 ---
 
 
+
 ![](/assets/images/duck-4077117_640.jpg){: .center-image }
 
-<!-- source of image: https://pixabay.com/photos/duck-animal-water-water-bird-4077117/ -->
+
 
 
 # Who we are
@@ -34,8 +35,11 @@ To exploit machine-learning methodologies for the effective treatment of rheumat
 
 - Pfizer
 - [Bath Institute for Rheumatic Diseases - BIRD](https://www.birdbath.org.uk/)
-- [SAMBa](https://www.bath.ac.uk/centres-for-doctoral-training/epsrc-centre-for-doctoral-training-in-statistical-applied-mathematics-samba/)
+- [EPSRC Centre for Doctoral Training in Statistical Applied Mathematics at Bath](https://www.bath.ac.uk/centres-for-doctoral-training/epsrc-centre-for-doctoral-training-in-statistical-applied-mathematics-samba/)
 - [Institute of Mathematical Innovation](https://imibath.ac.uk/) at the University of Bath.
 - [Royal United Hospital](https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/psoriatic_arthritis/index.asp)
 
 
+<br>
+<p style="color:grey"><small>
+Image by <a href="https://pixabay.com/users/nickype-10327513/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4077117">NickyPe</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4077117">Pixabay</a></small></p>
