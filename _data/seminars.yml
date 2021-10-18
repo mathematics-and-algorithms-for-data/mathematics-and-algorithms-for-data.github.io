@@ -1,4 +1,9 @@
 seminars:
+  - title: "A framework for analyzing variance reduced stochastic gradient methods and a new one"
+    speaker: "Jingwei Liang (Shanghai Jiao Tong University, China)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2021-10-22 12:15
+    location: "Zoom: Numerical Analysis Seminar"
   - title: "New Shapes, New Materials and New Processes"
     speaker: "Konrad Polthier (FU Berlin, Germany)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
