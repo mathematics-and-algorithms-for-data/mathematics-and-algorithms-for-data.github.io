@@ -3,72 +3,72 @@ seminars:
     speaker: "Jingwei Liang (Shanghai Jiao Tong University, China)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2021-10-22 12:15
-    location: "Zoom: Numerical Analysis Seminar"
+    location: "Zoom"
   - title: 'Rank-1 and rank-r lattices combined with operator splitting for time-dependent Schrödinger equations'
     speaker: Yuya Suzuki (NTNU, Norway)
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2021-04-30 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: Deep tensor decompositions for sampling from high-dimensional distributions  
     speaker: Sergey Dolgov (Bath)
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2021-04-23 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: 	High order numerical simulation of the underdamped Langevin diffusion  
     speaker: James Foster (Oxford)
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2021-04-16 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: 	Intrinsic subspaces of high-dimensional inverse problems and where to find them  
     speaker: Tiangang Cui (Monash University, Australia)
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2021-03-26 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: Synthetic data-driven methods for approximating high-dimensional Hamilton-Jacobi PDEs
     speaker: Dante Kalise (Nottingham)
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2021-03-05 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: Continuum Limit for Lipschitz Learning on Graphs
     speaker: Leon Bungert (Erlangen, Germany)
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2021-02-19 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: "New Shapes, New Materials and New Processes"
     speaker: "Konrad Polthier (FU Berlin, Germany)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2020-11-27 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: "Krylov Methods for Low-Rank Regularisation"
     speaker: "Silvia Gazzola (Bath)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2020-11-06 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: "Learned SVD - Solving Inverse Problems via Hybrid Autoencoding"
     speaker: "Christoph Brune (Twente, Netherlands)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2020-10-30 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: "Applications of Stochastic Differential Equations in Machine Learning"
     speaker: "Constantino Antonio García Martínez (University of Santiago de Compostela, Spain)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2020-10-23 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: "Spectral methods for graph clustering, old and new"
     speaker: "Luca Zanetti (Bath)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2020-10-09 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: "Deep Generative Models in Lattice Field Theories"
     speaker: "Pan Kessel (TU Berlin, Germany)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2020-10-02 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: "Allen-Cahn and MBO on graphs"
     speaker: "Jeremy Budd (Delft, Netherlands)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2020-05-15 12:15
-    location: "MS Teams: Numerical Analysis Seminar"
+    location: "MS Teams"
   - title: "A fine(r)-grained perspective onto object interactions"
     speaker: "Dima Damen (University of Bristol)"
     date: 2020-03-24 11:15
