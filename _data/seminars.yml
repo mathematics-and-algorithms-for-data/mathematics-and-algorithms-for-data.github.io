@@ -4,6 +4,36 @@ seminars:
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2021-10-22 12:15
     location: "Zoom: Numerical Analysis Seminar"
+  - title: 'Rank-1 and rank-r lattices combined with operator splitting for time-dependent Schrödinger equations'
+    speaker: Yuya Suzuki (NTNU, Norway)
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2021-04-30 12:15
+    location: "MS Teams: Numerical Analysis Seminar"
+  - title: Deep tensor decompositions for sampling from high-dimensional distributions  
+    speaker: Sergey Dolgov (Bath)
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2021-04-23 12:15
+    location: "MS Teams: Numerical Analysis Seminar"
+  - title: 	High order numerical simulation of the underdamped Langevin diffusion  
+    speaker: James Foster (Oxford)
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2021-04-16 12:15
+    location: "MS Teams: Numerical Analysis Seminar"
+  - title: 	Intrinsic subspaces of high-dimensional inverse problems and where to find them  
+    speaker: Tiangang Cui (Monash University, Australia)
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2021-03-26 12:15
+    location: "MS Teams: Numerical Analysis Seminar"
+  - title: Synthetic data-driven methods for approximating high-dimensional Hamilton-Jacobi PDEs
+    speaker: Dante Kalise (Nottingham)
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2021-03-05 12:15
+    location: "MS Teams: Numerical Analysis Seminar"
+  - title: Continuum Limit for Lipschitz Learning on Graphs
+    speaker: Leon Bungert (Erlangen, Germany)
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2021-02-19 12:15
+    location: "MS Teams: Numerical Analysis Seminar"
   - title: "New Shapes, New Materials and New Processes"
     speaker: "Konrad Polthier (FU Berlin, Germany)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
