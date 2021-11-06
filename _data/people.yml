@@ -25,7 +25,7 @@ faculty:
     topics: "dynamical systems, reservoir computing"
   - img: "images/lisa.jpg"
     url: "https://people.bath.ac.uk/lmk54/"
-    name:  "Lisa Kruesser"
+    name:  "Lisa Kreusser"
     topics: "dynamical systems, differential equations, numerical analysis, deep learning"
   - img: "images/bartlett.png"
     url: "https://thestatsgeek.com"
