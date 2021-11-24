@@ -1,11 +1,16 @@
 seminars:
+  - title: "Wasserstein GANs Work Because They Fail (to Approximate the Wasserstein Distance)"
+    speaker: "Lisa Kreusser (Bath)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2021-11-26 12:15
+    location: "Zoom"
   - title: "Deep Learning for convex optimisation (and beyond)"
-    speaker: "Sebastian Banert (Lund University, Sweden)"
+    speaker: "Sebastian Banert (Lund, Sweden)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2021-10-29 12:15
     location: "Zoom"
   - title: "A framework for analyzing variance reduced stochastic gradient methods and a new one"
-    speaker: "Jingwei Liang (Shanghai Jiao Tong University, China)"
+    speaker: "Jingwei Liang (Shanghai Jiao Tong, China)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
     date: 2021-10-22 12:15
     location: "Zoom"
