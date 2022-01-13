@@ -13,7 +13,7 @@ title: MALARD
 
 # Who we are
 
-- [Neill Campbell](https://ndfcampbell.org/) Compute Scientist
+- [Neill Campbell](https://ndfcampbell.org/) Computer Scientist
 - [Adwaye Rambojun](https://people.bath.ac.uk/amr62/) Mathematical Innovation Research Associate
 - [Tony Shardlow](https://people.bath.ac.uk/tjs42/) Mathematician 
 - [Will Tillett](https://researchportal.bath.ac.uk/en/persons/william-tillett) Consultant Rheumatologist 
