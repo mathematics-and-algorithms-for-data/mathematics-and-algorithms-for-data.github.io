@@ -118,7 +118,7 @@ faculty:
   - img: "images/bubba.jpg"
     url: "https://people.bath.ac.uk/tab73/"
     name:  "Tatiana Bubba"
-    topics: "Tomographic inverse problems,	Sparse regularisation and optimisation, 	Deep learning in imaging"
+    topics: "Tomographic inverse problems, Sparse regularisation,  optimisation, Deep learning in imaging"
 researchers:
   - name: "Eleanor Barry"
     working: "Jonathan Bartlett"
