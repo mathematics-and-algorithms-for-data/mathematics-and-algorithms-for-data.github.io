@@ -1,47 +1,47 @@
 seminars:
   - title: "Random Primal-Dual Method with applications to Parallel MRI"
     speaker: "Eric Baruch Gutierrez (University of Bath)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2022/seminar_02_01"
     date: 2022-3-18 12:15
     location: "Wolfson"
   - title: "Regularising inverse imaging problems using generative deep learning models"
     speaker: "Margaret Duff (University of Bath)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2022/seminar_02_01"
     date: 2022-3-11 12:15
     location: "Wolfson"
   - title: "Bayesian Inverse Problems for NMR"
     speaker: "Michele Firmo (University of Bath)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2022/seminar_02_01"
     date: 2022-3-4 12:15
     location: "Wolfson"
   - title: "Deep Learning for convex optimisation (and beyond)"
     speaker: "Sebastian Banert (Lund, Sweden)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
-    date: 2022-8-29 12:15
+    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_10_01"
+    date: 2021-8-29 12:15
     location: "Zoom"
   - title: "A framework for analyzing variance reduced stochastic gradient methods and a new one"
     speaker: "Jingwei Liang (Shanghai Jiao Tong University, China)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
-    date: 2022-8-22 12:15
+    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_10_01"
+    date: 2021-8-22 12:15
     location: "Zoom"
   - title: "Dynamic inverse problems in spaces of measures with optimal-transport regularization"
     speaker: "Kristian Bredies (University of Graz, Austria)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
-    date: 2022-8-15 12:15
+    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_10_01"
+    date: 2021-8-15 12:15
     location: "Wolfson"
   - title: "Wasserstein GANs Work Because They Fail (to Approximate the Wasserstein Distance)"
     speaker: "Lisa Kreusser (Bath)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_10_01"
     date: 2021-11-26 12:15
     location: "Zoom"
   - title: "Deep Learning for convex optimisation (and beyond)"
     speaker: "Sebastian Banert (Lund, Sweden)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_10_01"
     date: 2021-10-29 12:15
     location: "Zoom"
   - title: "A framework for analyzing variance reduced stochastic gradient methods and a new one"
     speaker: "Jingwei Liang (Shanghai Jiao Tong, China)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_10_01"
     date: 2021-10-22 12:15
     location: "Zoom"
   - title: 'Rank-1 and rank-r lattices combined with operator splitting for time-dependent Schrödinger equations'
@@ -56,47 +56,47 @@ seminars:
     location: "MS Teams"
   - title: 	High order numerical simulation of the underdamped Langevin diffusion  
     speaker: James Foster (Oxford)
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_02_01"
     date: 2021-04-16 12:15
     location: "MS Teams"
   - title: 	Intrinsic subspaces of high-dimensional inverse problems and where to find them  
     speaker: Tiangang Cui (Monash University, Australia)
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "hhttps://bath-numerical-analysis.github.io/categories/2021/seminar_02_01"
     date: 2021-03-26 12:15
     location: "MS Teams"
   - title: Synthetic data-driven methods for approximating high-dimensional Hamilton-Jacobi PDEs
     speaker: Dante Kalise (Nottingham)
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_02_01"
     date: 2021-03-05 12:15
     location: "MS Teams"
   - title: Continuum Limit for Lipschitz Learning on Graphs
     speaker: Leon Bungert (Erlangen, Germany)
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_02_01"
     date: 2021-02-19 12:15
     location: "MS Teams"
   - title: "New Shapes, New Materials and New Processes"
     speaker: "Konrad Polthier (FU Berlin, Germany)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2020/seminar_10_01"
     date: 2020-11-27 12:15
     location: "MS Teams"
   - title: "Krylov Methods for Low-Rank Regularisation"
     speaker: "Silvia Gazzola (Bath)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2020/seminar_10_01"
     date: 2020-11-06 12:15
     location: "MS Teams"
   - title: "Learned SVD - Solving Inverse Problems via Hybrid Autoencoding"
     speaker: "Christoph Brune (Twente, Netherlands)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2020/seminar_10_01"
     date: 2020-10-30 12:15
     location: "MS Teams"
   - title: "Applications of Stochastic Differential Equations in Machine Learning"
     speaker: "Constantino Antonio García Martínez (University of Santiago de Compostela, Spain)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2020/seminar_10_01"
     date: 2020-10-23 12:15
     location: "MS Teams"
   - title: "Spectral methods for graph clustering, old and new"
     speaker: "Luca Zanetti (Bath)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2020/seminar_10_01"
     date: 2020-10-09 12:15
     location: "MS Teams"
   - title: "Deep Generative Models in Lattice Field Theories"
@@ -106,7 +106,7 @@ seminars:
     location: "MS Teams"
   - title: "Allen-Cahn and MBO on graphs"
     speaker: "Jeremy Budd (Delft, Netherlands)"
-    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2020/seminar_10_01"
     date: 2020-05-15 12:15
     location: "MS Teams"
   - title: "A fine(r)-grained perspective onto object interactions"
@@ -123,12 +123,12 @@ seminars:
     location: "3W 4.7"
   - title: "A forward-backward algorithm for reweighted procedures: Application to astro-imaging"
     speaker: "Audrey Repetti (Heriot-Watt, Edinburgh)"
-    url: "http://people.bath.ac.uk/sg968/NAseminars/naseminar.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2019/seminar_09_30"
     date: 2019-11-08 12:15
     location: "8W 2.27"
   - title: "The geometry of first order methods and adaptive acceleration"
     speaker: "Clarice Poon (University of Bath)"
-    url: "http://people.bath.ac.uk/sg968/NAseminars/naseminar.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2019/seminar_09_30"
     date: 2019-10-04 12:15
     location: "4W 1.7 Wolfson"
   - title: "Inverse problems with imperfect forward operators and applications in image deblurring"
@@ -158,6 +158,6 @@ seminars:
     location: "CB 3.9"
   - title: "Bayesian inversion by deep learning with applications to tomography"
     speaker: "Ozan Oktem (Stockholm)"
-    url: "http://people.bath.ac.uk/sg968/NAseminars/naseminar.html"
+    url: "https://bath-numerical-analysis.github.io/categories/2019/seminar_02_01"
     date: 2019-03-01 12:15
     location: "4W 1.7 Wolfson"
