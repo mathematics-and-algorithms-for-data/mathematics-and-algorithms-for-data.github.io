@@ -23,7 +23,7 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               {% assign sorted_dropdown_pages = dropdown_pages | sort:"index" %}
               {% for subpage in sorted_dropdown_pages %}
-                <a class="dropdown-item {% if subpage.url == page.url %}font-weight-bold{% endif %}" href="{{ site.baseurl }}{{ subpage.url }}">{{ subpage.title }}</a>
+                <a class="dropdown-item {% if subpage.url == page.url %}font-weight-bold{% endif %}" href="{{ site.baseurl }}{{ subpage.url }}">{{ subpage.title }}</a> 
               {% endfor %}
             </div>
           </li>

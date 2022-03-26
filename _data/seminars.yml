@@ -1,4 +1,34 @@
 seminars:
+  - title: "Random Primal-Dual Method with applications to Parallel MRI"
+    speaker: "Eric Baruch Gutierrez (University of Bath)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2022-3-18 12:15
+    location: "Wolfson"
+  - title: "Regularising inverse imaging problems using generative deep learning models"
+    speaker: "Margaret Duff (University of Bath)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2022-3-11 12:15
+    location: "Wolfson"
+  - title: "Bayesian Inverse Problems for NMR"
+    speaker: "Michele Firmo (University of Bath)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2022-3-4 12:15
+    location: "Wolfson"
+  - title: "Deep Learning for convex optimisation (and beyond)"
+    speaker: "Sebastian Banert (Lund, Sweden)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2022-8-29 12:15
+    location: "Zoom"
+  - title: "A framework for analyzing variance reduced stochastic gradient methods and a new one"
+    speaker: "Jingwei Liang (Shanghai Jiao Tong University, China)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2022-8-22 12:15
+    location: "Zoom"
+  - title: "Dynamic inverse problems in spaces of measures with optimal-transport regularization"
+    speaker: "Kristian Bredies (University of Graz, Austria)"
+    url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
+    date: 2022-8-15 12:15
+    location: "Wolfson"
   - title: "Wasserstein GANs Work Because They Fail (to Approximate the Wasserstein Distance)"
     speaker: "Lisa Kreusser (Bath)"
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"

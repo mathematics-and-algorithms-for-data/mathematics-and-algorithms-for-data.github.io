@@ -17,6 +17,13 @@ use_word_cloud: true
 
 The Centre for Mathematics and Algorithms for Data (MAD) at the [University of Bath](http://www.bath.ac.uk/) is an interdisciplinary group of researchers working at the intersection of Statistics, Machine Learning and Numerical Analysis with a huge range of application areas. Data Scientists use mathematics and computation to extract useful information from data. MAD aims to facilitate dialogue between groups, especially theorists in computer science and mathematics, and develop rigour in the field.
 
+## Mathematics of Deep Learning 
+
+
+[![Maths for Deep Learning](/assets/logo_m4dl.png)](https://people.bath.ac.uk/mascjb/maths4dl.html)
+
+We work closely with the EPSRC Programme Grant [Maths4DL](https://people.bath.ac.uk/mascjb/maths4dl.html) on the Mathematics of Deep Learning, joint between Bath, Cambridge and UCL, which started in February 2022.
+
 ## People
 
 We are comprised of a set of academic faculty and research staff and students across Mathematics, Statistics and Computer Science. Details of our research interests and individual websites can be accessed [here]({{ site.baseurl }}/people/).
