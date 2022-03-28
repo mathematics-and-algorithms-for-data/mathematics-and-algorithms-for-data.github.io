@@ -14,21 +14,6 @@ seminars:
     url: "https://bath-numerical-analysis.github.io/categories/2022/seminar_02_01"
     date: 2022-3-4 12:15
     location: "Wolfson"
-  - title: "Deep Learning for convex optimisation (and beyond)"
-    speaker: "Sebastian Banert (Lund, Sweden)"
-    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_10_01"
-    date: 2021-8-29 12:15
-    location: "Zoom"
-  - title: "A framework for analyzing variance reduced stochastic gradient methods and a new one"
-    speaker: "Jingwei Liang (Shanghai Jiao Tong University, China)"
-    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_10_01"
-    date: 2021-8-22 12:15
-    location: "Zoom"
-  - title: "Dynamic inverse problems in spaces of measures with optimal-transport regularization"
-    speaker: "Kristian Bredies (University of Graz, Austria)"
-    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_10_01"
-    date: 2021-8-15 12:15
-    location: "Wolfson"
   - title: "Wasserstein GANs Work Because They Fail (to Approximate the Wasserstein Distance)"
     speaker: "Lisa Kreusser (Bath)"
     url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_10_01"
@@ -44,6 +29,11 @@ seminars:
     url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_10_01"
     date: 2021-10-22 12:15
     location: "Zoom"
+  - title: "Dynamic inverse problems in spaces of measures with optimal-transport regularization"
+    speaker: "Kristian Bredies (University of Graz, Austria)"
+    url: "https://bath-numerical-analysis.github.io/categories/2021/seminar_10_01"
+    date: 2021-10-15 12:15
+    location: "Wolfson"
   - title: 'Rank-1 and rank-r lattices combined with operator splitting for time-dependent Schrödinger equations'
     speaker: Yuya Suzuki (NTNU, Norway)
     url: "https://bath-numerical-analysis.github.io/events/current_seminars.html"
