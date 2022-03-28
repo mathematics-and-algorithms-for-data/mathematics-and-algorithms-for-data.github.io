@@ -2,17 +2,17 @@ seminars:
   - title: "Random Primal-Dual Method with applications to Parallel MRI"
     speaker: "Eric Baruch Gutierrez (University of Bath)"
     url: "https://bath-numerical-analysis.github.io/categories/2022/seminar_02_01"
-    date: 2022-3-18 12:15
+    date: 2022-03-18 12:15
     location: "Wolfson"
   - title: "Regularising inverse imaging problems using generative deep learning models"
     speaker: "Margaret Duff (University of Bath)"
     url: "https://bath-numerical-analysis.github.io/categories/2022/seminar_02_01"
-    date: 2022-3-11 12:15
+    date: 2022-03-11 12:15
     location: "Wolfson"
   - title: "Bayesian Inverse Problems for NMR"
     speaker: "Michele Firmo (University of Bath)"
     url: "https://bath-numerical-analysis.github.io/categories/2022/seminar_02_01"
-    date: 2022-3-04 12:15
+    date: 2022-03-04 12:15
     location: "Wolfson"
   - title: "Wasserstein GANs Work Because They Fail (to Approximate the Wasserstein Distance)"
     speaker: "Lisa Kreusser (Bath)"
