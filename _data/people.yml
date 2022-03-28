@@ -123,7 +123,10 @@ faculty:
     url: "https://researchportal.bath.ac.uk/en/persons/cangxiong-chen/"
     name:  "Cangxiong Chen"
     topics: "Machine Learning,  Differential Privacy"
-
+  - img: "images/teo.png"
+    url: "https://researchportal.bath.ac.uk/en/persons/teo-deveney/"
+    name:  "Teo Deveney"
+    topics: "Deep learning, Bayesian inference, Differential equations"
 researchers:
   - name: "Eleanor Barry"
     working: "Jonathan Bartlett"
