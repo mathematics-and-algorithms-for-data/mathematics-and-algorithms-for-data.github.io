@@ -111,21 +111,16 @@ seminars:
     speaker: "Ivor Simpson (University of Sussex)"
     date: 2020-01-17 14:15
     location: "3W 4.7"
-  - title: "A forward-backward algorithm for reweighted procedures: Application to astro-imaging"
-    speaker: "Audrey Repetti (Heriot-Watt, Edinburgh)"
-    url: "https://bath-numerical-analysis.github.io/categories/2019/seminar_09_30"
-    date: 2019-11-08 12:15
-    location: "8W 2.27"
-  - title: "The geometry of first order methods and adaptive acceleration"
-    speaker: "Clarice Poon (University of Bath)"
-    url: "https://bath-numerical-analysis.github.io/categories/2019/seminar_09_30"
-    date: 2019-10-04 12:15
-    location: "4W 1.7 Wolfson"
   - title: "Inverse problems with imperfect forward operators and applications in image deblurring"
     speaker: "Yury Korolev (University of Cambridge)"
     url: "https://wiki.bath.ac.uk/display/cnmseminar/2019-20+Schedule"
     date: 2019-11-26 13:15
     location: "4W 1.7 Wolfson"
+  - title: "A forward-backward algorithm for reweighted procedures: Application to astro-imaging"
+    speaker: "Audrey Repetti (Heriot-Watt, Edinburgh)"
+    url: "https://bath-numerical-analysis.github.io/categories/2019/seminar_09_30"
+    date: 2019-11-08 12:15
+    location: "8W 2.27"
   - title: "How Many Labels Do You Need For Semi-Supervised Learning?"
     speaker: "Matt Thorpe (University of Manchester)"
     url: "https://wiki.bath.ac.uk/display/cnmseminar/2019-20+Schedule"
@@ -135,6 +130,11 @@ seminars:
     speaker: "Ke Chen (University of Liverpool)"
     url: "https://wiki.bath.ac.uk/display/cnmseminar/2019-20+Schedule"
     date: 2019-10-15 13:15
+    location: "4W 1.7 Wolfson"
+  - title: "The geometry of first order methods and adaptive acceleration"
+    speaker: "Clarice Poon (University of Bath)"
+    url: "https://bath-numerical-analysis.github.io/categories/2019/seminar_09_30"
+    date: 2019-10-04 12:15
     location: "4W 1.7 Wolfson"
   - title: "Assessing the performance in predicting terrorism in space and time using extreme gradient boosting and geostatistical models"
     speaker: "Andre Python (University of Oxford)"
