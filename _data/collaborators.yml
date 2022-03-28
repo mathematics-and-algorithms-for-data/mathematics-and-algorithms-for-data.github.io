@@ -9,6 +9,8 @@ list:
     url: "http://www.dnvgl.com/"
   - name: "DNeg"
     url: "https://dneg.com/"
+  - name: "Diamond Light Source"
+    url: "https://www.diamond.ac.uk"
   - name: "Dementia Research Centre"
     url: "https://www.ucl.ac.uk/drc/"
   - name: "EPSRC"
