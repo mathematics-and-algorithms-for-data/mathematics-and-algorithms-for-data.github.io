@@ -12,7 +12,7 @@ seminars:
   - title: "Bayesian Inverse Problems for NMR"
     speaker: "Michele Firmo (University of Bath)"
     url: "https://bath-numerical-analysis.github.io/categories/2022/seminar_02_01"
-    date: 2022-3-4 12:15
+    date: 2022-3-04 12:15
     location: "Wolfson"
   - title: "Wasserstein GANs Work Because They Fail (to Approximate the Wasserstein Distance)"
     speaker: "Lisa Kreusser (Bath)"
