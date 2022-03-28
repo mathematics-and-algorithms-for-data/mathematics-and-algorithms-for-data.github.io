@@ -9,7 +9,7 @@ permalink: /seminars/
 We organise a number of seminars based on our common interests. You might also be interested in the seminar series in [Statistics](https:\\people.bath.ac.uk\kmph20\seminars.html), [Numerical Analysis](https://bath-numerical-analysis.github.io/events/current_seminars.html\naseminar.html), [Applied and Interdisciplinary Mathematics (AIMS)](https://wiki.bath.ac.uk/display/cnmseminar/), and [Networks](https:\\people.bath.ac.uk\ma3tcr\cncb_calendar.html).
 
 <div class="container">
-{% assign sorted_seminars = site.data.seminars.seminars | sort: "date" | reverse %}
+{% assign sorted_seminars = site.data.seminars.seminars | sort: 'date' | reverse %}
 {% for item in sorted_seminars %}
 	<div class="row align-items-center shadow-sm p-1 mb-3 bg-light rounded border border-light">
 		<div class="col-xs-12">
