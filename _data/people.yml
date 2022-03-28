@@ -119,6 +119,11 @@ faculty:
     url: "https://people.bath.ac.uk/tab73/"
     name:  "Tatiana Bubba"
     topics: "Tomographic inverse problems, Sparse regularisation,  optimisation, Deep learning in imaging"
+  - img: "images/cangxiong.jpg"
+    url: "https://researchportal.bath.ac.uk/en/persons/cangxiong-chen/"
+    name:  "Cangxiong Chen"
+    topics: "Machine Learning,  Differential Privacy"
+
 researchers:
   - name: "Eleanor Barry"
     working: "Jonathan Bartlett"
