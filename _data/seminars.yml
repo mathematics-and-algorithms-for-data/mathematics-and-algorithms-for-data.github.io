@@ -138,7 +138,7 @@ seminars:
     location: "4W 1.7 Wolfson"
   - title: "Assessing the performance in predicting terrorism in space and time using extreme gradient boosting and geostatistical models"
     speaker: "Andre Python (University of Oxford)"
-    url: "https://people.bath.ac.uk/kmph20/seminars.html"
+    url: "https://people.bath.ac.uk/kmph20/seminars.html" 
     date: 2019-03-26 14:15
     location: "CB 3.7"
   - title: "On Spectral Graph Clustering"
