@@ -8,5 +8,3 @@ pages:
     dropdown: true
   - title: Seminars
     url: /seminars/
-  - title: Publications
-    url: /publications/
