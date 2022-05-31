@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: MAD Workshop "Statistical Learning and Differential Privacy"
-permalink: /events/workshop_dp_2022/
+permalink: /events/workshop_SLDP2022/
 index: 0
 ---
 
