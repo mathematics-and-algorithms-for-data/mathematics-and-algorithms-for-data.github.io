@@ -1,5 +1,8 @@
 items:
   - date: "2022-08-11"
+    text: "**[Statistical Learning and Differential Privacy](/events/workshop_SLDP2022/)** Two-day workshop 12-13 September 2022. "
+    critical: true 
+  - date: "2022-09-22"
     text: "**[Analytical and Geometric Approaches](https://bathsymposium.ac.uk/symposium/analytic-and-geometric-approaches-to-machine-learning/)** Five-day workshop 26-30 July 2022. "
     critical: true 
   - date: "2022-04-21"
