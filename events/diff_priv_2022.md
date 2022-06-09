@@ -1,13 +1,12 @@
-<!--
 ---
 layout: default_sparse
 title: MAD Workshop "Statistical Learning and Differential Privacy"
 permalink: /events/workshop_SLDP2022/
 index: 0
 ---
--->
 
-<h1 style="text-align: center;" class="pb-2">MAD Workshop "Statistical Learning and Differential Privacy 2022"</h1>
+
+# MAD Workshop "Statistical Learning and Differential Privacy 2022
 
 Statistical learning (or machine learning) and deep learning techniques have been deployed widely in almost all parts of our lives nowadays, for example in search engines, online recommendation systems, AI-assisted healthcare and on edge devices like mobile phones. An important and urgent question to address is how we can perform statistical learning to learn general patterns from datasets that are useful without revealing data of individual participants? This question has become the key challenge that hinders further applications of statistical learning and deep learning in privacy-sensitive applications. Differential privacy is a mathematical framework that can provide theoretical guarantees to this question, while allowing us to achieve model utility and accuracy for specific problems in applications. Statistical learning that preserves differential privacy has been an intense field of study in recent years. Top conferences in machine learning such as NeurIPS and ICML have dedicated workshops on this topic every year. 
 
