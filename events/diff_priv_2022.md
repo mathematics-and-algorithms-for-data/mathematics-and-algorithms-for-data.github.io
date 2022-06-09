@@ -1,9 +1,11 @@
+<!--
 ---
 layout: default_sparse
 title: MAD Workshop "Statistical Learning and Differential Privacy"
 permalink: /events/workshop_SLDP2022/
 index: 0
 ---
+-->
 
 <h1 style="text-align: center;" class="pb-2">MAD Workshop "Statistical Learning and Differential Privacy 2022"</h1>
 
@@ -16,15 +18,26 @@ This workshop is organised by the [Center for Mathematics and Algorithms for Dat
 ## 12th-13th September, 2022, University of Bath
 <h4 class="pt-3">Programme: TBC</h4>
 
+<!--
 |  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |
 |--:||---|
 |8:50am || Opening |
 |9:00am || [TBA](https://www.) *"TBA"* |
-
+-->
+## Confirmed Speakers 
+Clarice Poon (University of Bath)
 
 ## Abstracts of the talks
+<h4 class="pt-3">TBA</h4>
 
-
+<!--
 ### Talk 1: Speaker 1 (University 1)
 
 This theorem...
+-->
+
+### Organisers
+Cangxiong Chen, Tony Shardlow, Neill Campbell, Clarice Poon, Matt Nunes, Sandipan Roy, Teo Deveney
+
+### Event Coordinator
+Christina Squire
