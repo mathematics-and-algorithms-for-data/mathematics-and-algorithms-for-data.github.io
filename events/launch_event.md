@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: Launch Event
+title: MAD Launch Event
 permalink: /events/launch_event/
 index: 0
 ---
