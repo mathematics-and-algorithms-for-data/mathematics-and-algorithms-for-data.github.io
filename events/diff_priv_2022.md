@@ -15,8 +15,8 @@ This workshop will bring together researchers and practitioners from statistical
 
 This workshop is organised by the [Center for Mathematics and Algorithms for Data (MAD)](https://mathematics-and-algorithms-for-data.github.io/) at the [University of Bath](http://www.bath.ac.uk). It is sponsored by [ART-AI](https://cdt-art-ai.ac.uk/) and [Maths4DL](https://people.bath.ac.uk/mascjb/maths4dl.html). 
 
-## 12th-13th September, 2022, University of Bath
 <h4 class="pt-3">Programme: TBC</h4>
+Monday 12 - Tuesday 13 September, 2022
 
 <!--
 |  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |
