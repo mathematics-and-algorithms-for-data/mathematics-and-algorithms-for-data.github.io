@@ -1,4 +1,8 @@
 seminars:
+  - title: "Challenges and improvements in optimization algorithms for machine learning"
+    speaker: "Coralia Cartis (Oxford)"
+    date: 2022-06-14 12:15
+    location: "Zoom"
   - title: "Random Primal-Dual Method with applications to Parallel MRI"
     speaker: "Eric Baruch Gutierrez (University of Bath)"
     url: "https://bath-numerical-analysis.github.io/categories/2022/seminar_02_01"

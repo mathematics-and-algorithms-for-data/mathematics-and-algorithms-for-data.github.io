@@ -14,7 +14,7 @@ We organise a number of seminars based on our common interests. You might also b
 	<div class="row align-items-center shadow-sm p-1 mb-3 bg-light rounded border border-light">
 		<div class="col-xs-12">
 			<b>{{ item.title }}</b>, <br class="d-none d-lg-block" />
-			{{ item.speaker }}, <br class="d-xs-block d-lg-block" />
+			{{ item.speaker }} <br class="d-xs-block d-lg-block" />
 			<i>Location:</i> {{ item.location }},&nbsp;&nbsp;<i>Time:</i> {{ item.date | date: "%H:%M, %d %b, %Y" }}
       {% if  item.url %}
       	<a href="{{ item.url }}">[url]</a> 
