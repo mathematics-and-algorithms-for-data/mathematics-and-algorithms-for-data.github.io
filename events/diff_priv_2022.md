@@ -25,7 +25,7 @@ Monday 12 - Tuesday 13 September, 2022
 |9:00am || [TBA](https://www.) *"TBA"* |
 -->
 ## Confirmed Speakers 
-Clarice Poon (University of Bath)
+[Clarice Poon](https://cmhsp2.github.io/) (University of Bath), [Antti Honkela](https://www.cs.helsinki.fi/u/ahonkela/) (University of Helsinki), [Antoine Chatalic](https://achatali.gitlab.io/) (University of Genoa), [Marco Avella Medina](https://sites.google.com/site/marcoavellamedina/home) (Columbia University), [Jordan Alexander Awan](https://jordan-awan.com/) (Purdue University)
 
 ## Abstracts of the talks
 <h4 class="pt-3">TBA</h4>
