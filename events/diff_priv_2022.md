@@ -27,7 +27,7 @@ We will have a workshop dinner on Monday the 12th.
 |9:00am || [TBA](https://www.) *"TBA"* |
 -->
 ## Confirmed Speakers 
-[Clarice Poon](https://cmhsp2.github.io/) (University of Bath), [Antti Honkela](https://www.cs.helsinki.fi/u/ahonkela/) (University of Helsinki), [Antoine Chatalic](https://achatali.gitlab.io/) (University of Genoa), [Marco Avella Medina](https://sites.google.com/site/marcoavellamedina/home) (Columbia University), [Jordan Alexander Awan](https://jordan-awan.com/) (Purdue University), [Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html)(Imperial College London), [Alice Davis](https://www.linkedin.com/in/alice-davis-837552150/) (Mayden), [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (Oxford)
+[Clarice Poon](https://cmhsp2.github.io/) (University of Bath), [Antti Honkela](https://www.cs.helsinki.fi/u/ahonkela/) (University of Helsinki), [Antoine Chatalic](https://achatali.gitlab.io/) (University of Genoa), [Marco Avella Medina](https://sites.google.com/site/marcoavellamedina/home) (Columbia University), [Jordan Alexander Awan](https://jordan-awan.com/) (Purdue University), [Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html) (Imperial College London), [Alice Davis](https://www.linkedin.com/in/alice-davis-837552150/) (Mayden), [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (Oxford), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) (Université de Neuchâtel)
 
 ## Abstracts of the talks
 <h4 class="pt-3">TBA</h4>
