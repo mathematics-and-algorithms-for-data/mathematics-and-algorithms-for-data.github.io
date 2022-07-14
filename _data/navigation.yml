@@ -5,6 +5,7 @@ pages:
     url: /people/
   - title: Events
     url: /events/
-    dropdown: true
   - title: Seminars
     url: /seminars/
+  - title: About
+    url: /about/

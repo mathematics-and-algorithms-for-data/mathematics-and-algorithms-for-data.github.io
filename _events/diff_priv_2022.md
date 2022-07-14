@@ -1,7 +1,9 @@
 ---
 layout: default_sparse
-title: MAD Workshop "Statistical Learning and Differential Privacy"
+title: "Statistical Learning and Differential Privacy"
 permalink: /events/workshop_SLDP2022/
+start_date: "2022-09-12"
+end_date: "13 September 2022"
 index: 0
 ---
 

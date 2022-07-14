@@ -2,6 +2,8 @@
 layout: default_sparse
 title: Mathematics of Machine Learning
 permalink: /events/mathml2020/
+start_date: "2020-07-27"
+end_date: "31 July 2020"
 index: 0
 ---
 

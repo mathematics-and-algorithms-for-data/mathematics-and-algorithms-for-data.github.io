@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-## Faculty
+
 
 <div class="container no-gutters pl-0 pr-0 pt-2">
 <div class="row no-gutters">
@@ -40,7 +40,7 @@ permalink: /people/
 </div>
 </div>
 
-## Researchers
+<!-- ## Researchers
 
 <div class="container no-gutters pl-0 pr-0 pt-2">
 <div class="row">
@@ -52,4 +52,4 @@ permalink: /people/
 </div>
 {% endfor %}
 </div>
-</div>
+</div> -->

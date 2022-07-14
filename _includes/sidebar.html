@@ -7,7 +7,7 @@
   {% endif %}
 
   {% assign sorted_news_items = (filtered_news_items | sort: 'date') | reverse %}
-  {% for item in sorted_news_items %}
+  {% for item in sorted_news_items limit: 5 %}
   <div class="card-body clearfix pb-0 pt-0 mb-2 {%comment%}{% if item.critical %}ndfc-brand{% endif %}{%endcomment%}"><!--text-danger-->
     <!--<h5 class="card-title">Special title treatment</h5>-->
     <p class="card-text" style="text-indent: -1em; padding-left: 1em;">

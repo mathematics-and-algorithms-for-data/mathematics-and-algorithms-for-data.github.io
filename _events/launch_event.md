@@ -2,6 +2,7 @@
 layout: default_sparse
 title: MAD Launch Event
 permalink: /events/launch_event/
+start_date: "13 November 2019"
 index: 0
 ---
 

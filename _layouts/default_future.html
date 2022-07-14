@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head_includes.html %}
+
+    <title>{{ site.title}} : {{ page.title }}</title>
+  </head>
+
+  <header>
+  </header>
+
+  <body>
+    {% include navbar.html %}
+    {% include header_full.html %}
+    
+    <main role="main" class="container">
+    <!--<div class="container m-t-2">-->
+      {{ content }}
+    <!--</div>-->
+    </main>
+
+    <footer class="footer bg-light" style="border-top: 1px solid #d8dce0!important">
+      {% include footer.html %}
+    </footer>
+
+    {% include scripts.html %}
+    {% include future-date.html %}
+  </body>
+  </html>

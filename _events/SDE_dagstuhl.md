@@ -2,6 +2,7 @@
 layout: default_sparse
 title: MAD Workshop "SDEs and ML - What should we use where?"
 permalink: /events/SDE2021
+start_date: "2021-06-07"
 index: 0
 ---
 
