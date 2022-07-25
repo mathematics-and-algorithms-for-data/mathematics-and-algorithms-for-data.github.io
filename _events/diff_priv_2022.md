@@ -22,6 +22,10 @@ Monday 12 - Tuesday 13 September, 2022
 
 We will have a workshop dinner on Monday the 12th. 
 
+## Registration
+
+If you would like to participate, please registrate [here](https://forms.gle/uE66SHqQqh2i7nYq6).
+
 <!--
 |  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |
 |--:||---|
