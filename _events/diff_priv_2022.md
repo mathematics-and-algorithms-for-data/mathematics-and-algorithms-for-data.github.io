@@ -26,7 +26,11 @@ We will have a workshop dinner on Monday the 12th.
 
 ## Registration
 
-If you would like to participate, please registrate [here](https://forms.gle/uE66SHqQqh2i7nYq6).
+If you would like to participate, please registrate [here](https://forms.gle/uE66SHqQqh2i7nYq6). 
+
+## How to get here?
+
+We have information on [travelling to the city of Bath](https://www.bath.ac.uk/guides/travelling-to-the-city-of-bath/) and [getting to the university's Claverton Down campus by bus](https://www.bath.ac.uk/guides/travelling-by-bus-to-the-university-of-bath/).
 
 <!--
 |  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |
