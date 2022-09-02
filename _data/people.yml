@@ -11,6 +11,12 @@ faculty:
     url: "https://researchportal.bath.ac.uk/en/persons/luca-zanetti"
     name:  "Luca Zanetti"
     topics: "algorithms for network analysis, clustering, Markov chains, spectral graph theory"
+  - img: "images/james_f.jpg"
+    url: "https://researchportal.bath.ac.uk/en/persons/james-foster"
+    name:  "James Foster"
+    topics: "stochastic differential equations, 
+machine learning,
+rough path theory"
   - img: "images/yury.jpg"
     url: "https://yury-korolev.gitlab.io/"
     name:  "Yury Korolev"
