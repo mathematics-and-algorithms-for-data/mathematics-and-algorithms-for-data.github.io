@@ -16,7 +16,7 @@ faculty:
     name:  "James Foster"
     topics: "stochastic differential equations, 
 machine learning,
-rough path theory"
+rough analysis"
   - img: "images/yury.jpg"
     url: "https://yury-korolev.gitlab.io/"
     name:  "Yury Korolev"
