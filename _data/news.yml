@@ -1,6 +1,6 @@
 items:
   - date: "2022-09-20"
-    text: "**[Deep learning in environmental settings](https://people.bath.ac.uk/td314/envdl/envDL.html)** Two-day workshop 20-21 September 2022."
+    text: "**[Deep Learning in Environmental Settings](https://people.bath.ac.uk/td314/envdl/envDL.html)** Two-day workshop 20-21 September 2022."
   - date: "2022-09-12"
     text: "**[Statistical Learning and Differential Privacy](/events/workshop_SLDP2022/)** Two-day workshop 12-13 September 2022. "
     critical: true 

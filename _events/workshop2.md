@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: MAD Workshop "Estimating functions from data"
+title: "Estimating functions from data"
 permalink: /events/workshop2/
 start_date: "2021-05-07"
 index: 0
