@@ -9,8 +9,8 @@ The Centre for Mathematics and Algorithms for Data at the University of Bath was
 The Centre is currently led by
 
 - [Neill Campbell](https://ndfcampbell.org/) (Computer Science)
-- [Matthias Ehrhardt](https://mehrhardt.github.io/) (Mathematics)
-- [Tony Shardlow](https://people.bath.ac.uk/tjs42/) (Mathematics)
+- [Matthias Ehrhardt](https://mehrhardt.github.io/) (Mathematical Sciences)
+- [Tony Shardlow](https://people.bath.ac.uk/tjs42/) (Mathematical Sciences)
 
 You can contact us at    <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
