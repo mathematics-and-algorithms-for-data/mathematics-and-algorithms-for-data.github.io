@@ -19,7 +19,7 @@ This workshop is organised by the [Center for Mathematics and Algorithms for Dat
 
 ## Schedule
 
-The workshop schedule can be found [here](https://drive.google.com/file/d/1JtWC5ouXuxrhufN-P83O519LhM2_ZtTE/view?usp=sharing).
+The workshop schedule can be found [here](https://drive.google.com/file/d/1rCCvqKqQVEHfWgJ5Tnd6cE8KM3QSxMRy/view?usp=sharing).
 
 We will have a workshop dinner on Monday the 12th. 
 
