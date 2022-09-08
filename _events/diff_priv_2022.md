@@ -19,7 +19,7 @@ This workshop is organised by the [Center for Mathematics and Algorithms for Dat
 
 ## Schedule
 
-The workshop schedule can be found [here](https://drive.google.com/file/d/1JtWC5ouXuxrhufN-P83O519LhM2_ZtTE/view?usp=sharing).
+The workshop schedule can be found [here](https://drive.google.com/file/d/1rCCvqKqQVEHfWgJ5Tnd6cE8KM3QSxMRy/view?usp=sharing).
 
 We will have a workshop dinner on Monday the 12th. 
 
@@ -38,7 +38,9 @@ We have information on [travelling to the city of Bath](https://www.bath.ac.uk/g
 |9:00am || [TBA](https://www.) *"TBA"* |
 -->
 ## Confirmed Speakers 
-[Clarice Poon](https://cmhsp2.github.io/) (University of Bath), [Antti Honkela](https://www.cs.helsinki.fi/u/ahonkela/) (University of Helsinki), [Antoine Chatalic](https://achatali.gitlab.io/) (University of Genoa), [Marco Avella Medina](https://sites.google.com/site/marcoavellamedina/home) (Columbia University), [Jordan Alexander Awan](https://jordan-awan.com/)* (Purdue University), [Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html) (Imperial College London), [Alice Davis](https://www.linkedin.com/in/alice-davis-837552150/) (Mayden), [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (Oxford), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis)* (Université de Neuchâtel), [Cangxiong Chen](https://scholar.google.com/citations?user=IKbCKlIAAAAJ&hl=en&oi=ao) (Bath)
+[Marco Avella Medina](https://sites.google.com/site/marcoavellamedina/home) (Columbia University),
+[Jordan Alexander Awan](https://jordan-awan.com/)* (Purdue University), [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (Oxford), [Antoine Chatalic](https://achatali.gitlab.io/) (University of Genoa),
+[Cangxiong Chen](https://scholar.google.com/citations?user=IKbCKlIAAAAJ&hl=en&oi=ao) (University of Bath), [Alice Davis](https://www.linkedin.com/in/alice-davis-837552150/) (Mayden), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis)* (Université de Neuchâtel), [Antti Honkela](https://www.cs.helsinki.fi/u/ahonkela/) (University of Helsinki), [Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html) (Imperial College London), [Clarice Poon](https://cmhsp2.github.io/) (University of Bath)
 
 *: This speaker will present virtually.
 
