@@ -45,7 +45,9 @@ We have information on [travelling to the city of Bath](https://www.bath.ac.uk/g
 *: This speaker will present virtually.
 
 ## Abstracts of the talks
-<h4 class="pt-3">TBA</h4>
+<!-- <h4 class="pt-3">TBA</h4> -->
+
+Please find the abstracts of the talks, including a short bio of each speaker [here](https://drive.google.com/file/d/1OAwvcDnx1KKLGCDbCd_WckJHQjOiRLpS/view?usp=sharing).
 
 <!--
 ### Talk 1: Speaker 1 (University 1)
