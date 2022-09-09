@@ -47,7 +47,7 @@ We have information on [travelling to the city of Bath](https://www.bath.ac.uk/g
 ## Abstracts of the talks
 <!-- <h4 class="pt-3">TBA</h4> -->
 
-Please find the abstracts of the talks, including a short bio of each speaker [here](https://drive.google.com/file/d/1OAwvcDnx1KKLGCDbCd_WckJHQjOiRLpS/view?usp=sharing).
+Please find the abstracts of the talks, including a short bio of each speaker [here](https://drive.google.com/file/d/1zVLqaTCNqO3-piW0XP53-P5Dl4-K1QkH/view?usp=sharing).
 
 <!--
 ### Talk 1: Speaker 1 (University 1)
