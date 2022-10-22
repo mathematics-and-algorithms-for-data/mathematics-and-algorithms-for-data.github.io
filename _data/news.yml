@@ -7,31 +7,31 @@ items:
     critical: true 
   - date: "2022-07-26"
     text: "**[Analytical and Geometric Approaches to ML](https://bathsymposium.ac.uk/symposium/analytic-and-geometric-approaches-to-machine-learning/)** Five-day workshop 11-15 July 2022. "
-    critical: true 
+    critical: false
   - date: "2022-04-21"
     text: "**[Maths4DL Launch](https://people.bath.ac.uk/mascjb/maths4dl.html)** To launch Maths4DL, we are organising a two-day hybrid opening workshop on 21st-22nd April. "
-    critical: true 
+    critical: false
   - date: "2021-05-06"
     text: "**[Estimating functions from data](https://mathematics-and-algorithms-for-data.github.io/events/workshop2/)** One-day online  workshop on 11th May 2021. "
-    critical: true     
+    critical: false    
   - date: "2019-09-01"
     text: "We will be having a launch event on Wednesday 13th November, please find details of the event  [here](__/events/launch_event/)."
     critical: false
   - date: "2020-02-11"
     text: "We are organising the LMS-Bath Symposium on the Mathematics of Machine Learning in August 2020, see [here](https://mathml2020.github.io/)."
-    critical: true
+    critical: false
   - date: "2020-03-16"
     text: "In August 2020 we will be running a three week programme on the Mathematics of Machine Learning, see [here](__/events/mathml2020/)."
     critical: true
   - date: "2020-07-28"
     text: "In September 2020 we will host a workshop to bring together the 'imaging' and 'computational PDEs' communities, see [here](https://sites.google.com/view/imaging-pde-2020)."
-    critical: true
+    critical: false
   - date: "2021-04-29"
     text: "On 7th May 2021 we are (virtually) hosting a workshop on different methods and applications of data-driven function estimation in machine learning, see [here](https://mathematics-and-algorithms-for-data.github.io/events/workshop2/) for more details."
-    critical: true
-  - date: "2021-06-07"
-    text: "**SDEs and ML - What should we use where?** This series of targeted workshops, inspired by the science-forward Dagstuhl-style meetings, will be held on Monday 7th June and Monday 5th July at 14:00 - 17:00 BST. "
-    critical: true
+    critical: false
+  - date: "2021-07-05"
+    text: "**SDEs and ML - What should we use where?** This series of targeted workshops, inspired by the science-forward Dagstuhl-style meetings, will be held on [Monday 7th June](/events/SDE2021) and [Monday 5th July](/events/SDE2021_2) at 14:00 - 17:00 BST. "
+    critical: false
   - date: "2021-06-02"
     text: "**[IR Tools](https://github.com/silviagazzola/IRtools)** Training Event for PhD students "
-    critical: true
+    critical: false

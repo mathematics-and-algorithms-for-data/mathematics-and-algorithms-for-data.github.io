@@ -1,12 +1,12 @@
 ---
 layout: default_sparse
-title: "SDEs and ML - What should we use where? (day one)"
-permalink: /events/SDE2021
-start_date: "2021-06-07"
+title: "SDEs and ML - What should we use where? (day two)"
+permalink: /events/SDE2021_2
+start_date: "2021-07-05"
 index: 0
 ---
 
-<h1 style="text-align: center;" class="pb-2">MAD Workshop "SDEs and ML - What should we use where (day one)?"</h1>
+<h1 style="text-align: center;" class="pb-2">MAD Workshop "SDEs and ML - What should we use where? (day two)"</h1>
 
 
 
@@ -14,28 +14,31 @@ Our inspiration is the science-forward “Dagstuhl-style” meetings and our int
 
 Organisers: Neill Campbell, Matthias Ehrhardt, Tony Shardlow.
 
-This is part of a programme of two workshops. The programme for the first workshop is as follows:
+This is a follow-on meeting to the [ MAD workshop on SDEs and ML (day one)](/events/SDE2021).
 
-Monday 7th June 14:00 - 17:00 BST 
+The programme  is as follows:
 
-14:00 - 14:15 Workshop Introduction
+Monday 5th July 14:00 - 17:00 BST 
 
-14:15 - 14:40 Ben Leimkuhler (Edinburgh)
+14:00 - 14:15 Workshop Introduction 
 
-14:40 - 15:05 Arno Solin (Aalto)
+14:15 - 14:40 Tony Shardlow (Bath)  
+
+14:40 - 15:05 Jonas Latz (Cambridge)
 
 15:05 - 15:15 Break for questions/discussions
 
-15:15 - 15:40 Stefan Sommer (Copenhagen)
+15:15 - 15:40 Andris Gerasimovics (Bath)
 
-15:40 - 16:05 Marcelo Pereyra (Heriot-Watt)
+15:40 - 16:05 David Duvenaud (Toronto)
 
 16:05 - 17:00 (and afterwards) Questions and discussions
 
 We will host the workshop on Zoom (invitations sent separately) and there will be breakout rooms with virtual blackboards for group discussions as well as the main channel.
 
-There will be a [follow-on meeting in July](/events/SDE2021_2).
 
+
+|
 
 
 The event is supported by the Departments of [Mathematical Sciences](https://www.bath.ac.uk/departments/department-of-mathematical-sciences/) and [Computer Science](https://www.bath.ac.uk/departments/department-of-computer-science/).
