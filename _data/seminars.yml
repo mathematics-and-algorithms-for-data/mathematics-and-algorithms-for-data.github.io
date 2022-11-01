@@ -1,4 +1,12 @@
 seminars:
+  - title: "Data-driven methods for imaging inverse problems: algorithms and theoretical guarantees"
+    speaker: "Subhadip Mukherjee (Bath)"
+    date: 2022-11-02 16:30
+    location: "4W 1.7 Wolfson"
+  - title: "Markov chain cubature for Bayesian inference"
+    speaker: "James Foster (Bath)"
+    date: 2022-11-02 16:00
+    location: "4W 1.7 Wolfson"
   - title: "Challenges and improvements in optimization algorithms for machine learning"
     speaker: "Coralia Cartis (Oxford)"
     date: 2022-06-14 12:15
