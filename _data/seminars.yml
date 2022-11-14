@@ -1,4 +1,12 @@
 seminars:
+    - title: "Transport maps in Bayesian inverse problems"
+    speaker: "Sergey Dolgov (Bath)"
+    date: 2022-11-16 16:30
+    location: "4W 1.7 Wolfson"
+  - title: "Algorithmic game theory, fixed point, and fair division"
+    speaker: "Jie Zhang (Bath)"
+    date: 2022-11-16 16:00
+    location: "4W 1.7 Wolfson"
   - title: "Data-driven methods for imaging inverse problems: algorithms and theoretical guarantees"
     speaker: "Subhadip Mukherjee (Bath)"
     date: 2022-11-02 16:30
