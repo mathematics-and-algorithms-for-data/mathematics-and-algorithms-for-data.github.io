@@ -1,4 +1,8 @@
 seminars:
+  - title: "Machine learning with probability generating functions"
+    speaker: "Theodore Papamarkou (Manchester)"
+    date: 2022-11-30 16:00
+    location: "CB 3.16"
   - title: "Transport maps in Bayesian inverse problems"
     speaker: "Sergey Dolgov (Bath)"
     date: 2022-11-16 16:30
