@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    
+    <!-- Metadata of the Webpage -->
+    <!-- Character-set Metadata -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Viewport Metadata -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Description Metadata-->
+    <meta name="description" content="Portfolio Website" />
+    <!-- Author Metadata -->
+    <meta name="author" content="Adwaye Rambojun" />
+    <!-- Keyword Metadata -->
+    <meta
+            name="keywords"
+            content="Software guide, ASPAX annotator"
+    />
+    <!-- Webpage Logo -->
+    <link rel="shortcut icon" href="../assets/img/favicon.ico" />
+    <!-- Webpage Title -->
+    <title>ASPAX Annotator User Guide</title>
+    
+    <!-- Import CSS: Main Stylesheet -->
+    <!--    <link rel="stylesheet" href="../../../assets/css/main.css" />-->
+    <link rel="stylesheet" href="../css/malard.css" />
+</head>
+<body>
+
+<div id="particles-js">
+    <div class="header">
+        
+        <h1 class="site-title">
+            ASPAX Annotator User Guide
+            <!--          <span class="site-description">Machine Learning • Medical Imaging • Data Science</span>-->
+        </h1>
+        <h2 style="color: white">
+            Version 0.0.11 (available in dark mode)
+            <!--          <span class="site-description">Machine Learning • Medical Imaging • Data Science</span>-->
+        </h2>
+        
+        <div class="header-links">
+            <a class="link" href="../resources.html">Home &#x2022;</a>
+            <a class="link" href="#Introduction" data-scroll>Introduction &#x2022;</a>
+            <a class="link" href="#Starting_a_project" data-scroll>Loading xrays &#x2022;</a>
+            <a class="link" href="#Annotation" data-scroll>Annotation &#x2022;</a>
+            <a class="link" href="#Scoring" data-scroll>Scoring &#x2022;</a>
+            <a class="link" href="#Image_manip" data-scroll>Image Intensity Variation &#x2022;</a>
+            <a class="link" href="#Troubleshooting" data-scroll>Installation and Troubleshooting</a>
+        </div>
+        
+        
+        <TT>click on the particles!</TT>
+    </div>
+</div>
+
+
+<section id="Introduction">
+    <!-- User Introduction-->
+    <div class="info-box">
+        <h1>Introduction</h1>
+        
+        <p align="left" style="margin:5em">
+            Aspax Annotator is a software for PsA xray annotation and labelling. It allows the user to contour structures
+            (bones and joints) and assign a damage score to the structure identified. As such there are two main
+            features to aspax, namely
+        
+        
+        </p>
+        
+        <ol style="text-align: left; margin-left: 40px;padding-left: 100px">
+            <li><a href="#Annotation">Annotation</a></li>
+            <li><a href="#Scoring">Scoring</a></li>
+        </ol>
+        <div id="file_structure">
+            <h2>File Structure</h2>
+            <p align="left" style="margin:5em">
+                Once the working directory has been set and studies created (see how to set the working directory and add
+                studies
+                <a class="link" href="#Starting_a_project">here</a>), the working directory should look like this (the
+                numbers corresond different study ids):
+            
+            
+            
+            </p>
+            <img src="../img/png/top_folder.png"/>
+            <p align="left" style="margin:5em">
+                ASPAX stores every xray corresponding to one study id (usually this is the anonymised patient id) in the
+                same location. The study folder will look like this:
+            
+            </p>
+            <img src="../img/png/study_folder.png"/>
+            <p align="left" style="margin:5em">
+                Notice that there is a folder for each type of annotation (bone, tissue, joint) and for the scores scores.
+                These folders hold annotations/scores in different folders corresponding to the date
+                that the xray was taken (for PsA, this will usually be the year).
+            </p>
+            <img src="../img/png/structure_folder.png"/>
+            
+            <p align="left" style="margin:5em">
+                ASPAX stores each annotation as a <tt>.txt</tt> file, and each set of scores is stored in a
+                <tt>.csv</tt> file.
+            </p>
+            <h2>Sharing the annotations</h2>
+            <p align="left" style="margin:5em">
+                The aim of ASPAX is to create a labelled dataset for automatic detection and assessment of damage in PsA
+                xrays, and as such the annotations need to be shared with the research team. Unfortunately, this step
+                needs to be done manually, and will be handled in future releases automatically.
+            
+            
+            </p>
+            <p align="left" style="margin:5em">
+                Follow the following steps to share your annotations
+            </p>
+            <ul style="text-align: left; margin-left: 40px;padding-left: 100px">
+                <li>Create an empty folder <tt>temp</tt></li>
+                <li>Copy the study folder whose annotations you want to share/upload to <tt>tmp</tt></li>
+                <li>Delete the images/xrays (usually <tt>png</tt>  or <tt>.jpg</tt> files)</li>
+                <li>Do the same for all studies which you have annotated </li>
+                <li>Upload/share <tt>temp</tt> via your preferred method</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section id="Starting_a_project">
+    <!-- User Introduction-->
+    <div class="info-box">
+        <h1>Loading xrays</h1>
+        <p align="left" style="margin:5em">
+            There are two ways to load xrays into ASPAX, the first is to create a new project, and the second is to load
+            an existing project
+        </p>
+        
+        <h2>Create a new project</h2>
+        <p align="left" style="margin:5em">
+            A project can be started with one xray. It is assumed that the xray in question will correspond to one study
+            or patient id, and that it will have a date of acquisition. To create a new project, we will set the
+            working directory and then create a study from an xray image.
+        </p>
+        <p align="left" style="margin:5em">
+            To change your working directory:
+        </p>
+        <ol style="text-align: left; margin-left: 40px;padding-left: 100px">
+            <li>Click on "Change save location". A file dialog will open.</li>
+            <li>Select the folder where you would like your work to be saved. You can also create a new folder from
+                the dialog</li>
+        </ol>
+        
+        <video  controls>
+            <source src="../img/video/create_new_folder.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        
+        <p align="left" style="margin:5em">
+            To create a new study
+        </p>
+        <ol style="text-align: left; margin-left: 40px;padding-left: 100px">
+            
+            <li>Click on "New Study"- A file dialog will open</li>
+            <li>Select the xrays belonging to the study that you want to create and click open.</li>
+            <li>A dialog asking for the study id, the anatomical structure and the date will appear. This might be
+                pre-filled if the file name follows a certain convention, but in case it isn't you should provide
+                the required information</li>
+            <li>Click on ok. The new study id will appear in the corresponding dropdown list and the xray file name
+                will appear in the xray ID dropdown list.</li>
+        </ol>
+        
+        <video  controls>
+            <source src="../img/video/create_new_study.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        
+        <p align="left" style="margin:5em">
+            To add an xray to an existing study
+        </p>
+        <ol style="text-align: left; margin-left: 40px;padding-left: 100px">
+            <li>Make sure the correct study id is selected from the dropdown</li>
+            <li>Click on "Add X-ray to Study"- A file dialog will open</li>
+            <li>Select the xrays belonging to the study that you have selected and click open.</li>
+            <li>A dialog asking for the study id, the anatomical structure and the date will appear. This might be
+                pre-filled if the file name follows a certain convention, but in case it isn't you should provide
+                the required information. <b>Note that the study id will be pre-filled: do not change this.</b></li>
+            <li>Click on ok. A new xray will be available in the xray id dropdown for the study that you have
+                selected. Note that in the video example, the xray being added corresponds to a different study,
+                but in general only add xrays from same study.</li>
+        </ol>
+        
+        <video  controls>
+            <source src="../img/video/add_xray_to_study.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        
+        <h2>Loading an existing project</h2>
+        <p align="left" style="margin:5em">
+            Collaboration with the MALARD group will usually involve annotating pre-selected xrays, which will be
+            given to you in a ready to annotate state. It might also be the case that you have annotated some xrays
+            and want to continue doing this in a separate session. In both cases, you will have to load an existing
+            project. These are the steps:
+        </p>
+        <ol style="text-align: left; margin-left: 40px;padding-left: 100px">
+            
+            <li>Click on "Change save location". A file dialog will open.</li>
+            <li>Select the folder where the project is saved. This folder should contain study folders as shown <a
+                    href="#file_structure">here</a></li>
+        
+        </ol>
+        
+        <video  controls>
+            <source src="../img/video/initialise_existing_study.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    
+    </div>
+</section>
+
+<section id="Annotation">
+    <!-- User Introduction-->
+    <div class="info-box">
+        <h1>Annotation</h1>
+        <h2>Annotate a bone</h2>
+        
+        
+        <ol style="text-align: left; margin-left: 40px;padding-left: 100px">
+            <li>In the annotation pane, click on "Bone", select the side and enter the name of the bone</li>
+            <li>Note that abbreviations for the joints and bones in the hand are pre-loaded and will appear </li>
+            <li>On the image toolbar (located above the image), select draw polyline.</li>
+            <li>Instructions on how to annotate can be found in our guide (upload coming soon)</li>
+            <li>Click repeatedly around the object you want to contour until the whole contour is drawn</li>
+            <li>Once you are satisfied with the annotation, click save-a dialog will appear showing the location the
+                file was saved.</li>
+            <li>If unsure, click unsure, and it will not save the annotation. </li>
+            <li>Press clear annotation on the image toolbar</li>
+        </ol>
+        <p align="left" style="margin:5em">
+            You are able to move the individual dots on the polyline by holding down <tt>Ctrl</tt>
+        </p>
+        
+        <video  controls>
+            <source src="../img/video/annotate_bone.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <h2>Annotate a Joint</h2>
+        
+        
+        <ol style="text-align: left; margin-left: 40px;padding-left: 100px">
+            <li>In the annotation pane, click on "Joint", select the side and enter the name of the bone</li>
+            <li>Note that abbreviations for the joints and bones in the hand are pre-loaded and will appear </li>
+            <li>On the image toolbar (located above the image), select draw rectangle.</li>
+            <li>Diagonally drag your cursor while holding down on the left button so as to form a rectangle around the
+                joint you want to annotate
+                .</li>
+            <li>A rectangle will appear that can be dragged and resized.</li>
+            <li>Instructions on how to annotate can be found in our guide (upload coming soon)</li>
+            <li>Once you are satisfied with the annotation, click save-a dialog will appear showing the location the
+                file was saved.</li>
+            <li>If unsure, click unsure, and it will not save the annotation. </li>
+            <li>Press clear annotation on the image toolbar</li>
+        </ol>
+        <p align="left" style="margin:5em">
+            Note that a know bug in all versions occurs when one drags the rectangle too far away from its initial point.
+            You are advised to not do this otherwise the program will crash.
+        </p>
+        
+        <video  controls>
+            <source src="../img/video/annotate_joint.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        
+        <h2>View annotations</h2>
+        <p align="left" style="margin:5em"> Simply click on View in the annotation pane. </p>
+        <video  controls>
+            <source src="../img/video/view_all_annot.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    
+    </div>
+</section>
+
+
+
+<section id="Scoring">
+    <!-- User Introduction-->
+    <div class="info-box">
+        <h1>Scoring</h1>
+        
+        <p align="left" style="margin:5em">
+            To score a set of joints:
+        </p>
+        <ol style="text-align: left; margin-left: 40px;padding-left: 100px">
+            <li>Select your scoring type from the Scoring Method dropdown- a second pane will appear with the
+                socring method as heading</li>
+            <li>Click on the new pane.</li>
+            <li>To score one joint, simply select the side and the joint name from the dropdown.</li>
+            <li>Assign scores to the selected joint by moving the sliders. The score will appear in the table below
+                .</li>
+            <li>Click save-the table will be stored in the correct location.</li>
+        </ol>
+        
+        
+        <video  controls>
+            <source src="../img/video/score_joint.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    
+    </div>
+</section>
+
+
+<section id="Image_manip">
+    <!-- User Introduction-->
+    <div class="info-box">
+        <h1>Image Intensity Variation-<tt>New in 0.0.11!</tt></h1>
+        
+        <p align="left" style="margin:5em">
+            One can now control the intensity level of an image through a common radiology trick called intensity
+            windowing. More details can be found <a
+                href="https://radiopaedia.org/articles/windowing-ct?lang=gb">here</a>. To perform windowing on the
+            displayed xray:
+        </a>
+        </p>
+        <ol style="text-align: left; margin-left: 40px;padding-left: 100px">
+            <li>Select the "Manipulate Image" tab. You will now see two sliders, one to control the level (the
+                midpoint of the xray values) and the window (how far away from this midpoint is the intensity value
+                allowed to be).</li>
+            <li>Move either slider. You should see the intensity profile change. This might be slow, as the
+                functionality is still being optimised.</li>
+        </ol>
+        
+        
+        <video  controls>
+            <source src="../img/video/change_intensity.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    
+    </div>
+</section>
+
+
+
+<section id="Troubleshooting">
+    <h1>Installation and troubleshooting</h1>
+    <ul>
+        <li>Downloads for Windows and Mac can be found <a href="../resources.html#software">here</a></li>
+    </ul>
+    <h2>Windows</h2>
+    <ul>
+        <li>To install aspax on Windows, download the <tt>.exe</tt> and double click it. An installer should appear
+            that guides you through the process.</li>
+        <li>When installed on Windows, the ASPAX might take a while to load. To speed this up, go to windows
+            firewall and add ASPAX as an exception. More info on how this can be done can de found <a
+                    href="https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26">here</a>.
+            Another solution is to add the installation path to the windows virus scan exclusion list.
+    
+            <ol>
+            <li> Open Windows Security</li>
+            <li> Select 'Virus & Threat Protection'</li>
+                <li> Select 'Manage Settings' from under 'Virus & threat protection settings'</li>
+                <li> Scroll down to 'Exclusions' and select 'Add or remove exclusion'</li>
+                <li> Select '+ Add an exclusion'</li>
+                <li> Add an exclusion for the relevant folder (i.e. C:\Program Files (x86)\ASPAX Annotator\)</li>
+            </ol>
+        </li>
+        
+        
+    </ul>
+    <h2>MacOs</h2>
+    <ul>
+        <li>To install aspax on MacOS, download the <tt>.dmg</tt> and double click it. A window should appear
+            containing <tt>ASPAX Annotator.app</tt> along with a link to the <tt>Applications</tt> folder. Open the
+            <tt>Applications</tt> folder on finder. Then copy <tt>ASPAX Annotator.app</tt> into <tt>Applications</tt>.
+        </li>
+        <li>To launch aspax for the first time, right click on <tt>ASPAX Annotator.app</tt> in the
+            <tt>Applications</tt> folder and select run. You should be able to launch aspax normally from now on.
+            If you get a "developer cannot be trusted" prompt, repeat the previous step to launch aspax.</li>
+    </ul>
+    
+    <!--    <p align="left" style="margin:5em"><tt>Under construction</tt></p>-->
+</section>
+
+
+
+
+
+
+<footer class="footer">
+    <p>ASPAX was packaged using fbs. More information can be found <a href="https://build-system.fman.io">here</a></p>
+    <p style="text-align:center;margin:5% auto">
+        $\mathfrak{T}$o $\mathfrak{T}$hose $\mathfrak{W}$ho $\mathfrak{B}$elieve $\mathfrak{I}$n $\mathfrak{T}$he
+        $\mathfrak{E}$legance $\mathfrak{O}$f $\mathfrak{T}$he $\mathfrak{U}$niverse
+    </p>
+    <p style="text-align:center;margin:5% auto">Cover Photo: Galaxy NGC 3079 by <a
+            href="https://images.nasa.gov/details-PIA04209">NASA</a>
+    </p>
+</footer>
+
+<!-- Import JS: Particles Theme -->
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<!-- Import JS: Sweet Scroll -->
+<script src="../../../assets/js/sweet-scroll.min.js"></script>
+<!-- Import JS: Google Analytics -->
+
+<!-- Import JS: Main Script -->
+<script src="../../../assets/js/main.js"></script>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>
+    window.MathJax = {
+      loader: {load: ['[tex]/require','[tex]/upgreek','[tex]/ams']},
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        packages:{'[+]': ['upgreek','ams','amsfonts']},
+        tags: 'ams'
+      }
+    };
+   </script>
+<!--<script>
+window.MathJax = {
+loader: {load: ['[tex]/ams']},
+tex: {
+inlineMath: [['$', '$'], ['\\(', '\\)']]
+},
+{packages: {'[+]': ['ams']}}
+};
+</script>
+<script>
+window.MathJax = {
+loader: {load: ['[tex]/upgreek']},
+tex: {packages: {'[+]': ['upgreek']}}
+};
+</script>-->
+
+</body>
+</html>

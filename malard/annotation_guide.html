@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    
+    <!-- Metadata of the Webpage -->
+    <!-- Character-set Metadata -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Viewport Metadata -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Description Metadata-->
+    <meta name="description" content="Portfolio Website" />
+    <!-- Author Metadata -->
+    <meta name="author" content="Adwaye Rambojun" />
+    <!-- Keyword Metadata -->
+    <meta
+            name="keywords"
+            content="Software guide, ASPAX annotator"
+    />
+    <!-- Webpage Logo -->
+    <link rel="shortcut icon" href="../assets/img/favicon.ico" />
+    <!-- Webpage Title -->
+    <title>ASPAX Annotator User Guide</title>
+    
+    <!-- Import CSS: Main Stylesheet -->
+    <!--    <link rel="stylesheet" href="../../../assets/css/main.css" />-->
+    <link rel="stylesheet" href="./css/malard.css" />
+    <link rel="stylesheet" href="./css/slideshow.css" />
+</head>
+<body>
+
+<div id="particles-js">
+    <div class="header">
+        
+        <h1 class="site-title">
+            Annotation Instructions
+            <!--          <span class="site-description">Machine Learning • Medical Imaging • Data Science</span>-->
+        </h1>
+        <h2 style="color: white">
+            
+            <!--          <span class="site-description">Machine Learning • Medical Imaging • Data Science</span>-->
+        </h2>
+        
+        <div class="header-links">
+            <a class="link" href="./resources.html">Home &#x2022;</a>
+            <a class="link" href="#Introduction" data-scroll>Hand anatomy &#x2022;</a>
+            <a class="link" href="#Annotation" data-scroll>Annotation Instructions &#x2022;</a>
+            <a class="link" href="#Wrist" data-scroll>The Wrist &#x2022;</a>
+            <a class="link" href="#Scoring" data-scroll>Scoring &#x2022;</a>
+<!--            <a class="link" href="#Image_manip" data-scroll>Image Intensity Variation &#x2022;</a>-->
+<!--            <a class="link" href="#Troubleshooting" data-scroll>Installation and Troubleshooting</a>-->
+        </div>
+        
+        
+        <TT>click on the particles!</TT>
+    </div>
+</div>
+
+
+<section id="Introduction">
+    <!-- User Introduction-->
+    <a id="hand-anatomy">
+    <div class="slideshow-container">
+        
+        <!-- Full-width images with number and caption text -->
+        <div class="mySlides1 fade">
+            <div class="numbertext">1 / 3</div>
+            <img src="./img/png/handAnatomy.jpg" style="width:100%">
+            <div class="text">The bones of the hands</div>
+        </div>
+        
+        <div class="mySlides1 fade">
+            <div class="numbertext">2 / 3</div>
+            <img src="./img/png/carpal_phalanges_joints.png" style="width:100%">
+            <div class="text">The phalangial joints and bones</div>
+        </div>
+        
+        <a class="prev" onclick="plusSlides(-1,0)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1,0)">&#10095;</a>
+    </div>
+    </a>
+    
+    <div style="text-align:center">
+        <span class="dot1" onclick="currentSlide(1,0)"></span>
+        <span class="dot1" onclick="currentSlide(2,0)"></span>
+        <!--<span class="dot" onclick="currentSlide(3)"></span>-->
+    </div>
+    <div class="info-box">
+        <h1>The anatomy of the hand</h1>
+    
+        <p align="justify" style="margin-right:2em;margin-left:2em;margin-bottom:2em">
+           This page contains instructions on how to annotate hand x-rays to generate training data for machine
+            learning models. We use the ASPAX annotator software, which can be downloaded from
+            <a class="link" href="./resources.html"> here</a>.
+        </p>
+    
+        <h2>Bones of the fingers</h2>
+        <p>
+            Each finger <b><i>(except the thumb)</i></b> is composed of the following bones (by increasing
+            distance from the wrist)  . The thumb only has a distal phalanx (DP) and a proximal phalanx(PP). Every finger
+            has a
+            metacarpal bone (MC) which connects it to the wrist.
+        </p>
+        <ol style="text-align: left; margin-left: 40px;padding-left: 100px">
+            <li>and the metacarpal (MC)</li>
+            <li>the proximal phalanx(PP)</li>
+            <li>the middle phalanx (MP)</li>
+            <li>and the distal phalanx (DP)</li>
+            
+        </ol>
+        <p>
+            The thumb has the following bones (by increasing
+            distance from the wrist)
+        </p>
+        <ol style="text-align: left; margin-left: 40px;padding-left: 100px">
+            <li>the metacarpal (MC)</li>
+            <li>the proximal phalanx(PP)</li>
+            <li>and the distal phalanx (DP)</li>
+            
+        </ol>
+        
+    
+        <h2>Joints of the fingers</h2>
+        <p align="justify" style="margin-right:2em;margin-left:2em;margin-bottom:2em">
+            Each finger <b><i>(except the thumb)</i></b> has the following joints (by increasing distance from the
+            wrist)
+        </p>
+            <ol style="text-align: left; margin-left: 40px;padding-left: 100px">
+            <li>the carpometacarpal joint (CMC)-between the wrist and the metacarpal bone</li>
+            <li>the metacarpophalangeal joint (MCP)-between the metacarpal and the proximal phalanx</li>
+            <li>the proximal interphalangeal joint (PIP)-between the proximal phalanx and the middle phalanx, and the distal</li>
+            <li>interphalangeal joint (DIP)-between the middle phalanx and the distal phalanx.</li>
+            </ol>
+            
+            
+        
+        <p align="justify" style="margin-right:2em;margin-left:2em;margin-bottom:2em">
+            The thumb has the following joints (by increasing distance from the wrist):
+         </p>
+        <ol>
+            <li>Carpometacarpal Joint (CMC)-between the metacarpal and the wrist</li>
+            <li>the
+                metacarpophalangeal joint
+                (MCP)-between the metacarpal and the proximal phalanx</li>
+            <li>and the
+                interphalangeal joint (IP)-between the distal phalanx and the proximal phalanx.</li>
+        </ol>
+        
+        <h2>Bones of the Wrist</h2>
+            <p>
+                The wrist is made up of the following bones:
+                
+            </p>
+        <ol>
+            <li>the hamate,</li>
+            <li>the capitate,</li>
+            <li>the pisiform,</li>
+            <li>the triquetrum,</li>
+            <li>the trapezium,</li>
+            <li>the trapezium,</li>
+            <li>and the scaphoid.</li>
+        </ol>
+        
+        <h2>Abbreviations</h2>
+        <p align="justify" style="margin-right:2em;margin-left:2em;margin-bottom:2em">
+            Each anatomical feature in the hand (shown <a href="#hand-anatomy">here</a>) have their own
+            abbreviations. ASPAX uses the abbreviations to refer to different parts of the hand. Abbreviations for
+            the fingers of the hand usually come with a number attached to point to the finger.
+        </p>
+        <table style="width:80%;margin-left:auto;margin-right:auto;margin-bottom:2em">
+            <tr><th>Full name</th><th>Abbreviation</th>
+            </tr>
+            <tr><td>Distal Phalanx</td><td>DP</td>
+            </tr>
+            <tr><td>Middle Phalanx</td><td>MP</td></tr>
+            <tr><td>Proximal Phalanx</td><td>PP</td></tr>
+            <tr><td>Metacarpal</td><td>MC</td></tr>
+            <tr><td>Distal Interphalangeal Joint</td><td>DIP</td></tr>
+            <tr><td>Proximal Interphalangeal Joint</td><td>PIP</td></tr>
+            <tr><td>Interphalangeal Joint (thumb)</td><td>IP</td></tr>
+            <tr><td>Metacarpophalangeal Joint Joint</td><td>MCP</td></tr>
+            <tr><td>Carpometacarpophalangeal Joint Joint</td><td>CMC</td></tr>
+            <tr><td>Thumb</td><td>1</td></tr>
+            <tr><td>Index Finger</td><td>2</td></tr>
+            <tr><td>Middle Finger</td><td>3</td></tr>
+            <tr><td>Ring Finger</td><td>4</td></tr>
+            <tr><td>Little Finger (not Lord Baelish)</td><td>5</td></tr>
+            <tr></tr>
+        </table>
+        <p>
+            The figure below shows the hand along with the abbreviations for each bone. Note that we do not use
+            abbreviations for the wrist bones.
+        </p>
+    </div></section>
+    
+        <a id="Abbreviations">
+            <div class="slideshow-container">
+                <!-- Full-width images with number and caption text -->
+            
+                <div class="mySlides2 fade">
+                    <div class="numbertext">1 / 3</div>
+                    <img src="./img/png/phalanges_abbr.png" style="width:100%;margin-top:auto">
+                    <div class="text">The annotated bones of the fingers (top view)</div>
+                </div>
+                <div class="mySlides2 fade">
+                    <div class="numbertext">2 / 3</div>
+                    <img src="./img/png/wrist_abbr_left.png" style="width:100%;margin:auto">
+                    <div class="text">The annotated bones of the left wrist (top view)</div>
+                </div>
+                <div class="mySlides2 fade">
+                    <div class="numbertext">3 / 3</div>
+                    <img src="./img/png/wrist_abbr_right.png" style="width:100%;margin:auto">
+                    <div class="text">The annotated bones of the right wrist (top view)</div>
+                </div>
+                <a class="prev" onclick="plusSlides(-1,1)">&#10094;</a>
+                <a class="next" onclick="plusSlides(1,1)">&#10095;</a>
+            </div>
+        </a>
+
+    
+
+<div style="text-align:center">
+            <span class="dot2" onclick="currentSlide(1,1)"></span>
+            <span class="dot2" onclick="currentSlide(2,1)"></span>
+            <span class="dot2" onclick="currentSlide(3,1)"></span>
+        </div>
+        
+        
+        
+
+        
+
+
+ 
+
+
+<section id="Annotation">
+    <!-- User Introduction-->
+    <div class="info-box">
+        <h1>Annotation instructions</h1>
+        <p>ASPAX allows the user to draw polylines or rectangles around areas of interest. The polylines are used to
+        delineate the bones of the hand, while the rectangle is used to highlight joint locations</p>
+
+        <p>More information on how to use ASPAX for annotation can be found <a class="link" href="./software/aspax_0.0.11.html#Annotation">
+            here</a>. Below is a summary of the annotation work scheme.  </p>
+        <h2>Annotating a bone</h2>
+        <p>To annotate a bone, click on bone in the left hand menu, select the which hand you are annotating by
+            clicking on 'L' or 'R'. Then start typing the abbreviation for the bone that you want to annotate. The
+            dropdown should print out suggestions. </p>
+        <p>Next, make sure that you select the polyline option in the top tool pane. The icon should look like two dots joined by a line.
+            </p>
+        <video  controls loop>
+            <source src="./img/video/select_bones.mp4#t=1,11" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+
+        <p>Make sure to start at 9 0'clock on the bone contour and that the point cloud is dense enough. A good way to
+            know if the point cloud is dense enough is to check if the line between two dots is crossing the boundary of
+            the bone. This line should be tangential to the bone contour. To annotate the next bone, clear the current
+            annotations by clicking on the brush icon in the tool pane and
+            repeat the above steps.
+        </p>
+        <h2>Annotating a Joint</h2>
+        <p>To annotate a bone, click on 'Joint' in the left hand menu, select the which hand you are annotating by
+            clicking on 'L' or 'R'. Then start typing the abbreviation for the joint that you want to annotate. The
+            dropdown should print out suggestions. </p>
+        <p>Next, make sure that you select the rectangle option in the top tool pane. The icon should look like a rectangle.
+            When drawing the rectangle, make sure that it is the smallest rectangle that contains the gap between the respective
+            bones. To annotate the next joint, clear the current annotations by clicking on the brush icon in the tool pane and
+            repeat the above steps.</p>
+
+
+
+
+<!--        <h2>Annot</h2>-->
+<!--        <p align="justify" style="margin-right:2em;margin-left:2em;margin-bottom:2em">-->
+<!--        -->
+<!--        </p>-->
+    
+    
+
+<!--        <h2>Create a new project</h2>-->
+<!--        <p align="justify" style="margin-right:2em;margin-left:2em;margin-bottom:2em">-->
+<!--            p-->
+<!--        </p>-->
+<!--        <p align="justify" style="margin-right:2em;margin-left:2em;margin-bottom:2em">-->
+<!--        -->
+<!--        </p>-->
+
+    </div>
+</section>
+
+<section id="Wrist">
+    <!-- User Introduction-->
+    <div class="info-box">
+        <h1>Structures to annotate</h1>
+
+        <table style="width:80%;margin-left:auto;margin-right:auto;margin-bottom:2em">
+            <tr><th>Full name</th><th>Abbreviation</th>
+            </tr>
+            <tr><td>Distal Phalanx</td><td>DP</td>
+            </tr>
+            <tr><td>Middle Phalanx</td><td>MP</td></tr>
+            <tr><td>Proximal Phalanx</td><td>PP</td></tr>
+            <tr><td>Metacarpal</td><td>MC</td></tr>
+            <tr><td>Distal Interphalangeal Joint</td><td>DIP</td></tr>
+            <tr><td>Proximal Interphalangeal Joint</td><td>PIP</td></tr>
+            <tr><td>Interphalangeal Joint (thumb)</td><td>IP</td></tr>
+            <tr><td>Metacarpophalangeal Joint Joint</td><td>MCP</td></tr>
+            <tr><td>Carpometacarpophalangeal Joint Joint</td><td>CMC</td></tr>
+            <tr><td>Capitate-Hamate</td><td>Capitate-Hamate</td></tr>
+            <tr><td>Lunate</td><td>Lunate</td></tr>
+            <tr><td>Radius</td><td>Radius</td></tr>
+            <tr><td>Scaphoid</td><td>Scaphoid</td></tr>
+            <tr><td>Trapezium</td><td>Trapezium</td></tr>
+            <tr><td>Ulna</td><td>Ulna</td></tr>
+            <tr><td></td><td></td></tr>
+
+
+
+            <tr></tr>
+        </table>
+<!--        <p align="justify" style="margin-right:2em;margin-left:2em;margin-bottom:2em">-->
+<!--            You are able to move the individual dots on the polyline by holding down <tt>Ctrl</tt>-->
+<!--        </p>-->
+        
+<!--        <video  controls ">-->
+<!--            <source src="../img/video/annotate_bone.mp4" type="video/mp4">-->
+<!--            Your browser does not support the video tag.-->
+<!--        </video>-->
+<!--        <h2>Annotate a Joint</h2>-->
+<!--        -->
+<!-- -->
+<!--        -->
+<!--        <video  controls>-->
+<!--            <source src="../img/video/annotate_joint.mp4" type="video/mp4">-->
+<!--            Your browser does not support the video tag.-->
+<!--        </video>-->
+        
+
+    
+    </div>
+</section>
+
+
+
+<!--<section id="Scoring">-->
+<!--    &lt;!&ndash; User Introduction&ndash;&gt;-->
+<!--    <div class="info-box">-->
+<!--        <h1>Scoring</h1>-->
+<!--        -->
+
+<!--    -->
+<!--    </div>-->
+<!--</section>-->
+
+
+
+
+
+
+
+
+
+<footer class="footer">
+    <p>ASPAX was packaged using fbs. More information can be found <a href="https://build-system.fman.io">here</a></p>
+    <p style="text-align:center;margin:5% auto">
+        $\mathfrak{T}$o $\mathfrak{T}$hose $\mathfrak{W}$ho $\mathfrak{B}$elieve $\mathfrak{I}$n $\mathfrak{T}$he
+        $\mathfrak{E}$legance $\mathfrak{O}$f $\mathfrak{T}$he $\mathfrak{U}$niverse
+    </p>
+    <p style="text-align:center;margin:5% auto">Cover Photo: Galaxy NGC 3079 by <a
+            href="https://images.nasa.gov/details-PIA04209">NASA</a>
+    </p>
+</footer>
+
+<!-- Import JS: Particles Theme -->
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<!-- Import JS: Sweet Scroll -->
+<script src="../../../assets/js/sweet-scroll.min.js"></script>
+<!-- Import JS: Google Analytics -->
+
+<!-- Import JS: Main Script -->
+<script src="../../../assets/js/main.js"></script>
+<script src="./js/slideshow.js"></script>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>
+    window.MathJax = {
+      loader: {load: ['[tex]/require','[tex]/upgreek','[tex]/ams']},
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        packages:{'[+]': ['upgreek','ams','amsfonts']},
+        tags: 'ams'
+      }
+    };
+   </script>
+<!--<script>
+window.MathJax = {
+loader: {load: ['[tex]/ams']},
+tex: {
+inlineMath: [['$', '$'], ['\\(', '\\)']]
+},
+{packages: {'[+]': ['ams']}}
+};
+</script>
+<script>
+window.MathJax = {
+loader: {load: ['[tex]/upgreek']},
+tex: {packages: {'[+]': ['upgreek']}}
+};
+</script>-->
+
+</body>
+</html>
