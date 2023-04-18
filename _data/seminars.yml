@@ -1,4 +1,8 @@
 seminars:
+  - title: "Spatiotemporal decoding of neural signals"
+    speaker: "Benjamin Metcalfe (Bath)"
+    date: 2023-04-19 16:00
+    location: "3WN 3.7"
   - title: "Isotropic kernels with non-Euclidean metric"
     speaker: "Vangelis Evangelou (Bath)"
     date: 2023-03-08 16:00
