@@ -14,15 +14,21 @@ title: MALARD
 # Who we are
 
 - [Neill Campbell](https://ndfcampbell.org/) Computer Scientist
-- [Adwaye Rambojun](https://people.bath.ac.uk/amr62/) Mathematical Innovation Research Associate
 - [Tony Shardlow](https://people.bath.ac.uk/tjs42/) Mathematician 
 - [Will Tillett](https://researchportal.bath.ac.uk/en/persons/william-tillett) Consultant Rheumatologist 
 - [Allen Paul]()  PhD student 
 
+# Recent members
+
+- [Adwaye Rambojun](https://uk.linkedin.com/in/adwaye-rambojun) 
 
 # Our mission
 
 To exploit machine-learning methodologies for the effective treatment of rheumatic diseases.
+
+![annotated X-ray](/assets/images/fingers.webp)
+
+Assessment of joint damage via X-rays is an essential part of treating and diagnosing various types of arthritis. This task is traditionally undertaken by rheumatologists, which is both time consuming and expensive. Improving the assessment of X-rays has huge potential for advancing precision medicine in arthritis treatment including the potential of improving diagnosis and prognosis, understanding which treatments can help prevent damage to joints and improving trial design for novel therapeutic agents.
 
 # Publications
 
@@ -39,6 +45,10 @@ To exploit machine-learning methodologies for the effective treatment of rheumat
 - [Institute of Mathematical Innovation](https://imibath.ac.uk/) at the University of Bath.
 - [Royal United Hospital](https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/psoriatic_arthritis/index.asp)
 
+
+# Software
+
+[ASPAX](https://github.com/adwaye/aspax) is our annotation tool.
 
 <br>
 <p style="color:grey"><small>
