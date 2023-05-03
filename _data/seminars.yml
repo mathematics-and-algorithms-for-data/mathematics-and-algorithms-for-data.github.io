@@ -1,4 +1,8 @@
 seminars:
+  - title: "Quantum Optimal Control"
+    speaker: "Pranav Singh (Bath)"
+    date: 2023-05-03 16:00
+    location: "4W 1.7 Wolfson"
   - title: "Spatiotemporal decoding of neural signals"
     speaker: "Benjamin Metcalfe (Bath)"
     date: 2023-04-19 16:00
