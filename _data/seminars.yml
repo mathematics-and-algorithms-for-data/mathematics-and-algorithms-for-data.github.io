@@ -1,4 +1,8 @@
 seminars:
+  - title: "Learning with limited data: Few-shot learning and its extensions"
+    speaker: "Da Chen (Bath)"
+    date: 2023-05-17 16:00
+    location: "4W 1.7 Wolfson"
   - title: "Quantum Optimal Control"
     speaker: "Pranav Singh (Bath)"
     date: 2023-05-03 16:00
