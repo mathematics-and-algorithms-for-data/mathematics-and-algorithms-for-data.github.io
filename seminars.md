@@ -19,6 +19,10 @@ We organise a number of seminars based on our common interests. You might also b
       {% if  item.url %}
       	<a href="{{ item.url }}">[url]</a> 
       {% endif %}
+      {% if  item.note %}
+      	<br class="d-xs-block d-lg-block" />
+      	{{ item.note }} 
+      {% endif %}
 			{% if pdf_file_exists == "true" %}
 				<a href="{{ pdf_file }}">[pdf]</a> 
 			{% endif %}

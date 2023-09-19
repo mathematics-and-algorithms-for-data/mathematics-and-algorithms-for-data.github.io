@@ -1,4 +1,9 @@
 seminars:
+  - title: "Motion Estimation using Lifting and Neural Fields"
+    speaker: "Jan Lellmann and Johannes Bostelmann (University of Luebeck)"
+    date: 2023-10-04 16:00
+    location: "4W 1.7 Wolfson"
+    note: "The visit of the seminar speakers is sponsored by Maths4DL."
   - title: "Learning with limited data: Few-shot learning and its extensions"
     speaker: "Da Chen (Bath)"
     date: 2023-05-17 16:00
