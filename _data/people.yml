@@ -3,7 +3,7 @@ faculty:
     url: "https://people.bath.ac.uk/mapamgc"
     name:  "Alexander Cox"
     topics: "Stochastic control, Monte Carlo methods, optimal transport"
-  - img: "images/federico.jpeg"
+  - img: "images/federico.jpg"
     url: "https://researchportal.bath.ac.uk/en/persons/federico-cornalba"
     name:  "Federico Cornalba"
     topics: "Stochastic PDEs, Fluctuating Hydrodynamics, Interacting Particle Systems, Machine Learning"
