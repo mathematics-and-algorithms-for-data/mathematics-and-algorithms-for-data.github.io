@@ -1,9 +1,10 @@
 seminars:
   - title: "Subsampling in Continuous Time: from Optimisation to Sampling"
     speaker: "Jonas Latz (University of Manchester)"
-    date: "2023-10-25 16:15 (note the shift from our usual bi-weekly cycle)"
+    date: 2023-10-25 16:15
     location: "4W 1.7 Wolfson"
-    note: "The visit of the seminar speaker is sponsored by Maths4DL."  
+    note: "(Note the shift from our usual bi-weekly cycle.)  
+    The visit of the seminar speaker is sponsored by Maths4DL."  
   - title: "Motion Estimation using Lifting and Neural Fields"
     speaker: "Jan Lellmann and Johannes Bostelmann (University of Luebeck)"
     date: 2023-10-04 16:00
