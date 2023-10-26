@@ -1,4 +1,8 @@
 seminars:
+  - title: "The Scattering Transform with applications to Quantum Chemistry"
+    speaker: "Georgios Exarchakis (University of Bath)"
+    date: 2023-11-01 16:15
+    location: "4W 1.7 Wolfson"
   - title: "Subsampling in Continuous Time: from Optimisation to Sampling"
     speaker: "Jonas Latz (University of Manchester)"
     date: 2023-10-25 16:15
