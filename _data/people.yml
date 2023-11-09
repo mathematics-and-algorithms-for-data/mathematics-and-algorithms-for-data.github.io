@@ -2,7 +2,7 @@ faculty:
   - img: "images/wenbin.jpeg"
     url: "https://wbli.me/"
     name:  "Wenbin Li"
-    topics: "reinforcement learning; continuous state approximation; unsupervised learning"
+    topics: "reinforcement learning, continuous state approximation, unsupervised learning"
   - img: "images/georgios.jpeg"
     url: "https://exarchakis.net/"
     name:  "Georgios Exarchakis"
