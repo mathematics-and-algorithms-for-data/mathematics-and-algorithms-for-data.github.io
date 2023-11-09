@@ -1,4 +1,12 @@
 faculty:
+  - img: "images/wenbin.jpeg"
+    url: "https://wbli.me/"
+    name:  "Wenbin Li"
+    topics: "reinforcement learning; continuous state approximation; unsupervised learning"
+  - img: "images/georgios.jpeg"
+    url: "https://exarchakis.net/"
+    name:  "Georgios Exarchakis"
+    topics: "Representation Learning, Machine Learning, Signal Processing, Neural Networks"
   - img: "images/alexcox.jpeg"
     url: "https://people.bath.ac.uk/mapamgc"
     name:  "Alexander Cox"
