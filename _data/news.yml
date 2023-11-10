@@ -17,9 +17,9 @@ items:
   - date: "2019-09-01"
     text: "We will be having a launch event on Wednesday 13th November, please find details of the event  [here](__/events/launch_event/)."
     critical: false
-  - date: "2022-03-6"
+  - date: "2024-03-6"
     text: "[ICMS workshop on New Directions for Stochastic Differential Equations and Machine Learning](https://www.icms.org.uk/SDEsandML)."
-    critical: True
+    critical: false
   - date: "2020-02-11"
     text: "We are organising the LMS-Bath Symposium on the Mathematics of Machine Learning in August 2020, see [here](https://mathml2020.github.io/)."
     critical: false
