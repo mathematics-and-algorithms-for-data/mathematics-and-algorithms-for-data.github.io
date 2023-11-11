@@ -22,7 +22,7 @@ faculty:
   - img: "images/oliver_feng.jpeg"
     url: "https://researchportal.bath.ac.uk/en/persons/oliver-feng"
     name:  "Oliver Feng"
-    topics: "nonparametric statistics, shape-constrained inference and approximate message passing"
+    topics: "nonparametric statistics, shape-constrained inference, approximate message passing"
   - img: "images/karim.jpg"
     url: "https://researchportal.bath.ac.uk/en/persons/karim-anaya-izquierdo"
     name:  "Karim Anaya-Izquierdo"
