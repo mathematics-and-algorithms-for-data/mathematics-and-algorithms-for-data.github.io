@@ -19,6 +19,6 @@ permalink: /events/
 
 
 {% for event in sorted %}
-  - [{{ event.title  }}]({{event.url}}){% if event.end_date != nil %} : {{ event.start_date | date: "%d %b"  }}  to  {{ event.end_date | date: "%d %b %Y"  }} {% else %} : {{ event.start_date | date: "%d %b %Y"  }} 
+  - [{{ event.title  }}]({{event.url}}){% if event.end_date != nil %} : {{ event.start_date | date: "%-d %b"  }}  to  {{ event.end_date | date: "%-d %b %Y"  }} {% else %} : {{ event.start_date | date: "%-d %b %Y"  }} 
 {% endif %}
 {% endfor %} 
