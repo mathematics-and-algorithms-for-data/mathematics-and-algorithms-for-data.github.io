@@ -9,7 +9,7 @@ permalink: /events/
 <ul>
 {% for event in sorted %}
  <div future-date="{{ event.end_date | date: '%Y-%m-%d' }}">
-<li>  <p> <a href="{{event.url}}">{{ event.title }} </a>{% if event.end_date != nil %} : {{ event.start_date | date: "%d %b"  }}  to  {{ event.end_date | date: "%d %b %Y"  }} {% else %} : {{ event.start_date | date: "%d %b %Y"  }} 
+<li>  <p> <a href="{{event.url}}">{{ event.title }} </a>{% if event.end_date != nil %} : {{ event.start_date | date: "%-d %b"  }}  to  {{ event.end_date | date: "%-d %b %Y"  }} {% else %} : {{ event.start_date | date: "%-d %b %Y"  }} 
 {% endif %}
 </p></li></div>
 {% endfor %}
