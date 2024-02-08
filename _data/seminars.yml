@@ -1,4 +1,17 @@
 seminars:
+  - title: "TBA"
+    speaker: "Oliver Feng (University of Bath)"
+    date: 2023-05-01 16:15
+    location: "TBC"
+  - title: "TBA"
+    speaker: "Matteo Santacesaria (University of Genoa)"
+    date: 2024-04-17 16:15
+    location: "TBC"
+  - title: "Representation Equivalent Neural Operators: a Framework for Alias-free Operator Learning"
+    speaker: "Francesca Bartolucci (Delft University of Technology)"
+    date: 2024-03-06 16:15
+    location: "4W 1.7 Wolfson"
+    note: "The visit of the seminar speaker is sponsored by Maths4DL."
   - title: "Knowledge-based learning for model parameter selection in linear inverse problems"
     speaker: "Alexandra Koulouri (Tampere University)"
     date: 2024-02-21 16:15
