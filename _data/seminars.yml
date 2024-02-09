@@ -7,6 +7,10 @@ seminars:
     speaker: "Matteo Santacesaria (University of Genoa)"
     date: 2024-04-17 16:15
     location: "TBC"
+  - title: "TBA"
+    speaker: "Rohit Babbar (University of Bath)"
+    date: 2024-03-20 16:15
+    location: "4W 1.7 Wolfson"
   - title: "Representation Equivalent Neural Operators: a Framework for Alias-free Operator Learning"
     speaker: "Francesca Bartolucci (Delft University of Technology)"
     date: 2024-03-06 16:15
