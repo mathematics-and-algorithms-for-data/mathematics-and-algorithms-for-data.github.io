@@ -1,4 +1,8 @@
 seminars:
+  - title: "Action Recognition From Single Timestamp Supervision in Untrimmed Videos"
+    speaker: "Davide Moltisanti (University of Bath)"
+    date: 2024-05-15 16:15
+    location: "4W 1.7 Wolfson"
   - title: "Optimal convex M-estimation via score matching"
     speaker: "Oliver Feng (University of Bath)"
     date: 2024-05-01 16:15
