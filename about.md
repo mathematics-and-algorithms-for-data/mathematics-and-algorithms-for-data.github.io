@@ -9,7 +9,7 @@ The Centre for Mathematics and Algorithms for Data at the University of Bath was
 The Centre is currently led by
 
 - [Matthias Ehrhardt](https://mehrhardt.github.io/) (Mathematical Sciences)
-- [Tom Fincham Haines](https://researchportal.bath.ac.uk/en/persons/tom-fincham-haines) (Computer Science)
+- [Tom Fincham Haines](https://thaines.com/) (Computer Science)
 - [Sandipan Roy](https://roysandipan.github.io/) (Mathematical Sciences)
 
 You can contact us at    <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
