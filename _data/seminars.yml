@@ -26,9 +26,7 @@ seminars:
     location: "4W 1.7 Wolfson"
   - title: "Supervised and unsupervised sampling for approximate linear algebra"
     speaker: "Bertrand Gauthier (Cardiff University)"
-
----
-
+  ---
     date: 2023-11-29 16:15
     location: "4W 1.7 Wolfson"
   - title: "Physics Inspired Graph Neural Networks"
