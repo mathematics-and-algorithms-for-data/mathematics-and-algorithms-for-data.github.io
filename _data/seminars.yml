@@ -1,4 +1,12 @@
 seminars:
+  - title: "UM-Bridge: uncertainty quantification on the Web"
+    speaker: "Sergey Dolgov (University of Bath)"
+    date: 2024-10-17 12:15
+    location: "4W 1.7 Wolfson"
+  - title: "Continual Learning Improves Zero-Shot Action Recognition"
+    speaker: "Davide Moltisanti (University of Bath)"
+    date: 2024-10-17 12:15
+    location: "4W 1.7 Wolfson"
   - title: "Action Recognition From Single Timestamp Supervision in Untrimmed Videos"
     speaker: "Davide Moltisanti (University of Bath)"
     date: 2024-05-15 16:15
