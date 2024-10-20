@@ -1,4 +1,12 @@
 seminars:
+  - title: "Dynamic CT Image Reconstruction with Neural Fields"
+    speaker: "Pablo Arratia Lopez (University of Bath)"
+    date: 2024-10-31 12:15
+    location: "4W 1.7 Wolfson"
+  - title: "Being Prepared: Creating Multi-Level Skill Hierarchies using Graph and Information Theory"
+    speaker: "Scarllette Ellis (University of Bath)"
+    date: 2024-10-31 12:15
+    location: "4W 1.7 Wolfson"
   - title: "UM-Bridge: uncertainty quantification on the Web"
     speaker: "Sergey Dolgov (University of Bath)"
     date: 2024-10-17 12:15
