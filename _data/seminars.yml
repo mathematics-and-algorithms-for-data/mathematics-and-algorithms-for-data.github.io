@@ -1,4 +1,12 @@
 seminars:
+  - title: "Scalable Inexact Algorithms for Bilevel Learning"
+    speaker: "Mohammad Sadegh Salehi (University of Bath)"
+    date: 2024-12-12 12:15
+    location: "4W 1.7 Wolfson"
+  - title: "High-performance FFT based numerical solvers: Applications to dual-scale flow and brittle fracture problems in composite materials"
+    speaker: "Yang Chen (University of Bath)"
+    date: 2024-12-12 12:15
+    location: "4W 1.7 Wolfson"
   - title: "Control and Optimization with Large-Scale Interacting Particle Systems"
     speaker: "Dante Kalise (Imperial College London)"
     date: 2024-11-28 12:15
