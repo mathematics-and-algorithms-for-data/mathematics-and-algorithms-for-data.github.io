@@ -6,7 +6,7 @@ permalink: /seminars/
 
 ## Seminars
 
-We organise a number of seminars based on our common interests. You might also be interested in the seminar series in [Statistics](https://www.bath.ac.uk/research-groups/statistics/), [Numerical Analysis](https://bath-numerical-analysis.github.io/events/current_seminars.html), and [Applied and Interdisciplinary Mathematics (AIMS)](https://wiki.bath.ac.uk/collector/pages.action?key=cnmseminar).
+We organise a number of seminars based on our common interests. It is currently being organised by [Sergey Dolgov](https://people.bath.ac.uk/sd901/) and [Davide Moltisanti](https://www.davidemoltisanti.com/research/). You might also be interested in the seminar series in [Statistics](https://www.bath.ac.uk/research-groups/statistics/), [Numerical Analysis](https://bath-numerical-analysis.github.io/events/current_seminars.html), and [Applied and Interdisciplinary Mathematics (AIMS)](https://wiki.bath.ac.uk/collector/pages.action?key=cnmseminar).
 
 <div class="container">
 {% assign sorted_seminars = site.data.seminars.seminars | sort: 'date' | reverse %}
