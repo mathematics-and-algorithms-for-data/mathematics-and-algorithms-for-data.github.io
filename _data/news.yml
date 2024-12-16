@@ -1,15 +1,15 @@
 items:
   - date: "2025-07-20"
-    text: "[**Maths4DL Conference on Inverse Problems and Deep Learning**, 7-9 July, 2025](https://maths4dl.ac.uk/newsevents/maths4dl-conference-on-inverse-problems-and-deep-learning)."
+    text: "[Maths4DL](https://maths4dl.ac.uk/) conference on [**Inverse Problems and Deep Learning**](https://maths4dl.ac.uk/newsevents/maths4dl-conference-on-inverse-problems-and-deep-learning)."
     critical: false
   - date: "2024-05-20"
-    text: "[ICMS workshop on **Big Data Inverse Problems**, 20-25 May 2024](https://www.icms.org.uk/BigData)."
+    text: "ICMS workshop on [**Big Data Inverse Problems**](https://www.icms.org.uk/BigData)."
     critical: false
   - date: "2024-06-03"
-    text: "[ICMS workshop on **New Directions for Stochastic Differential Equations and Machine Learning**](https://www.icms.org.uk/SDEsandML)."
+    text: "ICMS workshop on [**New Directions for Stochastic Differential Equations and Machine Learning**](https://www.icms.org.uk/SDEsandML)."
     critical: false
   - date: "2024-03-25"
-    text: "**[Dynamics, data, and deep Learning](https://maths4dl.ac.uk/newsevents/dynamics-data-and-deep-learning-workshop-25-26-march-2024/)** Two-day workshop 25-26 March 2024."
+    text: "Two-day workshop on **[Dynamics, data, and deep Learning](https://maths4dl.ac.uk/newsevents/dynamics-data-and-deep-learning-workshop-25-26-march-2024/)**"
     critical: true 
   - date: "2022-09-20"
     text: "**[Deep Learning in Environmental Settings](https://people.bath.ac.uk/td314/envdl/envDL.html)** Two-day workshop 20-21 September 2022."
