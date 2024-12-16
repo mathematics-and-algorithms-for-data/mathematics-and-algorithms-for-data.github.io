@@ -15,6 +15,15 @@ The Centre is currently led by
 You can contact us at    <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
 
+The Centre's steering committee comprises of
+
+- [Neill Campbell](https://ndfcampbell.org/) (Computer Science)
+- [Evangelos Evangelou](https://people.bath.ac.uk/ee224/) (Mathematical Sciences)
+- [Tony Shardlow](https://people.bath.ac.uk/tjs42/) (Mathematical Sciences)
+- [Özgür Şimşek](https://researchportal.bath.ac.uk/en/persons/%C3%B6zg%C3%BCr-%C5%9Fim%C5%9Fek) (Computer Science)
+- [Theresa Smith](https://people.bath.ac.uk/trs35/) (Mathematical Sciences)
+
+
 ## Collaborators
 
 We have a wide range of external collaborators including:
