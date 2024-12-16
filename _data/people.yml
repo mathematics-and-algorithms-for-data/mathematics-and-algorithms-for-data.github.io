@@ -1,4 +1,8 @@
 faculty:
+  - img: "images/michael_murray.jpg"
+    url: "https://mm5110.github.io/"
+    name: "Michael Murray"
+    topics: "machine learning, deep learning"
   - img: "images/wenbin.jpeg"
     url: "https://wbli.me/"
     name:  "Wenbin Li"
